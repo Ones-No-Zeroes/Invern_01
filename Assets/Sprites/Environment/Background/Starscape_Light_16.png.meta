@@ -1,0 +1,6318 @@
+fileFormatVersion: 2
+guid: 972fe610eb8c94f46b56f09a47ee0bd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4933688494006565495
+    second: Starscape_Light_16_0
+  - first:
+      213: -3352962228159096628
+    second: Starscape_Light_16_1
+  - first:
+      213: 5425653651435663940
+    second: Starscape_Light_16_2
+  - first:
+      213: -4082691292324948909
+    second: Starscape_Light_16_3
+  - first:
+      213: 4438787221182854840
+    second: Starscape_Light_16_4
+  - first:
+      213: 3768251160966975153
+    second: Starscape_Light_16_5
+  - first:
+      213: -6049838053541344586
+    second: Starscape_Light_16_6
+  - first:
+      213: -7683995874458423532
+    second: Starscape_Light_16_7
+  - first:
+      213: -7203497785632908630
+    second: Starscape_Light_16_8
+  - first:
+      213: 6221917133435537582
+    second: Starscape_Light_16_9
+  - first:
+      213: -3489942721097474086
+    second: Starscape_Light_16_10
+  - first:
+      213: 1714454115068718631
+    second: Starscape_Light_16_11
+  - first:
+      213: -5431955600095339803
+    second: Starscape_Light_16_12
+  - first:
+      213: 7651127384144688767
+    second: Starscape_Light_16_13
+  - first:
+      213: 3397401711436453309
+    second: Starscape_Light_16_14
+  - first:
+      213: -4719847733777311895
+    second: Starscape_Light_16_15
+  - first:
+      213: 3159462925486553823
+    second: Starscape_Light_16_16
+  - first:
+      213: 4445947235813172592
+    second: Starscape_Light_16_17
+  - first:
+      213: 100690383413979099
+    second: Starscape_Light_16_18
+  - first:
+      213: 95735431417924760
+    second: Starscape_Light_16_19
+  - first:
+      213: 4718864272467736651
+    second: Starscape_Light_16_20
+  - first:
+      213: -9006413697339440901
+    second: Starscape_Light_16_21
+  - first:
+      213: 1763348057710888689
+    second: Starscape_Light_16_22
+  - first:
+      213: -3587493572284307285
+    second: Starscape_Light_16_23
+  - first:
+      213: -2632927837755402322
+    second: Starscape_Light_16_24
+  - first:
+      213: -4134077284775373881
+    second: Starscape_Light_16_25
+  - first:
+      213: 7725553104495420693
+    second: Starscape_Light_16_26
+  - first:
+      213: -3804025836908129687
+    second: Starscape_Light_16_27
+  - first:
+      213: -8663945478022483043
+    second: Starscape_Light_16_28
+  - first:
+      213: -8072404506068762561
+    second: Starscape_Light_16_29
+  - first:
+      213: 1004385332682953959
+    second: Starscape_Light_16_30
+  - first:
+      213: -3707101835855129947
+    second: Starscape_Light_16_31
+  - first:
+      213: -1564582979862218388
+    second: Starscape_Light_16_32
+  - first:
+      213: 3216199107720742950
+    second: Starscape_Light_16_33
+  - first:
+      213: 721268458705117174
+    second: Starscape_Light_16_34
+  - first:
+      213: -1141111043424365141
+    second: Starscape_Light_16_35
+  - first:
+      213: -2795957965616581264
+    second: Starscape_Light_16_36
+  - first:
+      213: -2150025896029082282
+    second: Starscape_Light_16_37
+  - first:
+      213: 2108923290800356289
+    second: Starscape_Light_16_38
+  - first:
+      213: 7295999685349466123
+    second: Starscape_Light_16_39
+  - first:
+      213: 8127198062222372283
+    second: Starscape_Light_16_40
+  - first:
+      213: 7351582824169768118
+    second: Starscape_Light_16_41
+  - first:
+      213: 7206878234378191539
+    second: Starscape_Light_16_42
+  - first:
+      213: 486840215307006549
+    second: Starscape_Light_16_43
+  - first:
+      213: -1546160067428739782
+    second: Starscape_Light_16_44
+  - first:
+      213: 6982006333699521925
+    second: Starscape_Light_16_45
+  - first:
+      213: -4516414246651916329
+    second: Starscape_Light_16_46
+  - first:
+      213: -1569028722996294065
+    second: Starscape_Light_16_47
+  - first:
+      213: 8325678868330564618
+    second: Starscape_Light_16_48
+  - first:
+      213: -8698981085379032298
+    second: Starscape_Light_16_49
+  - first:
+      213: -6916260940086627525
+    second: Starscape_Light_16_50
+  - first:
+      213: -670262196436552517
+    second: Starscape_Light_16_51
+  - first:
+      213: 6375648780424109357
+    second: Starscape_Light_16_52
+  - first:
+      213: -4741441145359514371
+    second: Starscape_Light_16_53
+  - first:
+      213: -3402508046712459557
+    second: Starscape_Light_16_54
+  - first:
+      213: -4065203948611297625
+    second: Starscape_Light_16_55
+  - first:
+      213: -6320152991118824204
+    second: Starscape_Light_16_56
+  - first:
+      213: 7344101059401597926
+    second: Starscape_Light_16_57
+  - first:
+      213: 6283907933218567733
+    second: Starscape_Light_16_58
+  - first:
+      213: 7062070388248096794
+    second: Starscape_Light_16_59
+  - first:
+      213: -798820902110412892
+    second: Starscape_Light_16_60
+  - first:
+      213: -7104660723033259293
+    second: Starscape_Light_16_61
+  - first:
+      213: 8629362126499127753
+    second: Starscape_Light_16_62
+  - first:
+      213: 5048220940993029789
+    second: Starscape_Light_16_63
+  - first:
+      213: 6310925249612346097
+    second: Starscape_Light_16_64
+  - first:
+      213: -8721888798956205123
+    second: Starscape_Light_16_65
+  - first:
+      213: 6979676452904803453
+    second: Starscape_Light_16_66
+  - first:
+      213: 8255511595538025922
+    second: Starscape_Light_16_67
+  - first:
+      213: 5626551923361005801
+    second: Starscape_Light_16_68
+  - first:
+      213: -687992258975071803
+    second: Starscape_Light_16_69
+  - first:
+      213: -8676234262562790608
+    second: Starscape_Light_16_70
+  - first:
+      213: 3092027610662523903
+    second: Starscape_Light_16_71
+  - first:
+      213: -5635144270241940937
+    second: Starscape_Light_16_72
+  - first:
+      213: 6544921320284387959
+    second: Starscape_Light_16_73
+  - first:
+      213: 676889296291305060
+    second: Starscape_Light_16_74
+  - first:
+      213: 4944638672700233700
+    second: Starscape_Light_16_75
+  - first:
+      213: 4039051977629299147
+    second: Starscape_Light_16_76
+  - first:
+      213: -1993780884007983112
+    second: Starscape_Light_16_77
+  - first:
+      213: -2116101586171742015
+    second: Starscape_Light_16_78
+  - first:
+      213: 879178962905470529
+    second: Starscape_Light_16_79
+  - first:
+      213: -7664841998333027898
+    second: Starscape_Light_16_80
+  - first:
+      213: 4698588185458648858
+    second: Starscape_Light_16_81
+  - first:
+      213: 5532570863606945887
+    second: Starscape_Light_16_82
+  - first:
+      213: 6666391597948017930
+    second: Starscape_Light_16_83
+  - first:
+      213: 7286273457478059477
+    second: Starscape_Light_16_84
+  - first:
+      213: -1956832331568958861
+    second: Starscape_Light_16_85
+  - first:
+      213: 7836367595703473059
+    second: Starscape_Light_16_86
+  - first:
+      213: 4406038009474657404
+    second: Starscape_Light_16_87
+  - first:
+      213: 932222358330685128
+    second: Starscape_Light_16_88
+  - first:
+      213: -7030525960657606789
+    second: Starscape_Light_16_89
+  - first:
+      213: 910351470302918331
+    second: Starscape_Light_16_90
+  - first:
+      213: 8078570627021341802
+    second: Starscape_Light_16_91
+  - first:
+      213: -6014993090921218202
+    second: Starscape_Light_16_92
+  - first:
+      213: -5913392270860152546
+    second: Starscape_Light_16_93
+  - first:
+      213: 2161762126496766667
+    second: Starscape_Light_16_94
+  - first:
+      213: 533111240136150239
+    second: Starscape_Light_16_95
+  - first:
+      213: -8961423948406437376
+    second: Starscape_Light_16_96
+  - first:
+      213: -680754766285441158
+    second: Starscape_Light_16_97
+  - first:
+      213: -8040758885230068038
+    second: Starscape_Light_16_98
+  - first:
+      213: -3238538931800884400
+    second: Starscape_Light_16_99
+  - first:
+      213: 7885440525855206133
+    second: Starscape_Light_16_100
+  - first:
+      213: 6705028237850136613
+    second: Starscape_Light_16_101
+  - first:
+      213: 8478933963556941592
+    second: Starscape_Light_16_102
+  - first:
+      213: -6785847488529006619
+    second: Starscape_Light_16_103
+  - first:
+      213: -7674199776439004759
+    second: Starscape_Light_16_104
+  - first:
+      213: -1141797881918363325
+    second: Starscape_Light_16_105
+  - first:
+      213: -575223781808692254
+    second: Starscape_Light_16_106
+  - first:
+      213: 1678064546340633726
+    second: Starscape_Light_16_107
+  - first:
+      213: 4741880878257844717
+    second: Starscape_Light_16_108
+  - first:
+      213: 8876797331749233923
+    second: Starscape_Light_16_109
+  - first:
+      213: 4083131667764065377
+    second: Starscape_Light_16_110
+  - first:
+      213: 5483728978348993134
+    second: Starscape_Light_16_111
+  - first:
+      213: 7460452311719437537
+    second: Starscape_Light_16_112
+  - first:
+      213: -3573562205220729524
+    second: Starscape_Light_16_113
+  - first:
+      213: 340186393865169972
+    second: Starscape_Light_16_114
+  - first:
+      213: 3566340081276805278
+    second: Starscape_Light_16_115
+  - first:
+      213: 815038469493275031
+    second: Starscape_Light_16_116
+  - first:
+      213: 6328539242059902234
+    second: Starscape_Light_16_117
+  - first:
+      213: -3076376348247363423
+    second: Starscape_Light_16_118
+  - first:
+      213: -6018565075241960853
+    second: Starscape_Light_16_119
+  - first:
+      213: -3291588079326868645
+    second: Starscape_Light_16_120
+  - first:
+      213: -7621797089831567737
+    second: Starscape_Light_16_121
+  - first:
+      213: -7979188045819762539
+    second: Starscape_Light_16_122
+  - first:
+      213: 6273178576971698927
+    second: Starscape_Light_16_123
+  - first:
+      213: -2454861259733846655
+    second: Starscape_Light_16_124
+  - first:
+      213: 7481785389028291141
+    second: Starscape_Light_16_125
+  - first:
+      213: 5617847721522965429
+    second: Starscape_Light_16_126
+  - first:
+      213: -7873072551684770399
+    second: Starscape_Light_16_127
+  - first:
+      213: -3914218597563966780
+    second: Starscape_Light_16_128
+  - first:
+      213: -5145786550702917401
+    second: Starscape_Light_16_129
+  - first:
+      213: -7912323575050924697
+    second: Starscape_Light_16_130
+  - first:
+      213: -6624558319560935094
+    second: Starscape_Light_16_131
+  - first:
+      213: -5418531036184113971
+    second: Starscape_Light_16_132
+  - first:
+      213: -4465885662318476487
+    second: Starscape_Light_16_133
+  - first:
+      213: 4923493836908721576
+    second: Starscape_Light_16_134
+  - first:
+      213: 3141809234341301270
+    second: Starscape_Light_16_135
+  - first:
+      213: 4071486804611121775
+    second: Starscape_Light_16_136
+  - first:
+      213: 3166301154773528973
+    second: Starscape_Light_16_137
+  - first:
+      213: -1216114988156509246
+    second: Starscape_Light_16_138
+  - first:
+      213: 7352653477234641402
+    second: Starscape_Light_16_139
+  - first:
+      213: 3272708693795829758
+    second: Starscape_Light_16_140
+  - first:
+      213: 6786337920340795288
+    second: Starscape_Light_16_141
+  - first:
+      213: -867770971291452823
+    second: Starscape_Light_16_142
+  - first:
+      213: 4089119213180474493
+    second: Starscape_Light_16_143
+  - first:
+      213: 2121974256351830427
+    second: Starscape_Light_16_144
+  - first:
+      213: 2335691023290832095
+    second: Starscape_Light_16_145
+  - first:
+      213: 5693888279843496748
+    second: Starscape_Light_16_146
+  - first:
+      213: 6502281159164534426
+    second: Starscape_Light_16_147
+  - first:
+      213: 7702665900086711859
+    second: Starscape_Light_16_148
+  - first:
+      213: 8353445844571065746
+    second: Starscape_Light_16_149
+  - first:
+      213: -5982208087579334910
+    second: Starscape_Light_16_150
+  - first:
+      213: 7810579101037820258
+    second: Starscape_Light_16_151
+  - first:
+      213: 8837649240225807435
+    second: Starscape_Light_16_152
+  - first:
+      213: -7883200877565381384
+    second: Starscape_Light_16_153
+  - first:
+      213: -4304523965599192241
+    second: Starscape_Light_16_154
+  - first:
+      213: -4616956526780191368
+    second: Starscape_Light_16_155
+  - first:
+      213: -5439532572385539785
+    second: Starscape_Light_16_156
+  - first:
+      213: 749450926258875635
+    second: Starscape_Light_16_157
+  - first:
+      213: 8978468741601782637
+    second: Starscape_Light_16_158
+  - first:
+      213: -8983845651939565639
+    second: Starscape_Light_16_159
+  - first:
+      213: 6580972932928510425
+    second: Starscape_Light_16_160
+  - first:
+      213: 2534680482460325042
+    second: Starscape_Light_16_161
+  - first:
+      213: 5514909777941488586
+    second: Starscape_Light_16_162
+  - first:
+      213: 1210795086409678579
+    second: Starscape_Light_16_163
+  - first:
+      213: 4311842131550319013
+    second: Starscape_Light_16_164
+  - first:
+      213: -2993148507097804658
+    second: Starscape_Light_16_165
+  - first:
+      213: 7910988138250060010
+    second: Starscape_Light_16_166
+  - first:
+      213: -1001220068077413257
+    second: Starscape_Light_16_167
+  - first:
+      213: -8162052997336792682
+    second: Starscape_Light_16_168
+  - first:
+      213: 52210992566258840
+    second: Starscape_Light_16_169
+  - first:
+      213: -7974274645372732366
+    second: Starscape_Light_16_170
+  - first:
+      213: 4516266852544639178
+    second: Starscape_Light_16_171
+  - first:
+      213: 3502116797329449299
+    second: Starscape_Light_16_172
+  - first:
+      213: 2125950800368545124
+    second: Starscape_Light_16_173
+  - first:
+      213: 5412336399581868563
+    second: Starscape_Light_16_174
+  - first:
+      213: -1722186879190590689
+    second: Starscape_Light_16_175
+  - first:
+      213: -1512212987837137117
+    second: Starscape_Light_16_176
+  - first:
+      213: 7900385363300447989
+    second: Starscape_Light_16_177
+  - first:
+      213: -7669290095301183286
+    second: Starscape_Light_16_178
+  - first:
+      213: -6689804949435452476
+    second: Starscape_Light_16_179
+  - first:
+      213: 7218048891686590723
+    second: Starscape_Light_16_180
+  - first:
+      213: 5176216545112493744
+    second: Starscape_Light_16_181
+  - first:
+      213: 8072349181583870162
+    second: Starscape_Light_16_182
+  - first:
+      213: -8616265398848549785
+    second: Starscape_Light_16_183
+  - first:
+      213: 6655497008788982097
+    second: Starscape_Light_16_184
+  - first:
+      213: 6609648769280351503
+    second: Starscape_Light_16_185
+  - first:
+      213: -8387544593842767735
+    second: Starscape_Light_16_186
+  - first:
+      213: 1494881175363579685
+    second: Starscape_Light_16_187
+  - first:
+      213: -7319798858315177399
+    second: Starscape_Light_16_188
+  - first:
+      213: 7916737584272992303
+    second: Starscape_Light_16_189
+  - first:
+      213: 3720632288404952033
+    second: Starscape_Light_16_190
+  - first:
+      213: -1996576838498317708
+    second: Starscape_Light_16_191
+  - first:
+      213: -5004893089087092845
+    second: Starscape_Light_16_192
+  - first:
+      213: 1351627751875672652
+    second: Starscape_Light_16_193
+  - first:
+      213: -1864929508834589263
+    second: Starscape_Light_16_194
+  - first:
+      213: -9062153501148731269
+    second: Starscape_Light_16_195
+  - first:
+      213: 7838963033671475733
+    second: Starscape_Light_16_196
+  - first:
+      213: 7132751273906709800
+    second: Starscape_Light_16_197
+  - first:
+      213: 3596219297804387913
+    second: Starscape_Light_16_198
+  - first:
+      213: 4446093728665156150
+    second: Starscape_Light_16_199
+  - first:
+      213: -3905178937127708676
+    second: Starscape_Light_16_200
+  - first:
+      213: 5549622262686234509
+    second: Starscape_Light_16_201
+  - first:
+      213: 5385335714674143823
+    second: Starscape_Light_16_202
+  - first:
+      213: -6772110811894160799
+    second: Starscape_Light_16_203
+  - first:
+      213: -936006237258913263
+    second: Starscape_Light_16_204
+  - first:
+      213: -6530886849443964612
+    second: Starscape_Light_16_205
+  - first:
+      213: 4493280364739014295
+    second: Starscape_Light_16_206
+  - first:
+      213: -3234112678022200114
+    second: Starscape_Light_16_207
+  - first:
+      213: 8585866280383525406
+    second: Starscape_Light_16_208
+  - first:
+      213: -9188110355147137786
+    second: Starscape_Light_16_209
+  - first:
+      213: -5060035185467029143
+    second: Starscape_Light_16_210
+  - first:
+      213: 5396756345027067354
+    second: Starscape_Light_16_211
+  - first:
+      213: 8940486670399001145
+    second: Starscape_Light_16_212
+  - first:
+      213: -1039126074940628377
+    second: Starscape_Light_16_213
+  - first:
+      213: -5819602900415152482
+    second: Starscape_Light_16_214
+  - first:
+      213: -1849889075827096020
+    second: Starscape_Light_16_215
+  - first:
+      213: 6676011450230531581
+    second: Starscape_Light_16_216
+  - first:
+      213: 6312962186848667103
+    second: Starscape_Light_16_217
+  - first:
+      213: 4178408934545647811
+    second: Starscape_Light_16_218
+  - first:
+      213: -5872616650828352769
+    second: Starscape_Light_16_219
+  - first:
+      213: -7698120246072981850
+    second: Starscape_Light_16_220
+  - first:
+      213: -6606983751924727439
+    second: Starscape_Light_16_221
+  - first:
+      213: -2034206374996781539
+    second: Starscape_Light_16_222
+  - first:
+      213: 1500364973982183144
+    second: Starscape_Light_16_223
+  - first:
+      213: 7375239062971025073
+    second: Starscape_Light_16_224
+  - first:
+      213: 5059765649832846720
+    second: Starscape_Light_16_225
+  - first:
+      213: 7497116744235132619
+    second: Starscape_Light_16_226
+  - first:
+      213: -3042187179145278638
+    second: Starscape_Light_16_227
+  - first:
+      213: -9201693873469771948
+    second: Starscape_Light_16_228
+  - first:
+      213: -5764653933492087378
+    second: Starscape_Light_16_229
+  - first:
+      213: 2507499815754458760
+    second: Starscape_Light_16_230
+  - first:
+      213: -6602020132615099638
+    second: Starscape_Light_16_231
+  - first:
+      213: 8709977105839084434
+    second: Starscape_Light_16_232
+  - first:
+      213: 1410908664084775243
+    second: Starscape_Light_16_233
+  - first:
+      213: -952296788157972715
+    second: Starscape_Light_16_234
+  - first:
+      213: 2726364395327123120
+    second: Starscape_Light_16_235
+  - first:
+      213: -6842464958148754225
+    second: Starscape_Light_16_236
+  - first:
+      213: 6334584919117579553
+    second: Starscape_Light_16_237
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Starscape_Light_16_0
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1053
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9858e4a5474088bb0800000000000000
+      internalID: -4933688494006565495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_1
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1051
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc856454e92e771d0800000000000000
+      internalID: -3352962228159096628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_2
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1059
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442bf18ef3bcb4b40800000000000000
+      internalID: 5425653651435663940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1049
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354146196ed5757c0800000000000000
+      internalID: -4082691292324948909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1039
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6b520c57db99d30800000000000000
+      internalID: 4438787221182854840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_5
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1044
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bec3e147748b4430800000000000000
+      internalID: 3768251160966975153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1035
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba070ef758aa0ca0800000000000000
+      internalID: -6049838053541344586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_7
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1041
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fa657b676fc5590800000000000000
+      internalID: -7683995874458423532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1027
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa99030ee8080c90800000000000000
+      internalID: -7203497785632908630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1024
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea88750faa0b85650800000000000000
+      internalID: 6221917133435537582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_10
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1029
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf568ee59b319fc0800000000000000
+      internalID: -3489942721097474086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1018
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ea0602fe6fac710800000000000000
+      internalID: 1714454115068718631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_12
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1011
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea9f945921dd94b0800000000000000
+      internalID: -5431955600095339803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_13
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1010
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76353781d34e2a60800000000000000
+      internalID: 7651127384144688767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_14
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1010
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db559793bdef52f20800000000000000
+      internalID: 3397401711436453309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_15
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1004
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96755423e7bbf7eb0800000000000000
+      internalID: -4719847733777311895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_16
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 995
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda74aa8acaa8db20800000000000000
+      internalID: 3159462925486553823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_17
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1001
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07526c0947d23bd30800000000000000
+      internalID: 4445947235813172592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 986
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd720b7ce59b56100800000000000000
+      internalID: 100690383413979099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_19
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 990
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c851e1ede145100800000000000000
+      internalID: 95735431417924760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_20
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 990
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48b8bfdd06cc7140800000000000000
+      internalID: 4718864272467736651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_21
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 983
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0ced5d57ac20380800000000000000
+      internalID: -9006413697339440901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_22
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 982
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f68b3347bba87810800000000000000
+      internalID: 1763348057710888689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_23
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 970
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba82ff57a99a63ec0800000000000000
+      internalID: -3587493572284307285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_24
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea71a57d416f57bd0800000000000000
+      internalID: -2632927837755402322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_25
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 958
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3d3fedc9ec0a6c0800000000000000
+      internalID: -4134077284775373881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_26
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 962
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515add6ed9da63b60800000000000000
+      internalID: 7725553104495420693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_27
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 958
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962deaae7a2653bc0800000000000000
+      internalID: -3804025836908129687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_28
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 931
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d933e15cd7b73c780800000000000000
+      internalID: -8663945478022483043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_29
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 941
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3042840fde09ff80800000000000000
+      internalID: -8072404506068762561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_30
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 936
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e41e2c732b40fd00800000000000000
+      internalID: 1004385332682953959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_31
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 925
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a218a7758abd8cc0800000000000000
+      internalID: -3707101835855129947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_32
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 917
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69b0bfb11c794ae0800000000000000
+      internalID: -1564582979862218388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_33
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 908
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6288f9e5c0c32ac20800000000000000
+      internalID: 3216199107720742950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_34
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 915
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffdfcc77d5720a00800000000000000
+      internalID: 721268458705117174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_35
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 906
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba55a674d85f920f0800000000000000
+      internalID: -1141111043424365141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_36
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 890
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075ff7c3b03c239d0800000000000000
+      internalID: -2795957965616581264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_37
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 897
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dab41c6d29922e0800000000000000
+      internalID: -2150025896029082282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_38
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 882
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbf3b63f86644d10800000000000000
+      internalID: 2108923290800356289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_39
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 863
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00ed96de09904560800000000000000
+      internalID: 7295999685349466123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_40
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 869
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbde10ee39b99c070800000000000000
+      internalID: 8127198062222372283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_41
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 871
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b48083d0a1160660800000000000000
+      internalID: 7351582824169768118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_42
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 872
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b24b9b0299f30460800000000000000
+      internalID: 7206878234378191539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_43
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 861
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552bfbfa89a91c600800000000000000
+      internalID: 486840215307006549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_44
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 861
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35140f4c9fea8ae0800000000000000
+      internalID: -1546160067428739782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_45
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 864
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dffaba4c115e060800000000000000
+      internalID: 6982006333699521925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_46
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 864
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df8cc1fb297251c0800000000000000
+      internalID: -4516414246651916329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_47
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 854
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ecb6380b0b93ae0800000000000000
+      internalID: -1569028722996294065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_48
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 855
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cc1d4c1d0ca8370800000000000000
+      internalID: 8325678868330564618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_49
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 849
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b0422cac2074780800000000000000
+      internalID: -8698981085379032298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_50
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 846
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b333a34a1518400a0800000000000000
+      internalID: -6916260940086627525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_51
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 836
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4b6036510c2b6f0800000000000000
+      internalID: -670262196436552517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_52
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 811
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dd4d149cada7850800000000000000
+      internalID: 6375648780424109357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_53
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 809
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4cc674664033eb0800000000000000
+      internalID: -4741441145359514371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_54
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 814
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdeab4275fcd7c0d0800000000000000
+      internalID: -3402508046712459557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_55
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 809
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae128f0c8e7597c0800000000000000
+      internalID: -4065203948611297625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_56
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 806
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc6d36175e4a48a0800000000000000
+      internalID: -6320152991118824204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_57
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 806
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3c338b00d7be560800000000000000
+      internalID: 7344101059401597926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_58
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 801
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53670c0c8fce43750800000000000000
+      internalID: 6283907933218567733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_59
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 797
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1035560a93810260800000000000000
+      internalID: 7062070388248096794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_60
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 780
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af3d823f940ae4f0800000000000000
+      internalID: -798820902110412892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_61
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 780
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2cee9e6bc276d90800000000000000
+      internalID: -7104660723033259293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_62
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 781
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1a03c3227a1c770800000000000000
+      internalID: 8629362126499127753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_63
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 766
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96e39ff232ee0640800000000000000
+      internalID: 5048220940993029789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_64
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 773
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2ff2be319e49750800000000000000
+      internalID: 6310925249612346097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_65
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 766
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbc1cf0950a5f680800000000000000
+      internalID: -8721888798956205123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_66
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 760
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c9c8601caccd060800000000000000
+      internalID: 6979676452904803453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_67
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 762
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd892b7e08719270800000000000000
+      internalID: 8255511595538025922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_68
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 747
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0493ed927851e40800000000000000
+      internalID: 5626551923361005801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_69
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 744
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c182938fa2c376f0800000000000000
+      internalID: -687992258975071803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_70
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 749
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0332fd728e2d79780800000000000000
+      internalID: -8676234262562790608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_71
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 730
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff35d39cab619ea20800000000000000
+      internalID: 3092027610662523903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_72
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 736
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ab62a7422fbc1b0800000000000000
+      internalID: -5635144270241940937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_73
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 740
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a7e6aa34b34da50800000000000000
+      internalID: 6544921320284387959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 723
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46615b98a3bc46900800000000000000
+      internalID: 676889296291305060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_75
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 724
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7d4fccca2ee9440800000000000000
+      internalID: 4944638672700233700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_76
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 719
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1fee3bf589d0830800000000000000
+      internalID: 4039051977629299147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_77
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 710
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f76db879daa454e0800000000000000
+      internalID: -1993780884007983112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_78
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 713
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8b797a1d812a2e0800000000000000
+      internalID: -2116101586171742015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_79
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 704
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1461af1db98733c00800000000000000
+      internalID: 879178962905470529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_80
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 699
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c95dd500d201a590800000000000000
+      internalID: -7664841998333027898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_81
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 700
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a172c1c7f0db43140800000000000000
+      internalID: 4698588185458648858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_82
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 683
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58d7fb33e3a7cc40800000000000000
+      internalID: 5532570863606945887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_83
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 687
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d175996d7c38c50800000000000000
+      internalID: 6666391597948017930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_84
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 689
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d54651fa1b0e1560800000000000000
+      internalID: 7286273457478059477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_85
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 674
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37235d7bc5fe7d4e0800000000000000
+      internalID: -1956832331568958861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_86
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 679
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a399473fce50cc60800000000000000
+      internalID: 7836367595703473059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_87
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 676
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c2b95b934652d30800000000000000
+      internalID: 4406038009474657404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 658
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c63af7bb4befec00800000000000000
+      internalID: 932222358330685128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_89
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 657
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7767da53ed8e6e90800000000000000
+      internalID: -7030525960657606789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_90
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 661
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6f828c6d732ac00800000000000000
+      internalID: 910351470302918331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_91
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 657
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a640384ee29dc1070800000000000000
+      internalID: 8078570627021341802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_92
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 659
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f363117a3768ca0800000000000000
+      internalID: -6014993090921218202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_93
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 650
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1117d56f096feda0800000000000000
+      internalID: -5913392270860152546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_94
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 643
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca9bb6533f100e10800000000000000
+      internalID: 2161762126496766667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_95
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 643
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc451e29ddf56700800000000000000
+      internalID: 533111240136150239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_96
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 642
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a4e890660a2a380800000000000000
+      internalID: -8961423948406437376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_97
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 618
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77f66895297d86f0800000000000000
+      internalID: -680754766285441158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_98
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 626
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abebb49456c796090800000000000000
+      internalID: -8040758885230068038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 614
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b3cb200066e03d0800000000000000
+      internalID: -3238538931800884400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_100
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 617
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faa1112166be6d60800000000000000
+      internalID: 7885440525855206133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_101
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 614
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520550658ab0d0d50800000000000000
+      internalID: 6705028237850136613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_102
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 612
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f6ecb34893ba570800000000000000
+      internalID: 8478933963556941592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_103
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 617
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef704289a3d3d1a0800000000000000
+      internalID: -6785847488529006619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_104
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 605
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a198f586f3cf7590800000000000000
+      internalID: -7674199776439004759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_105
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 587
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34966fa30e48720f0800000000000000
+      internalID: -1141797881918363325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_106
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 574
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3afe2a4056408f0800000000000000
+      internalID: -575223781808692254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_107
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c7fca60dea94710800000000000000
+      internalID: 1678064546340633726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_108
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 568
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1b6c3098b8ec140800000000000000
+      internalID: 4741880878257844717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_109
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 569
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3056c065428b03b70800000000000000
+      internalID: 8876797331749233923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_110
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 562
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164b9345e923aa830800000000000000
+      internalID: 4083131667764065377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_111
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 562
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ae107a37e1a1c40800000000000000
+      internalID: 5483728978348993134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_112
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 559
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e467cfa9d9d88760800000000000000
+      internalID: 7460452311719437537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_113
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 552
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d8e0f9b18286ec0800000000000000
+      internalID: -3573562205220729524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_114
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 559
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c21cb09b598b400800000000000000
+      internalID: 340186393865169972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_115
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 554
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90edbc986f2e7130800000000000000
+      internalID: 3566340081276805278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_116
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 556
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799bc647b299f4b00800000000000000
+      internalID: 815038469493275031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_117
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 551
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1da91e19ec73d750800000000000000
+      internalID: 6328539242059902234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_118
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 541
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a07d47b2048e45d0800000000000000
+      internalID: -3076376348247363423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_119
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 526
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a71a8a3f2c97ca0800000000000000
+      internalID: -6018565075241960853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_120
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 533
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bcfc8d41ee152d0800000000000000
+      internalID: -3291588079326868645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_121
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 511
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ebb76cdefe93690800000000000000
+      internalID: -7621797089831567737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_122
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 517
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598aed47fba344190800000000000000
+      internalID: -7979188045819762539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_123
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 508
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe21df4ddaece0750800000000000000
+      internalID: 6273178576971698927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_124
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 506
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18532b0d0b49eedd0800000000000000
+      internalID: -2454861259733846655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_125
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 498
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5423dbecb24a4d760800000000000000
+      internalID: 7481785389028291141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_126
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 488
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb2d93fcba96fd40800000000000000
+      internalID: 5617847721522965429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_127
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 487
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a573f14a3a3db290800000000000000
+      internalID: -7873072551684770399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_128
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 478
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cad8f68ce6eda9c0800000000000000
+      internalID: -3914218597563966780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_129
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 465
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8be5b456e7698b0800000000000000
+      internalID: -5145786550702917401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_130
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 461
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d042931a7c13290800000000000000
+      internalID: -7912323575050924697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_131
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 465
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4936b88e47d014a0800000000000000
+      internalID: -6624558319560935094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_132
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 456
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc01df2bb28dc4b0800000000000000
+      internalID: -5418531036184113971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_133
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 449
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9334ff1c6acf502c0800000000000000
+      internalID: -4465885662318476487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_134
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 436
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5f4c21f83c35440800000000000000
+      internalID: 4923493836908721576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_135
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 441
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c84f44ad2f99b20800000000000000
+      internalID: 3141809234341301270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_136
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 437
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6249885da3d08830800000000000000
+      internalID: 4071486804611121775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_137
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 433
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d817f2edf16f0fb20800000000000000
+      internalID: 3166301154773528973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_138
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 428
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c327ec8cdd7f1fe0800000000000000
+      internalID: -1216114988156509246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_139
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 433
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af98c1ba16fd90660800000000000000
+      internalID: 7352653477234641402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_140
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 422
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7780ba73ffa6d20800000000000000
+      internalID: 3272708693795829758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_141
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 419
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f1dab026aed2e50800000000000000
+      internalID: 6786337920340795288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_142
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 408
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96af6c536ee05f3f0800000000000000
+      internalID: -867770971291452823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_143
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 413
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74d8d162487fb830800000000000000
+      internalID: 4089119213180474493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_144
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 413
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91ef5ce754c27d10800000000000000
+      internalID: 2121974256351830427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_145
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 405
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd491545c9a0a6020800000000000000
+      internalID: 2335691023290832095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_146
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23e4d61931c40f40800000000000000
+      internalID: 5693888279843496748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_147
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 394
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e97b1834ebc3a50800000000000000
+      internalID: 6502281159164534426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_148
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 388
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336de2e53dd55ea60800000000000000
+      internalID: 7702665900086711859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_149
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 392
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d0f18bcb66de370800000000000000
+      internalID: 8353445844571065746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_150
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 379
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2076d5f707deafca0800000000000000
+      internalID: -5982208087579334910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_151
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 381
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269f2776f40c46c60800000000000000
+      internalID: 7810579101037820258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_152
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 382
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cf82df823a5aa70800000000000000
+      internalID: 8837649240225807435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_153
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 381
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4faaf919e399290800000000000000
+      internalID: -7883200877565381384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_154
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 382
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bed4772424344c0800000000000000
+      internalID: -4304523965599192241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_155
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 380
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d68d520864defb0800000000000000
+      internalID: -4616956526780191368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_156
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 367
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7390bcef1f5e284b0800000000000000
+      internalID: -5439532572385539785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_157
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 368
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc6f3c85a5966a00800000000000000
+      internalID: 749450926258875635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_158
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 370
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b6f1220cde99c70800000000000000
+      internalID: 8978468741601782637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_159
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 374
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf543f5af7f25380800000000000000
+      internalID: -8983845651939565639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_160
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 367
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d91aa7d300545b50800000000000000
+      internalID: 6580972932928510425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_161
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 374
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4d920387efc2320800000000000000
+      internalID: 2534680482460325042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_162
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 361
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3e78a4935e88c40800000000000000
+      internalID: 5514909777941488586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_163
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 364
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3febc3d47bb9dc010800000000000000
+      internalID: 1210795086409678579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_164
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 363
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1be92d29db6db30800000000000000
+      internalID: 4311842131550319013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_165
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80d17a8a433676d0800000000000000
+      internalID: -2993148507097804658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_166
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 345
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae049ba2cc979cd60800000000000000
+      internalID: 7910988138250060010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_167
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cd04c17a3fa12f0800000000000000
+      internalID: -1001220068077413257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_168
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 331
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69104d71b009abe80800000000000000
+      internalID: -8162052997336792682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_169
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 337
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c48410f9d79b000800000000000000
+      internalID: 52210992566258840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_170
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 341
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c7725a57fa55190800000000000000
+      internalID: -7974274645372732366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_171
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 324
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac07bc036c00dae30800000000000000
+      internalID: 4516266852544639178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_172
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 325
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35120c21ca40a9030800000000000000
+      internalID: 3502116797329449299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_173
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 320
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dace93df4e08d10800000000000000
+      internalID: 2125950800368545124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_174
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 311
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3127ef5974b7c1b40800000000000000
+      internalID: 5412336399581868563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_175
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 314
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b910d68209918e0800000000000000
+      internalID: -1722186879190590689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_176
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f3c33bc4a830be0800000000000000
+      internalID: -1512212987837137117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_177
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 300
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6f73041aec3ad60800000000000000
+      internalID: 7900385363300447989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_178
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 301
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8b62eba45319590800000000000000
+      internalID: -7669290095301183286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_179
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 284
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3ff34b7d90923a0800000000000000
+      internalID: -6689804949435452476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_180
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 288
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30991606939ab2460800000000000000
+      internalID: 7218048891686590723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_181
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 290
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be0ee3e58d95d740800000000000000
+      internalID: 5176216545112493744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_182
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 275
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8c83fbfceb60070800000000000000
+      internalID: 8072349181583870162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_183
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 280
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c842b4540ec6880800000000000000
+      internalID: -8616265398848549785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_184
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 277
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159ca8464431d5c50800000000000000
+      internalID: 6655497008788982097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_185
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 258
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d9d0749803abb50800000000000000
+      internalID: 6609648769280351503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_186
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988f04a81a4799b80800000000000000
+      internalID: -8387544593842767735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_187
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 258
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fe6fe3282eeb410800000000000000
+      internalID: 1494881175363579685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_188
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 260
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94260d668b9da6a90800000000000000
+      internalID: -7319798858315177399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_189
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 251
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28639263e6eddd60800000000000000
+      internalID: 7916737584272992303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_190
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 244
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3d9328a5752a330800000000000000
+      internalID: 3720632288404952033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_191
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 244
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a098691fbba44e0800000000000000
+      internalID: -1996576838498317708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_192
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 243
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3970826a04c0b8ab0800000000000000
+      internalID: -5004893089087092845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_193
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 219
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4afb137742f1c210800000000000000
+      internalID: 1351627751875672652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_194
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 227
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b545c61e707e16e0800000000000000
+      internalID: -1864929508834589263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_195
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 215
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78a7ff6763cc3280800000000000000
+      internalID: -9062153501148731269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_196
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 218
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5122865b85799cc60800000000000000
+      internalID: 7838963033671475733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_197
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 215
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825ac602e7f9cf260800000000000000
+      internalID: 7132751273906709800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_198
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 213
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9460904d56658e130800000000000000
+      internalID: 3596219297804387913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_199
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 218
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63abd2790b2b3bd30800000000000000
+      internalID: 4446093728665156150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_200
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 206
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf75a2c72740ec9c0800000000000000
+      internalID: -3905178937127708676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_201
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 188
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8733057b08340d40800000000000000
+      internalID: 5549622262686234509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_202
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 175
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42706dbc4e8cba40800000000000000
+      internalID: 5385335714674143823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_203
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1626775c811a402a0800000000000000
+      internalID: -6772110811894160799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_204
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ae1a05943a203f0800000000000000
+      internalID: -936006237258913263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_205
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 170
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c395f963301ad55a0800000000000000
+      internalID: -6530886849443964612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_206
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 163
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ea1807fa65b5e30800000000000000
+      internalID: 4493280364739014295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_207
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 163
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec446e687af1e13d0800000000000000
+      internalID: -3234112678022200114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_208
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 160
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12b34364ef172770800000000000000
+      internalID: 8585866280383525406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_209
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 153
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ddd5c00564d7080800000000000000
+      internalID: -9188110355147137786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_210
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 160
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969824bdec427c9b0800000000000000
+      internalID: -5060035185467029143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_211
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 155
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add7ca47d4125ea40800000000000000
+      internalID: 5396756345027067354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_212
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 157
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9325f3c024df21c70800000000000000
+      internalID: 8940486670399001145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_213
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 152
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762615227584491f0800000000000000
+      internalID: -1039126074940628377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_214
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 142
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9efbe2eefd9c3fa0800000000000000
+      internalID: -5819602900415152482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_215
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c264379cfafd356e0800000000000000
+      internalID: -1849889075827096020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_216
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 134
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df56e6ffa05f5ac50800000000000000
+      internalID: 6676011450230531581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_217
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 112
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5869359a52c9750800000000000000
+      internalID: 6312962186848667103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_218
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 118
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c869eda9c0bcf930800000000000000
+      internalID: 4178408934545647811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_219
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2f4514546408ea0800000000000000
+      internalID: -5872616650828352769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_220
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 107
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6c39e2c68ca2590800000000000000
+      internalID: -7698120246072981850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_221
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 99
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171cfbd68474f44a0800000000000000
+      internalID: -6606983751924727439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_222
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 89
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d165b72641c05c3e0800000000000000
+      internalID: -2034206374996781539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_223
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 88
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee65ab9efd52d410800000000000000
+      internalID: 1500364973982183144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_224
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 79
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b609f12adc1a5660800000000000000
+      internalID: 7375239062971025073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_225
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 66
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085a20dfc06e73640800000000000000
+      internalID: 5059765649832846720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_226
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6a4cb15fb1b0860800000000000000
+      internalID: 7497116744235132619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_227
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 66
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b4cc6f0eaf7c5d0800000000000000
+      internalID: -3042187179145278638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_228
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f22fbbc240d4080800000000000000
+      internalID: -9201693873469771948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_229
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea555293ac5dfffa0800000000000000
+      internalID: -5764653933492087378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_230
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 37
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886e6601ccd6cc220800000000000000
+      internalID: 2507499815754458760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_231
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bef7b1ba9e064a0800000000000000
+      internalID: -6602020132615099638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_232
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293d253c70e00e870800000000000000
+      internalID: 8709977105839084434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_233
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b414b4564fd849310800000000000000
+      internalID: 1410908664084775243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_234
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f391ddd13c8c2f0800000000000000
+      internalID: -952296788157972715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_235
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0beeebff8fdf5d520800000000000000
+      internalID: 2726364395327123120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_236
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc44c7d9f5eaa01a0800000000000000
+      internalID: -6842464958148754225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Light_16_237
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125cc8ffb67f8e750800000000000000
+      internalID: 6334584919117579553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Starscape_Light_16_0: -4933688494006565495
+      Starscape_Light_16_1: -3352962228159096628
+      Starscape_Light_16_10: -3489942721097474086
+      Starscape_Light_16_100: 7885440525855206133
+      Starscape_Light_16_101: 6705028237850136613
+      Starscape_Light_16_102: 8478933963556941592
+      Starscape_Light_16_103: -6785847488529006619
+      Starscape_Light_16_104: -7674199776439004759
+      Starscape_Light_16_105: -1141797881918363325
+      Starscape_Light_16_106: -575223781808692254
+      Starscape_Light_16_107: 1678064546340633726
+      Starscape_Light_16_108: 4741880878257844717
+      Starscape_Light_16_109: 8876797331749233923
+      Starscape_Light_16_11: 1714454115068718631
+      Starscape_Light_16_110: 4083131667764065377
+      Starscape_Light_16_111: 5483728978348993134
+      Starscape_Light_16_112: 7460452311719437537
+      Starscape_Light_16_113: -3573562205220729524
+      Starscape_Light_16_114: 340186393865169972
+      Starscape_Light_16_115: 3566340081276805278
+      Starscape_Light_16_116: 815038469493275031
+      Starscape_Light_16_117: 6328539242059902234
+      Starscape_Light_16_118: -3076376348247363423
+      Starscape_Light_16_119: -6018565075241960853
+      Starscape_Light_16_12: -5431955600095339803
+      Starscape_Light_16_120: -3291588079326868645
+      Starscape_Light_16_121: -7621797089831567737
+      Starscape_Light_16_122: -7979188045819762539
+      Starscape_Light_16_123: 6273178576971698927
+      Starscape_Light_16_124: -2454861259733846655
+      Starscape_Light_16_125: 7481785389028291141
+      Starscape_Light_16_126: 5617847721522965429
+      Starscape_Light_16_127: -7873072551684770399
+      Starscape_Light_16_128: -3914218597563966780
+      Starscape_Light_16_129: -5145786550702917401
+      Starscape_Light_16_13: 7651127384144688767
+      Starscape_Light_16_130: -7912323575050924697
+      Starscape_Light_16_131: -6624558319560935094
+      Starscape_Light_16_132: -5418531036184113971
+      Starscape_Light_16_133: -4465885662318476487
+      Starscape_Light_16_134: 4923493836908721576
+      Starscape_Light_16_135: 3141809234341301270
+      Starscape_Light_16_136: 4071486804611121775
+      Starscape_Light_16_137: 3166301154773528973
+      Starscape_Light_16_138: -1216114988156509246
+      Starscape_Light_16_139: 7352653477234641402
+      Starscape_Light_16_14: 3397401711436453309
+      Starscape_Light_16_140: 3272708693795829758
+      Starscape_Light_16_141: 6786337920340795288
+      Starscape_Light_16_142: -867770971291452823
+      Starscape_Light_16_143: 4089119213180474493
+      Starscape_Light_16_144: 2121974256351830427
+      Starscape_Light_16_145: 2335691023290832095
+      Starscape_Light_16_146: 5693888279843496748
+      Starscape_Light_16_147: 6502281159164534426
+      Starscape_Light_16_148: 7702665900086711859
+      Starscape_Light_16_149: 8353445844571065746
+      Starscape_Light_16_15: -4719847733777311895
+      Starscape_Light_16_150: -5982208087579334910
+      Starscape_Light_16_151: 7810579101037820258
+      Starscape_Light_16_152: 8837649240225807435
+      Starscape_Light_16_153: -7883200877565381384
+      Starscape_Light_16_154: -4304523965599192241
+      Starscape_Light_16_155: -4616956526780191368
+      Starscape_Light_16_156: -5439532572385539785
+      Starscape_Light_16_157: 749450926258875635
+      Starscape_Light_16_158: 8978468741601782637
+      Starscape_Light_16_159: -8983845651939565639
+      Starscape_Light_16_16: 3159462925486553823
+      Starscape_Light_16_160: 6580972932928510425
+      Starscape_Light_16_161: 2534680482460325042
+      Starscape_Light_16_162: 5514909777941488586
+      Starscape_Light_16_163: 1210795086409678579
+      Starscape_Light_16_164: 4311842131550319013
+      Starscape_Light_16_165: -2993148507097804658
+      Starscape_Light_16_166: 7910988138250060010
+      Starscape_Light_16_167: -1001220068077413257
+      Starscape_Light_16_168: -8162052997336792682
+      Starscape_Light_16_169: 52210992566258840
+      Starscape_Light_16_17: 4445947235813172592
+      Starscape_Light_16_170: -7974274645372732366
+      Starscape_Light_16_171: 4516266852544639178
+      Starscape_Light_16_172: 3502116797329449299
+      Starscape_Light_16_173: 2125950800368545124
+      Starscape_Light_16_174: 5412336399581868563
+      Starscape_Light_16_175: -1722186879190590689
+      Starscape_Light_16_176: -1512212987837137117
+      Starscape_Light_16_177: 7900385363300447989
+      Starscape_Light_16_178: -7669290095301183286
+      Starscape_Light_16_179: -6689804949435452476
+      Starscape_Light_16_18: 100690383413979099
+      Starscape_Light_16_180: 7218048891686590723
+      Starscape_Light_16_181: 5176216545112493744
+      Starscape_Light_16_182: 8072349181583870162
+      Starscape_Light_16_183: -8616265398848549785
+      Starscape_Light_16_184: 6655497008788982097
+      Starscape_Light_16_185: 6609648769280351503
+      Starscape_Light_16_186: -8387544593842767735
+      Starscape_Light_16_187: 1494881175363579685
+      Starscape_Light_16_188: -7319798858315177399
+      Starscape_Light_16_189: 7916737584272992303
+      Starscape_Light_16_19: 95735431417924760
+      Starscape_Light_16_190: 3720632288404952033
+      Starscape_Light_16_191: -1996576838498317708
+      Starscape_Light_16_192: -5004893089087092845
+      Starscape_Light_16_193: 1351627751875672652
+      Starscape_Light_16_194: -1864929508834589263
+      Starscape_Light_16_195: -9062153501148731269
+      Starscape_Light_16_196: 7838963033671475733
+      Starscape_Light_16_197: 7132751273906709800
+      Starscape_Light_16_198: 3596219297804387913
+      Starscape_Light_16_199: 4446093728665156150
+      Starscape_Light_16_2: 5425653651435663940
+      Starscape_Light_16_20: 4718864272467736651
+      Starscape_Light_16_200: -3905178937127708676
+      Starscape_Light_16_201: 5549622262686234509
+      Starscape_Light_16_202: 5385335714674143823
+      Starscape_Light_16_203: -6772110811894160799
+      Starscape_Light_16_204: -936006237258913263
+      Starscape_Light_16_205: -6530886849443964612
+      Starscape_Light_16_206: 4493280364739014295
+      Starscape_Light_16_207: -3234112678022200114
+      Starscape_Light_16_208: 8585866280383525406
+      Starscape_Light_16_209: -9188110355147137786
+      Starscape_Light_16_21: -9006413697339440901
+      Starscape_Light_16_210: -5060035185467029143
+      Starscape_Light_16_211: 5396756345027067354
+      Starscape_Light_16_212: 8940486670399001145
+      Starscape_Light_16_213: -1039126074940628377
+      Starscape_Light_16_214: -5819602900415152482
+      Starscape_Light_16_215: -1849889075827096020
+      Starscape_Light_16_216: 6676011450230531581
+      Starscape_Light_16_217: 6312962186848667103
+      Starscape_Light_16_218: 4178408934545647811
+      Starscape_Light_16_219: -5872616650828352769
+      Starscape_Light_16_22: 1763348057710888689
+      Starscape_Light_16_220: -7698120246072981850
+      Starscape_Light_16_221: -6606983751924727439
+      Starscape_Light_16_222: -2034206374996781539
+      Starscape_Light_16_223: 1500364973982183144
+      Starscape_Light_16_224: 7375239062971025073
+      Starscape_Light_16_225: 5059765649832846720
+      Starscape_Light_16_226: 7497116744235132619
+      Starscape_Light_16_227: -3042187179145278638
+      Starscape_Light_16_228: -9201693873469771948
+      Starscape_Light_16_229: -5764653933492087378
+      Starscape_Light_16_23: -3587493572284307285
+      Starscape_Light_16_230: 2507499815754458760
+      Starscape_Light_16_231: -6602020132615099638
+      Starscape_Light_16_232: 8709977105839084434
+      Starscape_Light_16_233: 1410908664084775243
+      Starscape_Light_16_234: -952296788157972715
+      Starscape_Light_16_235: 2726364395327123120
+      Starscape_Light_16_236: -6842464958148754225
+      Starscape_Light_16_237: 6334584919117579553
+      Starscape_Light_16_24: -2632927837755402322
+      Starscape_Light_16_25: -4134077284775373881
+      Starscape_Light_16_26: 7725553104495420693
+      Starscape_Light_16_27: -3804025836908129687
+      Starscape_Light_16_28: -8663945478022483043
+      Starscape_Light_16_29: -8072404506068762561
+      Starscape_Light_16_3: -4082691292324948909
+      Starscape_Light_16_30: 1004385332682953959
+      Starscape_Light_16_31: -3707101835855129947
+      Starscape_Light_16_32: -1564582979862218388
+      Starscape_Light_16_33: 3216199107720742950
+      Starscape_Light_16_34: 721268458705117174
+      Starscape_Light_16_35: -1141111043424365141
+      Starscape_Light_16_36: -2795957965616581264
+      Starscape_Light_16_37: -2150025896029082282
+      Starscape_Light_16_38: 2108923290800356289
+      Starscape_Light_16_39: 7295999685349466123
+      Starscape_Light_16_4: 4438787221182854840
+      Starscape_Light_16_40: 8127198062222372283
+      Starscape_Light_16_41: 7351582824169768118
+      Starscape_Light_16_42: 7206878234378191539
+      Starscape_Light_16_43: 486840215307006549
+      Starscape_Light_16_44: -1546160067428739782
+      Starscape_Light_16_45: 6982006333699521925
+      Starscape_Light_16_46: -4516414246651916329
+      Starscape_Light_16_47: -1569028722996294065
+      Starscape_Light_16_48: 8325678868330564618
+      Starscape_Light_16_49: -8698981085379032298
+      Starscape_Light_16_5: 3768251160966975153
+      Starscape_Light_16_50: -6916260940086627525
+      Starscape_Light_16_51: -670262196436552517
+      Starscape_Light_16_52: 6375648780424109357
+      Starscape_Light_16_53: -4741441145359514371
+      Starscape_Light_16_54: -3402508046712459557
+      Starscape_Light_16_55: -4065203948611297625
+      Starscape_Light_16_56: -6320152991118824204
+      Starscape_Light_16_57: 7344101059401597926
+      Starscape_Light_16_58: 6283907933218567733
+      Starscape_Light_16_59: 7062070388248096794
+      Starscape_Light_16_6: -6049838053541344586
+      Starscape_Light_16_60: -798820902110412892
+      Starscape_Light_16_61: -7104660723033259293
+      Starscape_Light_16_62: 8629362126499127753
+      Starscape_Light_16_63: 5048220940993029789
+      Starscape_Light_16_64: 6310925249612346097
+      Starscape_Light_16_65: -8721888798956205123
+      Starscape_Light_16_66: 6979676452904803453
+      Starscape_Light_16_67: 8255511595538025922
+      Starscape_Light_16_68: 5626551923361005801
+      Starscape_Light_16_69: -687992258975071803
+      Starscape_Light_16_7: -7683995874458423532
+      Starscape_Light_16_70: -8676234262562790608
+      Starscape_Light_16_71: 3092027610662523903
+      Starscape_Light_16_72: -5635144270241940937
+      Starscape_Light_16_73: 6544921320284387959
+      Starscape_Light_16_74: 676889296291305060
+      Starscape_Light_16_75: 4944638672700233700
+      Starscape_Light_16_76: 4039051977629299147
+      Starscape_Light_16_77: -1993780884007983112
+      Starscape_Light_16_78: -2116101586171742015
+      Starscape_Light_16_79: 879178962905470529
+      Starscape_Light_16_8: -7203497785632908630
+      Starscape_Light_16_80: -7664841998333027898
+      Starscape_Light_16_81: 4698588185458648858
+      Starscape_Light_16_82: 5532570863606945887
+      Starscape_Light_16_83: 6666391597948017930
+      Starscape_Light_16_84: 7286273457478059477
+      Starscape_Light_16_85: -1956832331568958861
+      Starscape_Light_16_86: 7836367595703473059
+      Starscape_Light_16_87: 4406038009474657404
+      Starscape_Light_16_88: 932222358330685128
+      Starscape_Light_16_89: -7030525960657606789
+      Starscape_Light_16_9: 6221917133435537582
+      Starscape_Light_16_90: 910351470302918331
+      Starscape_Light_16_91: 8078570627021341802
+      Starscape_Light_16_92: -6014993090921218202
+      Starscape_Light_16_93: -5913392270860152546
+      Starscape_Light_16_94: 2161762126496766667
+      Starscape_Light_16_95: 533111240136150239
+      Starscape_Light_16_96: -8961423948406437376
+      Starscape_Light_16_97: -680754766285441158
+      Starscape_Light_16_98: -8040758885230068038
+      Starscape_Light_16_99: -3238538931800884400
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

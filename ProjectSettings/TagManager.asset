@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Light
+  - Void
+  - Climb
+  - Death
+  - Ground
+  - WhiteObject
+  - Platform
+  - BlackObject
+  - LeverEnemy
+  - Pain
+  - Shared
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG_Sky
+    uniqueID: 1948969653
+    locked: 0
+  - name: BG_Stars
+    uniqueID: 2078087495
+    locked: 0
+  - name: BG_Sun
+    uniqueID: 2035978693
+    locked: 0
+  - name: BG_Moon
+    uniqueID: 3482534491
+    locked: 0
+  - name: BG_Clouds
+    uniqueID: 1964458649
+    locked: 0
+  - name: BG_Far
+    uniqueID: 28865149
+    locked: 0
+  - name: BG_Mid
+    uniqueID: 1331560175
+    locked: 0
+  - name: BG_Near
+    uniqueID: 93330855
+    locked: 0
+  - name: MG_Far
+    uniqueID: 4028054027
+    locked: 0
+  - name: MG_Mid
+    uniqueID: 2754564505
+    locked: 0
+  - name: MG_Near
+    uniqueID: 1506566731
+    locked: 0
+  - name: FG_Far
+    uniqueID: 2233296783
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Climb
+    uniqueID: 1660767623
+    locked: 0
+  - name: FG_Mid
+    uniqueID: 1283402339
+    locked: 0
+  - name: FG_Near
+    uniqueID: 561648315
+    locked: 0
+  m_RenderingLayers:
+  - Default

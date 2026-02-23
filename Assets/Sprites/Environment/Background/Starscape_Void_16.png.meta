@@ -1,0 +1,6318 @@
+fileFormatVersion: 2
+guid: d5c0311be0f0933418fe3653cf548da2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4828146302513316802
+    second: Starscape_Void_16_0
+  - first:
+      213: -846979048193177948
+    second: Starscape_Void_16_1
+  - first:
+      213: -5412892749414762527
+    second: Starscape_Void_16_2
+  - first:
+      213: -9200173603965296307
+    second: Starscape_Void_16_3
+  - first:
+      213: -1889919838704872541
+    second: Starscape_Void_16_4
+  - first:
+      213: -493700606069332588
+    second: Starscape_Void_16_5
+  - first:
+      213: 8729373693212166077
+    second: Starscape_Void_16_6
+  - first:
+      213: 6570656981130226768
+    second: Starscape_Void_16_7
+  - first:
+      213: -2586548448029904397
+    second: Starscape_Void_16_8
+  - first:
+      213: 292767876080136067
+    second: Starscape_Void_16_9
+  - first:
+      213: -108347561362517261
+    second: Starscape_Void_16_10
+  - first:
+      213: -4924706154327681620
+    second: Starscape_Void_16_11
+  - first:
+      213: -6740460893336857898
+    second: Starscape_Void_16_12
+  - first:
+      213: -8908429167871962143
+    second: Starscape_Void_16_13
+  - first:
+      213: -5409031428087614547
+    second: Starscape_Void_16_14
+  - first:
+      213: -284628916040358381
+    second: Starscape_Void_16_15
+  - first:
+      213: 4956275184881446483
+    second: Starscape_Void_16_16
+  - first:
+      213: -4198413218362087914
+    second: Starscape_Void_16_17
+  - first:
+      213: 1982838332335402909
+    second: Starscape_Void_16_18
+  - first:
+      213: -7082692187628733349
+    second: Starscape_Void_16_19
+  - first:
+      213: 4857234774808257301
+    second: Starscape_Void_16_20
+  - first:
+      213: -1911047172030762479
+    second: Starscape_Void_16_21
+  - first:
+      213: 5836994321390434646
+    second: Starscape_Void_16_22
+  - first:
+      213: -2446606481253405693
+    second: Starscape_Void_16_23
+  - first:
+      213: 6221080391180395037
+    second: Starscape_Void_16_24
+  - first:
+      213: 6338843715930248012
+    second: Starscape_Void_16_25
+  - first:
+      213: -7372804252403508270
+    second: Starscape_Void_16_26
+  - first:
+      213: -7806289606320930678
+    second: Starscape_Void_16_27
+  - first:
+      213: -1187412388793458717
+    second: Starscape_Void_16_28
+  - first:
+      213: -4239803307166950044
+    second: Starscape_Void_16_29
+  - first:
+      213: 4861251079007515537
+    second: Starscape_Void_16_30
+  - first:
+      213: 5456463190301551830
+    second: Starscape_Void_16_31
+  - first:
+      213: -8118790165057011391
+    second: Starscape_Void_16_32
+  - first:
+      213: 4549297155271880305
+    second: Starscape_Void_16_33
+  - first:
+      213: -508204140361051732
+    second: Starscape_Void_16_34
+  - first:
+      213: 5569529426093038239
+    second: Starscape_Void_16_35
+  - first:
+      213: 2899227142420157880
+    second: Starscape_Void_16_36
+  - first:
+      213: -1286236543452701359
+    second: Starscape_Void_16_37
+  - first:
+      213: -4842133368081771473
+    second: Starscape_Void_16_38
+  - first:
+      213: -4954704070007295041
+    second: Starscape_Void_16_39
+  - first:
+      213: 6803618876805940830
+    second: Starscape_Void_16_40
+  - first:
+      213: -5949275009233217831
+    second: Starscape_Void_16_41
+  - first:
+      213: -2764744602843928261
+    second: Starscape_Void_16_42
+  - first:
+      213: 7927886397385713235
+    second: Starscape_Void_16_43
+  - first:
+      213: -1806204210723140062
+    second: Starscape_Void_16_44
+  - first:
+      213: -1699283788125638994
+    second: Starscape_Void_16_45
+  - first:
+      213: 5271273349002309617
+    second: Starscape_Void_16_46
+  - first:
+      213: 6903833427229187398
+    second: Starscape_Void_16_47
+  - first:
+      213: -4356272290218718213
+    second: Starscape_Void_16_48
+  - first:
+      213: -8581953811182329593
+    second: Starscape_Void_16_49
+  - first:
+      213: 6889059306188454404
+    second: Starscape_Void_16_50
+  - first:
+      213: -5376996756985635493
+    second: Starscape_Void_16_51
+  - first:
+      213: -1066574865974460878
+    second: Starscape_Void_16_52
+  - first:
+      213: -3753362987426206
+    second: Starscape_Void_16_53
+  - first:
+      213: 7567320091722195083
+    second: Starscape_Void_16_54
+  - first:
+      213: 5271105785550343511
+    second: Starscape_Void_16_55
+  - first:
+      213: 6123893533623007013
+    second: Starscape_Void_16_56
+  - first:
+      213: -5852492884884029549
+    second: Starscape_Void_16_57
+  - first:
+      213: 5663950797474762708
+    second: Starscape_Void_16_58
+  - first:
+      213: -7130208840328130078
+    second: Starscape_Void_16_59
+  - first:
+      213: 1040296102940229805
+    second: Starscape_Void_16_60
+  - first:
+      213: -9119643735941039356
+    second: Starscape_Void_16_61
+  - first:
+      213: -5658164103565473961
+    second: Starscape_Void_16_62
+  - first:
+      213: -1651272548418677074
+    second: Starscape_Void_16_63
+  - first:
+      213: -1628733257285355748
+    second: Starscape_Void_16_64
+  - first:
+      213: -8237688336691212679
+    second: Starscape_Void_16_65
+  - first:
+      213: -4017582121439138438
+    second: Starscape_Void_16_66
+  - first:
+      213: -8706492262270651242
+    second: Starscape_Void_16_67
+  - first:
+      213: -4560880060785842523
+    second: Starscape_Void_16_68
+  - first:
+      213: 8939847284625436468
+    second: Starscape_Void_16_69
+  - first:
+      213: -5404943703072814797
+    second: Starscape_Void_16_70
+  - first:
+      213: 7929341913574497224
+    second: Starscape_Void_16_71
+  - first:
+      213: 2362342393712973469
+    second: Starscape_Void_16_72
+  - first:
+      213: 2687289546341937475
+    second: Starscape_Void_16_73
+  - first:
+      213: 5897557936781763393
+    second: Starscape_Void_16_74
+  - first:
+      213: 6034844409935105342
+    second: Starscape_Void_16_75
+  - first:
+      213: -4643014944031605425
+    second: Starscape_Void_16_76
+  - first:
+      213: 7818157492695356659
+    second: Starscape_Void_16_77
+  - first:
+      213: -212711293477572533
+    second: Starscape_Void_16_78
+  - first:
+      213: 1744554585340549990
+    second: Starscape_Void_16_79
+  - first:
+      213: -1835761912285566191
+    second: Starscape_Void_16_80
+  - first:
+      213: 5597452124406221303
+    second: Starscape_Void_16_81
+  - first:
+      213: 3312424556357759344
+    second: Starscape_Void_16_82
+  - first:
+      213: 8233825595339284789
+    second: Starscape_Void_16_83
+  - first:
+      213: 3677533499665271892
+    second: Starscape_Void_16_84
+  - first:
+      213: -3432867561443708906
+    second: Starscape_Void_16_85
+  - first:
+      213: -7381535672097273521
+    second: Starscape_Void_16_86
+  - first:
+      213: 4168101395770328031
+    second: Starscape_Void_16_87
+  - first:
+      213: -3722986343852530171
+    second: Starscape_Void_16_88
+  - first:
+      213: -9111067541288348652
+    second: Starscape_Void_16_89
+  - first:
+      213: 8624883026793556076
+    second: Starscape_Void_16_90
+  - first:
+      213: 4241900039278257573
+    second: Starscape_Void_16_91
+  - first:
+      213: -1131105957551664131
+    second: Starscape_Void_16_92
+  - first:
+      213: 786360896575849397
+    second: Starscape_Void_16_93
+  - first:
+      213: 3244163087349874865
+    second: Starscape_Void_16_94
+  - first:
+      213: 8802431600300529799
+    second: Starscape_Void_16_95
+  - first:
+      213: -894842273741535934
+    second: Starscape_Void_16_96
+  - first:
+      213: 7641646426487313801
+    second: Starscape_Void_16_97
+  - first:
+      213: -1093622098548066018
+    second: Starscape_Void_16_98
+  - first:
+      213: -4913206647476170520
+    second: Starscape_Void_16_99
+  - first:
+      213: -8591282988001595276
+    second: Starscape_Void_16_100
+  - first:
+      213: -7429214416389646351
+    second: Starscape_Void_16_101
+  - first:
+      213: -6058555014126454936
+    second: Starscape_Void_16_102
+  - first:
+      213: -8382643211161984546
+    second: Starscape_Void_16_103
+  - first:
+      213: 3244314690529876055
+    second: Starscape_Void_16_104
+  - first:
+      213: -8332898321277596677
+    second: Starscape_Void_16_105
+  - first:
+      213: 2704840117637144776
+    second: Starscape_Void_16_106
+  - first:
+      213: -5894974136259645050
+    second: Starscape_Void_16_107
+  - first:
+      213: 6775477895906599575
+    second: Starscape_Void_16_108
+  - first:
+      213: -2211536922508646384
+    second: Starscape_Void_16_109
+  - first:
+      213: -3665542122259729718
+    second: Starscape_Void_16_110
+  - first:
+      213: -7073087677038343461
+    second: Starscape_Void_16_111
+  - first:
+      213: -1437349065683665536
+    second: Starscape_Void_16_112
+  - first:
+      213: -1980735493090382243
+    second: Starscape_Void_16_113
+  - first:
+      213: 4466173968178914533
+    second: Starscape_Void_16_114
+  - first:
+      213: 9218550558172444492
+    second: Starscape_Void_16_115
+  - first:
+      213: -2743061127829070283
+    second: Starscape_Void_16_116
+  - first:
+      213: 7642185549888838385
+    second: Starscape_Void_16_117
+  - first:
+      213: -7284644165260521012
+    second: Starscape_Void_16_118
+  - first:
+      213: 6709848106942388133
+    second: Starscape_Void_16_119
+  - first:
+      213: -6716526559624424868
+    second: Starscape_Void_16_120
+  - first:
+      213: 5216989101172330206
+    second: Starscape_Void_16_121
+  - first:
+      213: 1669712088744722947
+    second: Starscape_Void_16_122
+  - first:
+      213: 9008305054550079591
+    second: Starscape_Void_16_123
+  - first:
+      213: -1061416481243276637
+    second: Starscape_Void_16_124
+  - first:
+      213: -2294430289860349942
+    second: Starscape_Void_16_125
+  - first:
+      213: 3407237667534750177
+    second: Starscape_Void_16_126
+  - first:
+      213: 3197398203996007648
+    second: Starscape_Void_16_127
+  - first:
+      213: 3638616291332735030
+    second: Starscape_Void_16_128
+  - first:
+      213: -5569530425168342934
+    second: Starscape_Void_16_129
+  - first:
+      213: 5379750905625048558
+    second: Starscape_Void_16_130
+  - first:
+      213: -1330977109278995728
+    second: Starscape_Void_16_131
+  - first:
+      213: -2924033308725576765
+    second: Starscape_Void_16_132
+  - first:
+      213: 1111511354493400576
+    second: Starscape_Void_16_133
+  - first:
+      213: 9217764553492057357
+    second: Starscape_Void_16_134
+  - first:
+      213: 3898737556168579327
+    second: Starscape_Void_16_135
+  - first:
+      213: 8077712819826897947
+    second: Starscape_Void_16_136
+  - first:
+      213: 1665351750641307379
+    second: Starscape_Void_16_137
+  - first:
+      213: -6838060366232414448
+    second: Starscape_Void_16_138
+  - first:
+      213: 1637990539537269036
+    second: Starscape_Void_16_139
+  - first:
+      213: 8061357153129957324
+    second: Starscape_Void_16_140
+  - first:
+      213: -685808235156213458
+    second: Starscape_Void_16_141
+  - first:
+      213: 487460544728294755
+    second: Starscape_Void_16_142
+  - first:
+      213: 4423172967758207718
+    second: Starscape_Void_16_143
+  - first:
+      213: -7785154110779838539
+    second: Starscape_Void_16_144
+  - first:
+      213: -17713309655052703
+    second: Starscape_Void_16_145
+  - first:
+      213: 6172577490583286170
+    second: Starscape_Void_16_146
+  - first:
+      213: -2529052622791099054
+    second: Starscape_Void_16_147
+  - first:
+      213: 1665693529758972014
+    second: Starscape_Void_16_148
+  - first:
+      213: 2419111372077524817
+    second: Starscape_Void_16_149
+  - first:
+      213: -5687438460442294178
+    second: Starscape_Void_16_150
+  - first:
+      213: -7429604782720372092
+    second: Starscape_Void_16_151
+  - first:
+      213: 9199131236357550297
+    second: Starscape_Void_16_152
+  - first:
+      213: 2780876141273974303
+    second: Starscape_Void_16_153
+  - first:
+      213: 2473603794517683866
+    second: Starscape_Void_16_154
+  - first:
+      213: 1542293190351307168
+    second: Starscape_Void_16_155
+  - first:
+      213: 2103110466778547326
+    second: Starscape_Void_16_156
+  - first:
+      213: 1123316982036349736
+    second: Starscape_Void_16_157
+  - first:
+      213: -6393552753525202173
+    second: Starscape_Void_16_158
+  - first:
+      213: 4162133634067886685
+    second: Starscape_Void_16_159
+  - first:
+      213: 3997774282374529228
+    second: Starscape_Void_16_160
+  - first:
+      213: -8104455653650221201
+    second: Starscape_Void_16_161
+  - first:
+      213: 7856751391493816466
+    second: Starscape_Void_16_162
+  - first:
+      213: 197457324074756032
+    second: Starscape_Void_16_163
+  - first:
+      213: 2129139602258455877
+    second: Starscape_Void_16_164
+  - first:
+      213: 3202958769283991003
+    second: Starscape_Void_16_165
+  - first:
+      213: 6289024607577355862
+    second: Starscape_Void_16_166
+  - first:
+      213: 563524736083120915
+    second: Starscape_Void_16_167
+  - first:
+      213: 21620152033222609
+    second: Starscape_Void_16_168
+  - first:
+      213: 6229700716839809712
+    second: Starscape_Void_16_169
+  - first:
+      213: -2354652551956363038
+    second: Starscape_Void_16_170
+  - first:
+      213: -4078906499971277727
+    second: Starscape_Void_16_171
+  - first:
+      213: 8936827662129056155
+    second: Starscape_Void_16_172
+  - first:
+      213: -7242234122722480814
+    second: Starscape_Void_16_173
+  - first:
+      213: 5375583826928499056
+    second: Starscape_Void_16_174
+  - first:
+      213: 5941214806368877119
+    second: Starscape_Void_16_175
+  - first:
+      213: 5128918124324692267
+    second: Starscape_Void_16_176
+  - first:
+      213: -2573335891473950313
+    second: Starscape_Void_16_177
+  - first:
+      213: 4724033612766918350
+    second: Starscape_Void_16_178
+  - first:
+      213: 2026544774398549961
+    second: Starscape_Void_16_179
+  - first:
+      213: -7933816219856746416
+    second: Starscape_Void_16_180
+  - first:
+      213: 4542474763844690322
+    second: Starscape_Void_16_181
+  - first:
+      213: 7782632008822910984
+    second: Starscape_Void_16_182
+  - first:
+      213: -4089504515698724698
+    second: Starscape_Void_16_183
+  - first:
+      213: 5448976752624126849
+    second: Starscape_Void_16_184
+  - first:
+      213: 7655253817617432009
+    second: Starscape_Void_16_185
+  - first:
+      213: 1668633792318517955
+    second: Starscape_Void_16_186
+  - first:
+      213: -7256523176719478496
+    second: Starscape_Void_16_187
+  - first:
+      213: -7500528336483905306
+    second: Starscape_Void_16_188
+  - first:
+      213: 8185696842675358865
+    second: Starscape_Void_16_189
+  - first:
+      213: -3543495098048080936
+    second: Starscape_Void_16_190
+  - first:
+      213: -3377592506566921364
+    second: Starscape_Void_16_191
+  - first:
+      213: 2364989982893905683
+    second: Starscape_Void_16_192
+  - first:
+      213: -801719078732379888
+    second: Starscape_Void_16_193
+  - first:
+      213: -5784553477378616053
+    second: Starscape_Void_16_194
+  - first:
+      213: -6155504434053768528
+    second: Starscape_Void_16_195
+  - first:
+      213: -4088741220684467160
+    second: Starscape_Void_16_196
+  - first:
+      213: 1267100051514330642
+    second: Starscape_Void_16_197
+  - first:
+      213: -6757174335861358120
+    second: Starscape_Void_16_198
+  - first:
+      213: -405241502386962034
+    second: Starscape_Void_16_199
+  - first:
+      213: 7115836080231169990
+    second: Starscape_Void_16_200
+  - first:
+      213: -253494077657903773
+    second: Starscape_Void_16_201
+  - first:
+      213: -8227715201837691853
+    second: Starscape_Void_16_202
+  - first:
+      213: -1242709033267941665
+    second: Starscape_Void_16_203
+  - first:
+      213: 7640756165461309098
+    second: Starscape_Void_16_204
+  - first:
+      213: 2767098459399167795
+    second: Starscape_Void_16_205
+  - first:
+      213: -1591296398039025099
+    second: Starscape_Void_16_206
+  - first:
+      213: -921259977509824176
+    second: Starscape_Void_16_207
+  - first:
+      213: -878443951782715173
+    second: Starscape_Void_16_208
+  - first:
+      213: -6080195497021127433
+    second: Starscape_Void_16_209
+  - first:
+      213: -8089790920786271436
+    second: Starscape_Void_16_210
+  - first:
+      213: 5715091355871510394
+    second: Starscape_Void_16_211
+  - first:
+      213: 877237527328509259
+    second: Starscape_Void_16_212
+  - first:
+      213: -1565785746823365610
+    second: Starscape_Void_16_213
+  - first:
+      213: -4611805342887836319
+    second: Starscape_Void_16_214
+  - first:
+      213: -6931975049973339407
+    second: Starscape_Void_16_215
+  - first:
+      213: 3580765790190821408
+    second: Starscape_Void_16_216
+  - first:
+      213: 7482520583687302469
+    second: Starscape_Void_16_217
+  - first:
+      213: 4250998891877573082
+    second: Starscape_Void_16_218
+  - first:
+      213: 4995113020434431756
+    second: Starscape_Void_16_219
+  - first:
+      213: 3563587084562834760
+    second: Starscape_Void_16_220
+  - first:
+      213: 1027283640597001868
+    second: Starscape_Void_16_221
+  - first:
+      213: 7457491620281657855
+    second: Starscape_Void_16_222
+  - first:
+      213: -4810131341613906225
+    second: Starscape_Void_16_223
+  - first:
+      213: -2200547044514809148
+    second: Starscape_Void_16_224
+  - first:
+      213: -7873836408063500141
+    second: Starscape_Void_16_225
+  - first:
+      213: 9091977840666307349
+    second: Starscape_Void_16_226
+  - first:
+      213: 7865077242155342747
+    second: Starscape_Void_16_227
+  - first:
+      213: -4620536059093476259
+    second: Starscape_Void_16_228
+  - first:
+      213: -7892766096885172914
+    second: Starscape_Void_16_229
+  - first:
+      213: -6429815036048698774
+    second: Starscape_Void_16_230
+  - first:
+      213: -411710059879581295
+    second: Starscape_Void_16_231
+  - first:
+      213: -6541567954773774766
+    second: Starscape_Void_16_232
+  - first:
+      213: -5046545750850781114
+    second: Starscape_Void_16_233
+  - first:
+      213: -5048086125352426329
+    second: Starscape_Void_16_234
+  - first:
+      213: -7068735362883986022
+    second: Starscape_Void_16_235
+  - first:
+      213: 2939737280578914839
+    second: Starscape_Void_16_236
+  - first:
+      213: 2747668990231307967
+    second: Starscape_Void_16_237
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Starscape_Void_16_0
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1053
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c30ce44b75010340800000000000000
+      internalID: 4828146302513316802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_1
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1051
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a64f3c0b0dee34f0800000000000000
+      internalID: -846979048193177948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_2
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1059
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e778df19ba81e4b0800000000000000
+      internalID: -5412892749414762527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1049
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4129bf0ada625080800000000000000
+      internalID: -9200173603965296307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1039
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a358008be7a5c5e0800000000000000
+      internalID: -1889919838704872541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_5
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1044
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495a7dd1ae50629f0800000000000000
+      internalID: -493700606069332588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1035
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db70d8faf17f42970800000000000000
+      internalID: 8729373693212166077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_7
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1041
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c253526b9af2b50800000000000000
+      internalID: 6570656981130226768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1027
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1f6d004ebba1cd0800000000000000
+      internalID: -2586548448029904397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1024
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fe66705de101400800000000000000
+      internalID: 292767876080136067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_10
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1029
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f215bc87721f7ef0800000000000000
+      internalID: -108347561362517261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1018
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca55e1848dde7abb0800000000000000
+      internalID: -4924706154327681620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_12
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1011
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d29e3ea7821572a0800000000000000
+      internalID: -6740460893336857898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_13
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1010
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e35346eed6ee5480800000000000000
+      internalID: -8908429167871962143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_14
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1010
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3f9ed03924fe4b0800000000000000
+      internalID: -5409031428087614547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_15
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1004
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3162c96428bcc0cf0800000000000000
+      internalID: -284628916040358381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_16
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 995
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e21fb650a38c440800000000000000
+      internalID: 4956275184881446483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_17
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1001
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616293b0c6d3cb5c0800000000000000
+      internalID: -4198413218362087914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 986
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f21ed25f4748b10800000000000000
+      internalID: 1982838332335402909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_19
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 990
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c74f62bf835bd90800000000000000
+      internalID: -7082692187628733349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_20
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 990
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513ee1ffa4d586340800000000000000
+      internalID: 4857234774808257301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_21
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 983
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1127712e8b89a75e0800000000000000
+      internalID: -1911047172030762479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_22
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 982
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659f27ad86b210150800000000000000
+      internalID: 5836994321390434646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_23
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 970
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ce8b33e58eb0ed0800000000000000
+      internalID: -2446606481253405693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_24
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12a473b7a7b55650800000000000000
+      internalID: 6221080391180395037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_25
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 958
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c435db666c818f750800000000000000
+      internalID: 6338843715930248012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_26
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 962
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbdff068998ea990800000000000000
+      internalID: -7372804252403508270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_27
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 958
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80ca6966fc7aa390800000000000000
+      internalID: -7806289606320930678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_28
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 931
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef511c39b6758fe0800000000000000
+      internalID: -1187412388793458717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_29
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 941
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d99c60b513925c0800000000000000
+      internalID: -4239803307166950044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_30
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 936
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1933a30b912a67340800000000000000
+      internalID: 4861251079007515537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_31
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 925
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc2bebac5049bb40800000000000000
+      internalID: 5456463190301551830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_32
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 917
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14187dd2c53445f80800000000000000
+      internalID: -8118790165057011391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_33
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 908
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17eeca5d8a9522f30800000000000000
+      internalID: 4549297155271880305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_34
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 915
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca19564e60f72f8f0800000000000000
+      internalID: -508204140361051732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_35
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 906
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a5c502181fa4d40800000000000000
+      internalID: 5569529426093038239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_36
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 890
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5df1ba9bf1c3820800000000000000
+      internalID: 2899227142420157880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_37
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 897
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d1062bdae562ee0800000000000000
+      internalID: -1286236543452701359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_38
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 882
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f249b604b594dccb0800000000000000
+      internalID: -4842133368081771473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_39
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 863
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3780446ea5d3bb0800000000000000
+      internalID: -4954704070007295041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_40
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 869
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e560923425f4b6e50800000000000000
+      internalID: 6803618876805940830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_41
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 871
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d69b8356edef6da0800000000000000
+      internalID: -5949275009233217831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_42
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 872
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b392fc49e67a1a9d0800000000000000
+      internalID: -2764744602843928261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_43
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 861
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356a3d7bca2850e60800000000000000
+      internalID: 7927886397385713235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_44
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 861
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e480c07d21fe6e0800000000000000
+      internalID: -1806204210723140062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_45
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 864
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaee03cd56eea68e0800000000000000
+      internalID: -1699283788125638994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_46
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 864
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff2449be23572940800000000000000
+      internalID: 5271273349002309617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_47
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 854
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d967a8ce75fcf50800000000000000
+      internalID: 6903833427229187398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_48
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 855
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbc2acbe696b83c0800000000000000
+      internalID: -4356272290218718213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_49
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 849
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701eaa55a76c6e880800000000000000
+      internalID: -8581953811182329593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_50
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 846
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a36fd60fada9f50800000000000000
+      internalID: 6889059306188454404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_51
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 836
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d917520f11165b0800000000000000
+      internalID: -5376996756985635493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_52
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 811
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e7b337fc3c231f0800000000000000
+      internalID: -1066574865974460878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_53
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 809
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26edb64165aa2fff0800000000000000
+      internalID: -3753362987426206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_54
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 814
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8027c0b785840960800000000000000
+      internalID: 7567320091722195083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_55
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 809
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d0c31d8cab62940800000000000000
+      internalID: 5271105785550343511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_56
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 806
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52739e919b07cf450800000000000000
+      internalID: 6123893533623007013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_57
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 806
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f7cf1aab4c7cea0800000000000000
+      internalID: -5852492884884029549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_58
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 801
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df06cccd356a9e40800000000000000
+      internalID: 5663950797474762708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_59
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 797
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e154e156d86c0d90800000000000000
+      internalID: -7130208840328130078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_60
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 780
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0c9fc3bcfdf6e00800000000000000
+      internalID: 1040296102940229805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_61
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 780
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b3e111754807180800000000000000
+      internalID: -9119643735941039356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_62
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 781
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7570d1ed9b92a71b0800000000000000
+      internalID: -5658164103565473961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_63
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 766
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea69624bd508519e0800000000000000
+      internalID: -1651272548418677074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_64
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 773
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1734ad5bb39569e0800000000000000
+      internalID: -1628733257285355748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_65
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 766
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e44295a1addad80800000000000000
+      internalID: -8237688336691212679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_66
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 760
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7de8abb85eae38c0800000000000000
+      internalID: -4017582121439138438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_67
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 762
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694bbab9a635c2780800000000000000
+      internalID: -8706492262270651242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_68
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 747
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6a2b1dfbf74b0c0800000000000000
+      internalID: -4560880060785842523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_69
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 744
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fe6527db7b01c70800000000000000
+      internalID: 8939847284625436468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_70
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 749
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3394c53b658cdf4b0800000000000000
+      internalID: -5404943703072814797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_71
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 730
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb593d757eaa0e60800000000000000
+      internalID: 7929341913574497224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_72
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 736
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d969b1f04e9b8c020800000000000000
+      internalID: 2362342393712973469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_73
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 740
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341f452ca9b2b4520800000000000000
+      internalID: 2687289546341937475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 723
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143a92862b558d150800000000000000
+      internalID: 5897557936781763393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_75
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 724
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d0fe0540310c350800000000000000
+      internalID: 6034844409935105342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_76
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 719
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d7a261282b09fb0800000000000000
+      internalID: -4643014944031605425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_77
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 710
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f45a2631dcaf7c60800000000000000
+      internalID: 7818157492695356659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_78
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 713
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b403e80a43c4c0df0800000000000000
+      internalID: -212711293477572533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_79
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 704
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b908ef627e53810800000000000000
+      internalID: 1744554585340549990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_80
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 699
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11be60e54401686e0800000000000000
+      internalID: -1835761912285566191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_81
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 700
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f90d72fc052ead40800000000000000
+      internalID: 5597452124406221303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_82
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 683
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0713cf2859818fd20800000000000000
+      internalID: 3312424556357759344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_83
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 687
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531a7b811cc644270800000000000000
+      internalID: 8233825595339284789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_84
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 689
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cc529cb39390330800000000000000
+      internalID: 3677533499665271892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_85
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 674
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610bf2714210c50d0800000000000000
+      internalID: -3432867561443708906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_86
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 679
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4984cf4a648f8990800000000000000
+      internalID: -7381535672097273521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_87
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 676
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd343bac22218d930800000000000000
+      internalID: 4168101395770328031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 658
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5062a0f35ab455cc0800000000000000
+      internalID: -3722986343852530171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_89
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 657
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4149aecf75cfe8180800000000000000
+      internalID: -9111067541288348652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_90
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 661
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6863519a6db1b770800000000000000
+      internalID: 8624883026793556076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_91
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 657
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a565e57c914eda30800000000000000
+      internalID: 4241900039278257573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_92
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 659
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df31eccdf118d40f0800000000000000
+      internalID: -1131105957551664131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_93
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 650
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b349a1b117b9ea00800000000000000
+      internalID: 786360896575849397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_94
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 643
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b08ceeb325950d20800000000000000
+      internalID: 3244163087349874865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_95
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 643
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788169737e4882a70800000000000000
+      internalID: 8802431600300529799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_96
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 642
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24502af61b1e493f0800000000000000
+      internalID: -894842273741535934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_97
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 618
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985d8ed00f49c0a60800000000000000
+      internalID: 7641646426487313801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_98
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 626
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e197681ee7ca2d0f0800000000000000
+      internalID: -1093622098548066018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 614
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0581dd598c0dbb0800000000000000
+      internalID: -4913206647476170520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_100
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 617
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470fe4714a1a5c880800000000000000
+      internalID: -8591282988001595276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_101
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 614
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f752e699d026e890800000000000000
+      internalID: -7429214416389646351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_102
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 612
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867b4d27050bbeba0800000000000000
+      internalID: -6058555014126454936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_103
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 617
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1a9df996edaab80800000000000000
+      internalID: -8382643211161984546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_104
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 605
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7585d9c950f160d20800000000000000
+      internalID: 3244314690529876055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_105
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 587
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbccca50299b5c80800000000000000
+      internalID: -8332898321277596677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_106
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 574
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0ecf191c5898520800000000000000
+      internalID: 2704840117637144776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_107
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681f0288148d03ea0800000000000000
+      internalID: -5894974136259645050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_108
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 568
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79226019f35570e50800000000000000
+      internalID: 6775477895906599575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_109
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 569
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018263ed2ea0f41e0800000000000000
+      internalID: -2211536922508646384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_110
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 562
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac23a755cd0612dc0800000000000000
+      internalID: -3665542122259729718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_111
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 562
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdacfe88b3857dd90800000000000000
+      internalID: -7073087677038343461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_112
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 559
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d7fa1e3a28d0ce0800000000000000
+      internalID: -1437349065683665536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_113
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 552
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ee65c30930384e0800000000000000
+      internalID: -1980735493090382243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_114
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 559
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4a66eaf890bfd30800000000000000
+      internalID: 4466173968178914533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_115
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 554
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47f8d304eedeef70800000000000000
+      internalID: 9218550558172444492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_116
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 556
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ed0960070bee9d0800000000000000
+      internalID: -2743061127829070283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_117
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 551
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa5fb0844f7e0a60800000000000000
+      internalID: 7642185549888838385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_118
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 541
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc156863abeb7ea90800000000000000
+      internalID: -7284644165260521012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_119
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 526
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7d02f8d4b2e1d50800000000000000
+      internalID: 6709848106942388133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_120
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 533
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c521c110eaa1ac2a0800000000000000
+      internalID: -6716526559624424868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_121
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 511
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede067c52f7766840800000000000000
+      internalID: 5216989101172330206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_122
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 517
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3020ec65c420c2710800000000000000
+      internalID: 1669712088744722947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_123
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 508
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76830d418bde30d70800000000000000
+      internalID: 9008305054550079591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_124
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 506
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aadfbc75571541f0800000000000000
+      internalID: -1061416481243276637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_125
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 498
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a003afacecb8820e0800000000000000
+      internalID: -2294430289860349942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_126
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 488
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e14db63b90f84f20800000000000000
+      internalID: 3407237667534750177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_127
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 487
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec67aad9b07f5c20800000000000000
+      internalID: 3197398203996007648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_128
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 478
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63046de1d36fe7230800000000000000
+      internalID: 3638616291332735030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_129
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 465
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a605c12469d05b2b0800000000000000
+      internalID: -5569530425168342934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_130
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 461
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5fddd02f6b8aa40800000000000000
+      internalID: 5379750905625048558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_131
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 465
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0facf35fe5b678de0800000000000000
+      internalID: -1330977109278995728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_132
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 456
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb700aa23fbb67d0800000000000000
+      internalID: -2924033308725576765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_133
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 449
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006746810b1ec6f00800000000000000
+      internalID: 1111511354493400576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_134
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 436
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0dc41a06041cef70800000000000000
+      internalID: 9217764553492057357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_135
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 441
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff817e3a6291b1630800000000000000
+      internalID: 3898737556168579327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_136
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 437
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14b667130dc91070800000000000000
+      internalID: 8077712819826897947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_137
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 433
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fecc0308948c1710800000000000000
+      internalID: 1665351750641307379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_138
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 428
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0171a0693545a11a0800000000000000
+      internalID: -6838060366232414448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_139
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 433
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21c19e97bf4bb610800000000000000
+      internalID: 1637990539537269036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_140
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 422
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc78ddfae91bfdf60800000000000000
+      internalID: 8061357153129957324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_141
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 419
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21f97f2b058b76f0800000000000000
+      internalID: -685808235156213458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_142
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 408
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3656c8268cec3c600800000000000000
+      internalID: 487460544728294755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_143
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 413
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea96531164426d30800000000000000
+      internalID: 4423172967758207718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_144
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 413
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfab41759395f390800000000000000
+      internalID: -7785154110779838539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_145
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 405
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ec636b6d111cff0800000000000000
+      internalID: -17713309655052703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_146
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91f9c2268669a550800000000000000
+      internalID: 6172577490583286170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_147
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 394
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d34400a0007ecd0800000000000000
+      internalID: -2529052622791099054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_148
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 388
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6833f9a07bbd1710800000000000000
+      internalID: 1665693529758972014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_149
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 392
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157e9c4d9f8629120800000000000000
+      internalID: 2419111372077524817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_150
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 379
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5841738ad82211b0800000000000000
+      internalID: -5687438460442294178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_151
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 381
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482b86850ddb4e890800000000000000
+      internalID: -7429604782720372092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_152
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 382
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0ba41de11e9af70800000000000000
+      internalID: 9199131236357550297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_153
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 381
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f168ef4ed18a79620800000000000000
+      internalID: 2780876141273974303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_154
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 382
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ee84f9b81045220800000000000000
+      internalID: 2473603794517683866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_155
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 380
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1c4663c73576510800000000000000
+      internalID: 1542293190351307168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_156
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 367
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74cdb7a3dfbf2d10800000000000000
+      internalID: 2103110466778547326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_157
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 368
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823c074f7d2d69f00800000000000000
+      internalID: 1123316982036349736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_158
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 370
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303e86925a98547a0800000000000000
+      internalID: -6393552753525202173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_159
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 374
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52725efc7ed2c930800000000000000
+      internalID: 4162133634067886685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_160
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 367
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc040295782fa7730800000000000000
+      internalID: 3997774282374529228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_161
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 374
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67b542b580378f80800000000000000
+      internalID: -8104455653650221201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_162
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 361
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2908b8283c9c80d60800000000000000
+      internalID: 7856751391493816466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_163
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 364
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c766cbd3628db200800000000000000
+      internalID: 197457324074756032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_164
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 363
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54de4d500393c8d10800000000000000
+      internalID: 2129139602258455877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_165
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd50569d702337c20800000000000000
+      internalID: 3202958769283991003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_166
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 345
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656b6565f8a174750800000000000000
+      internalID: 6289024607577355862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_167
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313516403ca02d700800000000000000
+      internalID: 563524736083120915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_168
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 331
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df1ee9e96fcc4000800000000000000
+      internalID: 21620152033222609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_169
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 337
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2bb3cabc7547650800000000000000
+      internalID: 6229700716839809712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_170
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 341
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e88c2fbaf7925fd0800000000000000
+      internalID: -2354652551956363038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_171
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 324
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c1e253620d467c0800000000000000
+      internalID: -4078906499971277727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_172
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 325
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99461cc86df50c70800000000000000
+      internalID: 8936827662129056155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_173
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 320
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25de9e6bf6a6e7b90800000000000000
+      internalID: -7242234122722480814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_174
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 311
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07978607209e99a40800000000000000
+      internalID: 5375583826928499056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_175
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 314
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a78e3736f637250800000000000000
+      internalID: 5941214806368877119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_176
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21af622cd39d2740800000000000000
+      internalID: 5128918124324692267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_177
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 300
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7999eec04aca94cd0800000000000000
+      internalID: -2573335891473950313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_178
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 301
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec63af3ba832f8140800000000000000
+      internalID: 4724033612766918350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_179
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 284
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf13773cbbbf1c10800000000000000
+      internalID: 2026544774398549961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_180
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 288
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058c436ee2c65e190800000000000000
+      internalID: -7933816219856746416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_181
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 290
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291a32c0bbc1a0f30800000000000000
+      internalID: 4542474763844690322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_182
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 275
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800797fe396710c60800000000000000
+      internalID: 7782632008822910984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_183
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 280
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0fb626f492f37c0800000000000000
+      internalID: -4089504515698724698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_184
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 277
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bc5819c77ae9b40800000000000000
+      internalID: 5448976752624126849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_185
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 258
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd3a80b9ccec3a60800000000000000
+      internalID: 7655253817617432009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_186
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2bb53e79d282710800000000000000
+      internalID: 1668633792318517955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_187
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 258
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0211f331e96ab4b90800000000000000
+      internalID: -7256523176719478496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_188
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 260
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0102ca735c8e790800000000000000
+      internalID: -7500528336483905306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_189
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 251
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c83b2a8ef699170800000000000000
+      internalID: 8185696842675358865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_190
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 244
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d391898bf9f2dec0800000000000000
+      internalID: -3543495098048080936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_191
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 244
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63be02b2816021d0800000000000000
+      internalID: -3377592506566921364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_192
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 243
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3179fb3fbd122d020800000000000000
+      internalID: 2364989982893905683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_193
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 219
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019c08edeb8bfd4f0800000000000000
+      internalID: -801719078732379888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_194
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 227
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05d89c924329bfa0800000000000000
+      internalID: -5784553477378616053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_195
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 215
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba12ea9451439aa0800000000000000
+      internalID: -6155504434053768528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_196
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 218
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824fa9ad58fd147c0800000000000000
+      internalID: -4088741220684467160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_197
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 215
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e046198c4a59110800000000000000
+      internalID: 1267100051514330642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_198
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 213
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d109991eb1b932a0800000000000000
+      internalID: -6757174335861358120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_199
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 218
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81caf9200b406af0800000000000000
+      internalID: -405241502386962034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_200
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 206
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf3612b63780c260800000000000000
+      internalID: 7115836080231169990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_201
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 188
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d098cba786b7cf0800000000000000
+      internalID: -253494077657903773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_202
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 175
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c0261cd9841dd80800000000000000
+      internalID: -8227715201837691853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_203
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde25e8e7b201cee0800000000000000
+      internalID: -1242709033267941665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_204
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa672b1004b690a60800000000000000
+      internalID: 7640756165461309098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_205
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 170
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f940b5365b66620800000000000000
+      internalID: 2767098459399167795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_206
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 163
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a76866b549ae9e0800000000000000
+      internalID: -1591296398039025099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_207
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 163
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0591eb67ee60733f0800000000000000
+      internalID: -921259977509824176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_208
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 160
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0a6ea41e32fc3f0800000000000000
+      internalID: -878443951782715173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_209
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 153
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f44023e86ece9ba0800000000000000
+      internalID: -6080195497021127433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_210
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 160
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433aa53e40a4bbf80800000000000000
+      internalID: -8089790920786271436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_211
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 155
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f70adee45105f40800000000000000
+      internalID: 5715091355871510394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_212
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 157
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dce0022e29c2c00800000000000000
+      internalID: 877237527328509259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_213
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 152
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c393eb826354ae0800000000000000
+      internalID: -1565785746823365610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_214
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 142
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1650ceb99739fffb0800000000000000
+      internalID: -4611805342887836319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_215
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fae7725b6daccf90800000000000000
+      internalID: -6931975049973339407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_216
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 134
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020e134b38f61b130800000000000000
+      internalID: 3580765790190821408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_217
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 112
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dea37a3d047d760800000000000000
+      internalID: 7482520583687302469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_218
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 118
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad121fa28f49efa30800000000000000
+      internalID: 4250998891877573082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_219
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f3ceba3d4325540800000000000000
+      internalID: 4995113020434431756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_220
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 107
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845a98d9297647130800000000000000
+      internalID: 3563587084562834760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_221
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 99
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86ba514705a14e00800000000000000
+      internalID: 1027283640597001868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_222
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 89
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9275efd155e7760800000000000000
+      internalID: 7457491620281657855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_223
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 88
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6412ca70bfe3db0800000000000000
+      internalID: -4810131341613906225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_224
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 79
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cab82c3f161671e0800000000000000
+      internalID: -2200547044514809148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_225
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 66
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39066d511838ab290800000000000000
+      internalID: -7873836408063500141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_226
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b63aabca13d2e70800000000000000
+      internalID: 9091977840666307349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_227
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 66
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b9dada41e562d60800000000000000
+      internalID: 7865077242155342747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_228
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c99d55fee80efb0800000000000000
+      internalID: -4620536059093476259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_229
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45b9e37d03477290800000000000000
+      internalID: -7892766096885172914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_230
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 37
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a621ad49a45b4c6a0800000000000000
+      internalID: -6429815036048698774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_231
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1993c62c1ef494af0800000000000000
+      internalID: -411710059879581295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_232
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e61a59a9ea735a0800000000000000
+      internalID: -6541567954773774766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_233
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64048c9906117f9b0800000000000000
+      internalID: -5046545750850781114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_234
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a46ac63a6891f9b0800000000000000
+      internalID: -5048086125352426329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_235
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dde04a3aec6ed90800000000000000
+      internalID: -7068735362883986022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_236
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a01e53b7b0cc820800000000000000
+      internalID: 2939737280578914839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Starscape_Void_16_237
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6e71b836ea12620800000000000000
+      internalID: 2747668990231307967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Starscape_Void_16_0: 4828146302513316802
+      Starscape_Void_16_1: -846979048193177948
+      Starscape_Void_16_10: -108347561362517261
+      Starscape_Void_16_100: -8591282988001595276
+      Starscape_Void_16_101: -7429214416389646351
+      Starscape_Void_16_102: -6058555014126454936
+      Starscape_Void_16_103: -8382643211161984546
+      Starscape_Void_16_104: 3244314690529876055
+      Starscape_Void_16_105: -8332898321277596677
+      Starscape_Void_16_106: 2704840117637144776
+      Starscape_Void_16_107: -5894974136259645050
+      Starscape_Void_16_108: 6775477895906599575
+      Starscape_Void_16_109: -2211536922508646384
+      Starscape_Void_16_11: -4924706154327681620
+      Starscape_Void_16_110: -3665542122259729718
+      Starscape_Void_16_111: -7073087677038343461
+      Starscape_Void_16_112: -1437349065683665536
+      Starscape_Void_16_113: -1980735493090382243
+      Starscape_Void_16_114: 4466173968178914533
+      Starscape_Void_16_115: 9218550558172444492
+      Starscape_Void_16_116: -2743061127829070283
+      Starscape_Void_16_117: 7642185549888838385
+      Starscape_Void_16_118: -7284644165260521012
+      Starscape_Void_16_119: 6709848106942388133
+      Starscape_Void_16_12: -6740460893336857898
+      Starscape_Void_16_120: -6716526559624424868
+      Starscape_Void_16_121: 5216989101172330206
+      Starscape_Void_16_122: 1669712088744722947
+      Starscape_Void_16_123: 9008305054550079591
+      Starscape_Void_16_124: -1061416481243276637
+      Starscape_Void_16_125: -2294430289860349942
+      Starscape_Void_16_126: 3407237667534750177
+      Starscape_Void_16_127: 3197398203996007648
+      Starscape_Void_16_128: 3638616291332735030
+      Starscape_Void_16_129: -5569530425168342934
+      Starscape_Void_16_13: -8908429167871962143
+      Starscape_Void_16_130: 5379750905625048558
+      Starscape_Void_16_131: -1330977109278995728
+      Starscape_Void_16_132: -2924033308725576765
+      Starscape_Void_16_133: 1111511354493400576
+      Starscape_Void_16_134: 9217764553492057357
+      Starscape_Void_16_135: 3898737556168579327
+      Starscape_Void_16_136: 8077712819826897947
+      Starscape_Void_16_137: 1665351750641307379
+      Starscape_Void_16_138: -6838060366232414448
+      Starscape_Void_16_139: 1637990539537269036
+      Starscape_Void_16_14: -5409031428087614547
+      Starscape_Void_16_140: 8061357153129957324
+      Starscape_Void_16_141: -685808235156213458
+      Starscape_Void_16_142: 487460544728294755
+      Starscape_Void_16_143: 4423172967758207718
+      Starscape_Void_16_144: -7785154110779838539
+      Starscape_Void_16_145: -17713309655052703
+      Starscape_Void_16_146: 6172577490583286170
+      Starscape_Void_16_147: -2529052622791099054
+      Starscape_Void_16_148: 1665693529758972014
+      Starscape_Void_16_149: 2419111372077524817
+      Starscape_Void_16_15: -284628916040358381
+      Starscape_Void_16_150: -5687438460442294178
+      Starscape_Void_16_151: -7429604782720372092
+      Starscape_Void_16_152: 9199131236357550297
+      Starscape_Void_16_153: 2780876141273974303
+      Starscape_Void_16_154: 2473603794517683866
+      Starscape_Void_16_155: 1542293190351307168
+      Starscape_Void_16_156: 2103110466778547326
+      Starscape_Void_16_157: 1123316982036349736
+      Starscape_Void_16_158: -6393552753525202173
+      Starscape_Void_16_159: 4162133634067886685
+      Starscape_Void_16_16: 4956275184881446483
+      Starscape_Void_16_160: 3997774282374529228
+      Starscape_Void_16_161: -8104455653650221201
+      Starscape_Void_16_162: 7856751391493816466
+      Starscape_Void_16_163: 197457324074756032
+      Starscape_Void_16_164: 2129139602258455877
+      Starscape_Void_16_165: 3202958769283991003
+      Starscape_Void_16_166: 6289024607577355862
+      Starscape_Void_16_167: 563524736083120915
+      Starscape_Void_16_168: 21620152033222609
+      Starscape_Void_16_169: 6229700716839809712
+      Starscape_Void_16_17: -4198413218362087914
+      Starscape_Void_16_170: -2354652551956363038
+      Starscape_Void_16_171: -4078906499971277727
+      Starscape_Void_16_172: 8936827662129056155
+      Starscape_Void_16_173: -7242234122722480814
+      Starscape_Void_16_174: 5375583826928499056
+      Starscape_Void_16_175: 5941214806368877119
+      Starscape_Void_16_176: 5128918124324692267
+      Starscape_Void_16_177: -2573335891473950313
+      Starscape_Void_16_178: 4724033612766918350
+      Starscape_Void_16_179: 2026544774398549961
+      Starscape_Void_16_18: 1982838332335402909
+      Starscape_Void_16_180: -7933816219856746416
+      Starscape_Void_16_181: 4542474763844690322
+      Starscape_Void_16_182: 7782632008822910984
+      Starscape_Void_16_183: -4089504515698724698
+      Starscape_Void_16_184: 5448976752624126849
+      Starscape_Void_16_185: 7655253817617432009
+      Starscape_Void_16_186: 1668633792318517955
+      Starscape_Void_16_187: -7256523176719478496
+      Starscape_Void_16_188: -7500528336483905306
+      Starscape_Void_16_189: 8185696842675358865
+      Starscape_Void_16_19: -7082692187628733349
+      Starscape_Void_16_190: -3543495098048080936
+      Starscape_Void_16_191: -3377592506566921364
+      Starscape_Void_16_192: 2364989982893905683
+      Starscape_Void_16_193: -801719078732379888
+      Starscape_Void_16_194: -5784553477378616053
+      Starscape_Void_16_195: -6155504434053768528
+      Starscape_Void_16_196: -4088741220684467160
+      Starscape_Void_16_197: 1267100051514330642
+      Starscape_Void_16_198: -6757174335861358120
+      Starscape_Void_16_199: -405241502386962034
+      Starscape_Void_16_2: -5412892749414762527
+      Starscape_Void_16_20: 4857234774808257301
+      Starscape_Void_16_200: 7115836080231169990
+      Starscape_Void_16_201: -253494077657903773
+      Starscape_Void_16_202: -8227715201837691853
+      Starscape_Void_16_203: -1242709033267941665
+      Starscape_Void_16_204: 7640756165461309098
+      Starscape_Void_16_205: 2767098459399167795
+      Starscape_Void_16_206: -1591296398039025099
+      Starscape_Void_16_207: -921259977509824176
+      Starscape_Void_16_208: -878443951782715173
+      Starscape_Void_16_209: -6080195497021127433
+      Starscape_Void_16_21: -1911047172030762479
+      Starscape_Void_16_210: -8089790920786271436
+      Starscape_Void_16_211: 5715091355871510394
+      Starscape_Void_16_212: 877237527328509259
+      Starscape_Void_16_213: -1565785746823365610
+      Starscape_Void_16_214: -4611805342887836319
+      Starscape_Void_16_215: -6931975049973339407
+      Starscape_Void_16_216: 3580765790190821408
+      Starscape_Void_16_217: 7482520583687302469
+      Starscape_Void_16_218: 4250998891877573082
+      Starscape_Void_16_219: 4995113020434431756
+      Starscape_Void_16_22: 5836994321390434646
+      Starscape_Void_16_220: 3563587084562834760
+      Starscape_Void_16_221: 1027283640597001868
+      Starscape_Void_16_222: 7457491620281657855
+      Starscape_Void_16_223: -4810131341613906225
+      Starscape_Void_16_224: -2200547044514809148
+      Starscape_Void_16_225: -7873836408063500141
+      Starscape_Void_16_226: 9091977840666307349
+      Starscape_Void_16_227: 7865077242155342747
+      Starscape_Void_16_228: -4620536059093476259
+      Starscape_Void_16_229: -7892766096885172914
+      Starscape_Void_16_23: -2446606481253405693
+      Starscape_Void_16_230: -6429815036048698774
+      Starscape_Void_16_231: -411710059879581295
+      Starscape_Void_16_232: -6541567954773774766
+      Starscape_Void_16_233: -5046545750850781114
+      Starscape_Void_16_234: -5048086125352426329
+      Starscape_Void_16_235: -7068735362883986022
+      Starscape_Void_16_236: 2939737280578914839
+      Starscape_Void_16_237: 2747668990231307967
+      Starscape_Void_16_24: 6221080391180395037
+      Starscape_Void_16_25: 6338843715930248012
+      Starscape_Void_16_26: -7372804252403508270
+      Starscape_Void_16_27: -7806289606320930678
+      Starscape_Void_16_28: -1187412388793458717
+      Starscape_Void_16_29: -4239803307166950044
+      Starscape_Void_16_3: -9200173603965296307
+      Starscape_Void_16_30: 4861251079007515537
+      Starscape_Void_16_31: 5456463190301551830
+      Starscape_Void_16_32: -8118790165057011391
+      Starscape_Void_16_33: 4549297155271880305
+      Starscape_Void_16_34: -508204140361051732
+      Starscape_Void_16_35: 5569529426093038239
+      Starscape_Void_16_36: 2899227142420157880
+      Starscape_Void_16_37: -1286236543452701359
+      Starscape_Void_16_38: -4842133368081771473
+      Starscape_Void_16_39: -4954704070007295041
+      Starscape_Void_16_4: -1889919838704872541
+      Starscape_Void_16_40: 6803618876805940830
+      Starscape_Void_16_41: -5949275009233217831
+      Starscape_Void_16_42: -2764744602843928261
+      Starscape_Void_16_43: 7927886397385713235
+      Starscape_Void_16_44: -1806204210723140062
+      Starscape_Void_16_45: -1699283788125638994
+      Starscape_Void_16_46: 5271273349002309617
+      Starscape_Void_16_47: 6903833427229187398
+      Starscape_Void_16_48: -4356272290218718213
+      Starscape_Void_16_49: -8581953811182329593
+      Starscape_Void_16_5: -493700606069332588
+      Starscape_Void_16_50: 6889059306188454404
+      Starscape_Void_16_51: -5376996756985635493
+      Starscape_Void_16_52: -1066574865974460878
+      Starscape_Void_16_53: -3753362987426206
+      Starscape_Void_16_54: 7567320091722195083
+      Starscape_Void_16_55: 5271105785550343511
+      Starscape_Void_16_56: 6123893533623007013
+      Starscape_Void_16_57: -5852492884884029549
+      Starscape_Void_16_58: 5663950797474762708
+      Starscape_Void_16_59: -7130208840328130078
+      Starscape_Void_16_6: 8729373693212166077
+      Starscape_Void_16_60: 1040296102940229805
+      Starscape_Void_16_61: -9119643735941039356
+      Starscape_Void_16_62: -5658164103565473961
+      Starscape_Void_16_63: -1651272548418677074
+      Starscape_Void_16_64: -1628733257285355748
+      Starscape_Void_16_65: -8237688336691212679
+      Starscape_Void_16_66: -4017582121439138438
+      Starscape_Void_16_67: -8706492262270651242
+      Starscape_Void_16_68: -4560880060785842523
+      Starscape_Void_16_69: 8939847284625436468
+      Starscape_Void_16_7: 6570656981130226768
+      Starscape_Void_16_70: -5404943703072814797
+      Starscape_Void_16_71: 7929341913574497224
+      Starscape_Void_16_72: 2362342393712973469
+      Starscape_Void_16_73: 2687289546341937475
+      Starscape_Void_16_74: 5897557936781763393
+      Starscape_Void_16_75: 6034844409935105342
+      Starscape_Void_16_76: -4643014944031605425
+      Starscape_Void_16_77: 7818157492695356659
+      Starscape_Void_16_78: -212711293477572533
+      Starscape_Void_16_79: 1744554585340549990
+      Starscape_Void_16_8: -2586548448029904397
+      Starscape_Void_16_80: -1835761912285566191
+      Starscape_Void_16_81: 5597452124406221303
+      Starscape_Void_16_82: 3312424556357759344
+      Starscape_Void_16_83: 8233825595339284789
+      Starscape_Void_16_84: 3677533499665271892
+      Starscape_Void_16_85: -3432867561443708906
+      Starscape_Void_16_86: -7381535672097273521
+      Starscape_Void_16_87: 4168101395770328031
+      Starscape_Void_16_88: -3722986343852530171
+      Starscape_Void_16_89: -9111067541288348652
+      Starscape_Void_16_9: 292767876080136067
+      Starscape_Void_16_90: 8624883026793556076
+      Starscape_Void_16_91: 4241900039278257573
+      Starscape_Void_16_92: -1131105957551664131
+      Starscape_Void_16_93: 786360896575849397
+      Starscape_Void_16_94: 3244163087349874865
+      Starscape_Void_16_95: 8802431600300529799
+      Starscape_Void_16_96: -894842273741535934
+      Starscape_Void_16_97: 7641646426487313801
+      Starscape_Void_16_98: -1093622098548066018
+      Starscape_Void_16_99: -4913206647476170520
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
