@@ -1,3 +1,4 @@
+using System.Runtime.CompilerServices;
 using UnityEngine;
 
 public class CharacterHealth : MonoBehaviour
@@ -29,7 +30,6 @@ public class CharacterHealth : MonoBehaviour
         {
             if(currentHealth <= 0)
             {
-                // KillCharacter();
                 return true;
             }
             else
@@ -69,6 +69,8 @@ public class CharacterHealth : MonoBehaviour
     {
        currentHealth = maxHealth; 
     }
+
+
 
 
 }

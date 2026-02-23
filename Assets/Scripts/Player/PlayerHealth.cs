@@ -38,19 +38,18 @@ public class PlayerHealth : CharacterHealth
     public void OutOfBoundsDeathChecker(AudioSource playerAudio, AudioClip death)
     {
         //Falling Out of Bounds Game Over Condition
-        if (transform.position.y < -5)
+        if (transform.position.y < -30f || transform.position.y > 73f)
         {
             KillCharacter();
             playerAudio.PlayOneShot(death);
         }
+
     }
 
     public override void KillCharacter()
     {
         base.KillCharacter();
         healthBarController.ApplyHealthAmountToHealthBar(CurrentHealth);
-        playerController.isAlive = false;
-        // sr.enabled = false;
 
         if (checkPointLogic.isCheckPointActive)
         {
@@ -74,17 +73,6 @@ public class PlayerHealth : CharacterHealth
         CurrentHealth = MaxHealth;
         healthBarController.ApplyHealthAmountToHealthBar(MaxHealth);
         healthBarController.UnhideHealthBar();
-        if (!gameObject.GetComponent<PlayerController>().isAlive
-        
-        // .sr.enabled
-        )
-        {
-           gameObject.GetComponent<PlayerController>().isAlive = true;
-           
-        //   .sr.enabled = true; 
-        }
-        
-
     }
 
     IEnumerator DelayBeforeMainMenu()

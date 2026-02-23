@@ -181,7 +181,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   switchBetweenMusic: {fileID: 3602728341615217736}
   leverDetectionArea: {fileID: 3161636141654340525}
-  isAlive: 1
+  isAlive: 0
   moveSpeed: 4.4
   rig: {fileID: 5055555846808655843}
   jumpForce: 14

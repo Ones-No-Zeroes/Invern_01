@@ -131,6 +131,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1031869692}
+    - target: {fileID: 2377412200047064064, guid: 833d6bb002a961b47b0904eadf3d5304, type: 3}
+      propertyPath: offSetFromStart
+      value: 1.47
+      objectReference: {fileID: 0}
     - target: {fileID: 3029454680525837554, guid: 833d6bb002a961b47b0904eadf3d5304, type: 3}
       propertyPath: player
       value: 
@@ -142,6 +146,14 @@ PrefabInstance:
     - target: {fileID: 6266309912495110081, guid: 833d6bb002a961b47b0904eadf3d5304, type: 3}
       propertyPath: m_Name
       value: LVL_01_Darren
+      objectReference: {fileID: 0}
+    - target: {fileID: 7369479933829607997, guid: 833d6bb002a961b47b0904eadf3d5304, type: 3}
+      propertyPath: moveSpeed
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 7369479933829607997, guid: 833d6bb002a961b47b0904eadf3d5304, type: 3}
+      propertyPath: offSetFromStart
+      value: 11.35
       objectReference: {fileID: 0}
     - target: {fileID: 7832091544811688655, guid: 833d6bb002a961b47b0904eadf3d5304, type: 3}
       propertyPath: player
@@ -191,8 +203,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedComponents:
+    - {fileID: 5356741060880043866, guid: 833d6bb002a961b47b0904eadf3d5304, type: 3}
+    m_RemovedGameObjects:
+    - {fileID: 3230896249662186576, guid: 833d6bb002a961b47b0904eadf3d5304, type: 3}
+    - {fileID: 734554426774649285, guid: 833d6bb002a961b47b0904eadf3d5304, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 833d6bb002a961b47b0904eadf3d5304, type: 3}
@@ -449,6 +464,14 @@ PrefabInstance:
       propertyPath: invernLogic
       value: 
       objectReference: {fileID: 129408157}
+    - target: {fileID: 2112123169175177007, guid: e9283a744b3cf2e459c22b0fcee3d810, type: 3}
+      propertyPath: antiGravityEffectOn.m_Name
+      value: Anti Gravity Effect On
+      objectReference: {fileID: 0}
+    - target: {fileID: 2112123169175177007, guid: e9283a744b3cf2e459c22b0fcee3d810, type: 3}
+      propertyPath: antiGravityEffectOff.m_Name
+      value: Anti Gravity Effect Off
+      objectReference: {fileID: 0}
     - target: {fileID: 6736801212659815133, guid: e9283a744b3cf2e459c22b0fcee3d810, type: 3}
       propertyPath: m_LocalPosition.x
       value: -18.01

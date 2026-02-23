@@ -14,11 +14,10 @@ public class PlayerController : MonoBehaviour
     // DARREN B. -- we can  kill the player on a delay using the animation controller as a trigger.
     // No need to hard-code or break up the Player prefab
     [SerializeField] private LeverDetectionArea leverDetectionArea;
-    public bool isAlive = true;
     public float moveSpeed;
-    public Rigidbody2D rig;
-    public float jumpForce;
-    public TextMeshProUGUI scoreText;
+    [SerializeField] private Rigidbody2D rig;
+    [SerializeField] private float jumpForce;
+    [SerializeField] private TextMeshProUGUI scoreText;
     [SerializeField] private PlayerHealth playerHealth;
     [SerializeField] private InvernLogic invernLogic;
     [SerializeField] private PlayerKnockbackLogic playerKnockbackLogic;
@@ -27,7 +26,7 @@ public class PlayerController : MonoBehaviour
     public int score;
 
     // Variables for Inputs : using InputSystem -- Darren B.
-    [SerializeField] private InputAction move, jump, worldSwitch, interact;
+    [SerializeField] private InputAction move, jump, worldSwitch, interact, antiGravityEffectOn, antiGravityEffectOff;
     // Used to save the Vector2 input for movement to flip the sprite, if necessary -- DB
     [SerializeField] private Vector2 moveInput;
     // Saves the jump action this frame for any logic and animations that depend on the property -- DB
@@ -41,18 +40,19 @@ public class PlayerController : MonoBehaviour
     
     
 
-    // Animation controller -- Darren B.
+    // Private Variables
     private Animator animator;
-    // DEPRECATED -- Darren B.
-    //public SpriteRenderer sr;
+    private bool lowGrounded;
+    private bool highGrounded;
+    
 
 
     //Audio Variables
     private AudioSource playerAudio;
-    public AudioClip jumpClip;
-    public AudioClip death;
-    public AudioClip coin;
-    public PlayerShoot playerShoot;
+    [SerializeField] private AudioClip jumpClip;
+    [SerializeField] private AudioClip death;
+    [SerializeField] private AudioClip coin;
+    [SerializeField] private PlayerShoot playerShoot;
     
 
     void Start () 
@@ -63,17 +63,16 @@ public class PlayerController : MonoBehaviour
         jump = InputSystem.actions.FindAction("Jump");
         worldSwitch = InputSystem.actions.FindAction("WorldSwitch");
         interact = InputSystem.actions.FindAction("Interact");
+        antiGravityEffectOn = InputSystem.actions.FindAction("AntiGravityEffectOn");
+        antiGravityEffectOff = InputSystem.actions.FindAction("AntiGravityEffectOff");
 
     }
 
     void FixedUpdate()
     {
-        // Get the current direction the player is facing, in case it has changed for some reason. -- Darren B
-        //scale = rig.transform.localScale;
-
         // Get the inputs this frame -- Darren B.
         moveInput = move.ReadValue<Vector2>();
-        // Debug.Log($"Move Input(s) this frame: (X:{moveInput.x}, Y:{moveInput.y}).");
+        
         jumpInput = jump.IsPressed();
 
         // TEMP FIX
@@ -85,44 +84,13 @@ public class PlayerController : MonoBehaviour
                 //Player Movement Code
                 
                 rig.linearVelocity = new Vector2(moveInput.x * moveSpeed, rig.linearVelocityY);
-
-                // Feeding the animation controller the current Velocity -- Darren B.
-                
-                // Debug.Log("Player movement applied");
             }
-            // Using my rigidBody flipping methodology from last semester. -- Darren B.
-            // Matches X-scale to move input. Flip if needed.
-            // Should be normalized X-velocity, not moveInput, if you want it to go with forward momentum instead. This feels faster.
-            // Condensed -- Darren B.
             if (rig.transform.localScale.x != moveInput.x && moveInput.x != 0)
             {
                 // We may have use for normalizing moveInput outside of this if statement -- Darren B.
                 Vector2 moveNormal = moveInput.normalized;
                 FlipX(moveNormal.x);
             }
-            // if (rig.transform.localScale.x < 0 && moveInput.x > 0)
-            // {
-            //     FlipX(moveInput.x);
-            // } 
-
-            /*
-            // Flips the shooting point, as to match with where the player is facing
-            // Reworked this to point spell origin where the character is facing, based on scale.x
-            // We may not need this any more.
-            // Still need to disconnect the mouse-tracking -- Darren B.
-            playerShoot.FlipShootingPointPosition(rig.transform.localScale.x);
-            */
-
-            // Sprite Direction Pointing Code
-            // Deprecated -- Darren B.
-            // if (rig.linearVelocityX > 0)
-            // {
-            //     sr.flipX = true;
-            // }
-            // else if (rig.linearVelocityX < 0)
-            // {
-            //     sr.flipX = false;
-            // }
         }
     }
 
@@ -138,22 +106,19 @@ public class PlayerController : MonoBehaviour
             playerHealth.KillCharacter();
         }
         
-        // This bit is redundant now -- Darren B.
-        /*
-        else if(playerHealth.IsDead
-        // && !sr.enabled -- DEPRECATED
-        )
-        {
-            return;
-        }
-        */
-
         // Jump Input Handling
-        if (jumpInput && isGrounded)
+        if (jumpInput)
         {
-            isGrounded = false;
-            rig.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-            playerAudio.PlayOneShot(jumpClip);
+            if (lowGrounded)
+            {
+                UpJump();
+            }
+            else if(highGrounded)
+            {
+                DownJump();
+            }
+
+            
         }
 
         // World Switch Input Handling - to add a cooldown, control access to this code block -- Darren B.
@@ -176,15 +141,16 @@ public class PlayerController : MonoBehaviour
             {
                 leverDetectionArea.CurrentLeverEnemy.ToggleLever();
             }
-            // Temporary home for gravity flipping
-            GravityFlip();
         }
-
-        // FOR TESTING PURPOSES!
-        // if (Input.GetKeyDown(KeyCode.E))
-        // {
-        //     switchBetweenMusic.SwitchMusic();
-        // }
+        // Triggers the Gravity on and off effect.
+        if (antiGravityEffectOn.WasPressedThisFrame())
+        {
+            InvernGravity();
+        }
+        else if (antiGravityEffectOff.WasPressedThisFrame())
+        {
+            UnvernGravity();
+        }
 
         // Send updates to the animation controller before leaving Update() -- Darren B.
         // Movement updates for animations - changed xVelocity feeder variable to fix twitching caused by surface contact "vibration" -- Darren B.
@@ -198,12 +164,15 @@ public class PlayerController : MonoBehaviour
             animator.SetFloat("xVelocity", 0);
             animator.SetFloat("yVelocity", rig.linearVelocityY);
         }
+
         // Grounded state for animations
         if (isGrounded) animator.SetBool("isGrounded", true);
         else animator.SetBool("isGrounded", false);
+
         // World state for animations
         if (isVoid) animator.SetBool("isVoid", true);
         else animator.SetBool("isVoid", false);
+
         // Feed animator controller when shooting
         if (playerShoot.shooting) animator.SetBool("isCasting", true);
         else animator.SetBool("isCasting", false);
@@ -215,19 +184,15 @@ public class PlayerController : MonoBehaviour
     {
         if (Vector2.Dot(collision.GetContact(0).normal, Vector2.up) > 0.8f)
         {
-            isGrounded = true;
+            lowGrounded = true;
+            animator.SetBool("lowGrounded", true);
+        }
+        else if (Vector2.Dot(collision.GetContact(0).normal, Vector2.down) > 0.8f)
+        {
+            highGrounded = true;
+            animator.SetBool("highGrounded", true);
         }
     }
-
-    // Needs to be removed from the player
-
-    //GameOver function that reloads the current scene from start
-    // public void GameOver()
-    // {
-       
-    //     //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-
-    // }
 
     public void AddScore(int amount)
     {
@@ -238,31 +203,56 @@ public class PlayerController : MonoBehaviour
 
     // Feed a vector 2 derived from move inputs. Flips the Player (all of the player, including its children).
     // This is the way -- Darren B.
-    public void FlipX(float moveX)
+    private void FlipX(float moveX)
     {
         // First line modified to be more robust when effects like gravity-flipping are applied -- Darren B.
         Vector3 v = new (moveX, rig.transform.localScale.y, rig.transform.localScale.z);
         rig.transform.localScale = v;
-        Debug.Log($"{gameObject.name} Scale of X: {rig.transform.localScale.x}.");
     }
 
-    // Flips the player vertically
-    public void FlipY()
+
+
+
+
+
+
+
+    // Methods for handling the Gravity Flip mechanic
+    // Note from Leijah, the names should be modified, is Inverning the name of the gravity mechanic or the ability to flip between worlds? Are they linked?
+
+    private void UpJump()
     {
-        Vector3 v = new (rig.transform.localScale.x, rig.transform.localScale.y * -1, rig.transform.localScale.z);
-        rig.transform.localScale = v;
+        lowGrounded = false;
+        //animator.SetBool("lowGrounded", false);
+        rig.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+        Debug.Log("Up Jump");
+        
     }
 
-    // Inverts gravity for the player only
-    public void InvertPlayerGravity()
+    private void DownJump()
     {
-        rig.gravityScale *= -1;
+        highGrounded = false;
+        //animator.SetBool("highGrounded", false);
+        rig.AddForce(Vector2.down * jumpForce, ForceMode2D.Impulse);
+        Debug.Log("Down Jump");
     }
 
-    // Handles "Gravity Flip" mechanic
-    public void GravityFlip()
+    private void InvernGravity()
     {
-        InvertPlayerGravity();
-        Invoke(nameof(FlipY), 0.15f);
+        lowGrounded = false;
+       //animator.SetBool("lowGrounded", false);
+        //animator.SetBool("InvernBool", true);
+        rig.gravityScale = -2;
+        Debug.Log("Invern");
     }
+
+    private void UnvernGravity()
+    {
+        highGrounded = false;
+        //animator.SetBool("InvernBool", false);
+        //animator.SetBool("highGrounded", false);
+        rig.gravityScale = 2;
+        Debug.Log("Unvern");
+    }
+
 }

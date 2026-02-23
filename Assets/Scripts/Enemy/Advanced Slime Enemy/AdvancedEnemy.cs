@@ -102,26 +102,27 @@ public class AdvancedEnemy : MonoBehaviour
 
 
 
-        // targetPos.x = player.transform.position.x; // Add a slight offset?
-
-        // if(transform.position.x == targetPos.x)
-        // {
-        //     return;
-        // }
-        // else
-        // {
-        //     transform.position = Vector2.MoveTowards(transform.position, targetPos, moveSpeed * Time.deltaTime);   
-        // }
+      
     }
-    
-    // public void TakeDamage (int damage)
-    // {
-    //     currentHealth -= damage;
-    //     StartCoroutine(FlashBlack());
-    //     if(currentHealth <= 0)
-    //     {
-    //         Die();
-    //     }
-    // }
 
+     private void OnDrawGizmos()
+    {
+        Vector3 from;
+        Vector3 to;
+        if (Application.isPlaying)
+        {
+            from = new Vector3(startPositionX, transform.position.y, 0);
+        }
+        else
+        {
+            from = transform.position;
+        }
+
+        to = new Vector3(from.x + offSetFromStart, transform.position.y, 0);
+
+        Gizmos.color = Color.red;
+        Gizmos.DrawLine(from, to);
+        Gizmos.DrawWireSphere(to, 0.2f);
+        Gizmos.DrawWireSphere(from, 0.2f);
+    }
 }
