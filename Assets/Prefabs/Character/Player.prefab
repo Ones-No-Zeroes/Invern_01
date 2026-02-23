@@ -181,7 +181,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   switchBetweenMusic: {fileID: 3602728341615217736}
   leverDetectionArea: {fileID: 3161636141654340525}
-  isAlive: 0
   moveSpeed: 4.4
   rig: {fileID: 5055555846808655843}
   jumpForce: 14
@@ -222,6 +221,24 @@ MonoBehaviour:
     m_Type: 0
     m_ExpectedControlType: 
     m_Id: 299a3218-8a98-4bc7-8165-f03c621e93c4
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
+  antiGravityEffectOn:
+    m_Name: Anti Gravity Effect On
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: e7866e97-64c0-4364-b8a9-b0b8bd5d70db
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
+  antiGravityEffectOff:
+    m_Name: Anti Gravity Effect Off
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: ffa7686f-1743-44fc-8769-1ceeb4dc2a6b
     m_Processors: 
     m_Interactions: 
     m_SingletonActionBindings: []
