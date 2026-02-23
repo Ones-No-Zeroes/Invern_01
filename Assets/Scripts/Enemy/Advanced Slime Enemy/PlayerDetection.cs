@@ -4,7 +4,7 @@ using UnityEngine;
 public class PlayerDetection : MonoBehaviour
 {
     [Header("Player Detection Attributes")]
-    [SerializeField] private Enemy enemyLogic;
+    [SerializeField] private AdvancedEnemy enemyLogic;
     [SerializeField] private BoxCollider2D boxCollider;
     [SerializeField] private int chaseTimer;
 

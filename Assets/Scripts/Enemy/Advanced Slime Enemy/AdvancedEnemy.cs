@@ -3,7 +3,7 @@ using Unity.Mathematics;
 using Unity.VisualScripting;
 using UnityEngine;
 
-public class Enemy : MonoBehaviour
+public class AdvancedEnemy : MonoBehaviour
 {
     // Serialized Fields 
     [Header("Enemy Movement Attributes")]
