@@ -3,7 +3,7 @@ using UnityEngine;
 public class PlayerSFXManager : MonoBehaviour, IVolumeAdjustable
 {
     //Audio Variables
-    [Header("Music Manager Attributes")]
+    [Header("SFX Manager Attributes")]
     [SerializeField] private AudioClip jumpClip;
     [SerializeField] private AudioClip death;
     [SerializeField] private AudioClip coin;
@@ -18,7 +18,7 @@ public class PlayerSFXManager : MonoBehaviour, IVolumeAdjustable
     void Awake()
     {
         audioSource = GetComponent<AudioSource>();
-        SetVolume(0.0f);
+        SetVolume(0.5f);
     }
 
 

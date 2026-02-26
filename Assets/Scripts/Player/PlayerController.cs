@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {   // Private Fields
-    [SerializeField] private SwitchBetweenMusic switchBetweenMusic; // TESTING PURPOSES, SHOULD BE REMOVED AND IMPROVED!
+    
 
     // Public Fields{
     // Note from Leijah: Remove the public access modifier from as many variables as possible. Also, remove he Camera and the Canvas as a child of the Player. This causes issues

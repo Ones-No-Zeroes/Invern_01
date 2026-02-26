@@ -10,9 +10,13 @@ public class AudioController : MonoBehaviour
     [Header("SFX Attributes")]
     [SerializeField] PlayerSFXManager playerSFXManager;
 
+    [Header("Music Attributes")]
+    [SerializeField] MusicManager musicManager;
+
 
     void Update()
     {
         playerSFXManager.SetVolume(sfxVolumeSlider.value);
+        musicManager.SetVolume(musicVolumeSlider.value);
     }
 }

@@ -14,6 +14,7 @@ public class InvernLogic : MonoBehaviour
     [SerializeField] private Camera cam;
     [SerializeField] private GameObject player;
     [SerializeField] private EnemyInvernLogic enemyInvernLogic;
+    [SerializeField] private MusicManager MusicManager;
     private GameObject[] voidModeObjects;
     private GameObject[] lightModeObjects;
 
@@ -56,6 +57,7 @@ public class InvernLogic : MonoBehaviour
             canSwitch = false;
             worldVoid = false;
             ChangeBackGround();
+            MusicManager.SwitchMusic();
         }
         else // Else for if isInvernActivate is false, enables Invern Mode
         {
@@ -70,6 +72,7 @@ public class InvernLogic : MonoBehaviour
             }
             worldVoid = true;
             ChangeBackGround();
+            MusicManager.SwitchMusic();
         }
         enemyInvernLogic.EnemyWorldState(worldVoid);
         

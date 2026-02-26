@@ -315,6 +315,7 @@ GameObject:
   m_Component:
   - component: {fileID: 775976748}
   - component: {fileID: 775976747}
+  - component: {fileID: 775976749}
   m_Layer: 0
   m_Name: AudioSource_Music
   m_TagString: Untagged
@@ -335,9 +336,9 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -434,6 +435,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &775976749
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 775976746}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1af71a0f1282f645aa55802dff6b919, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MusicManager
+  backgroundMusics:
+  - {fileID: 8300000, guid: 57144f4d7de54494d9dcab28f01a480f, type: 3}
+  - {fileID: 8300000, guid: 351296bce27963f488769a2c09189e7c, type: 3}
 --- !u!1001 &788452898
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -490,7 +506,8 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1031869692}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 6291733420813726075, guid: a0593c682fd1e8642a9b50471dbec693, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -612,7 +629,7 @@ GameObject:
   - component: {fileID: 1404965599}
   - component: {fileID: 1404965601}
   m_Layer: 0
-  m_Name: AudioSource_SFX
+  m_Name: PlayerAudioSource_SFX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -887,6 +904,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8019111708332833822, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
+      propertyPath: musicManager
+      value: 
+      objectReference: {fileID: 775976749}
+    - target: {fileID: 8019111708332833822, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
       propertyPath: playerSFXManager
       value: 
       objectReference: {fileID: 1404965601}
@@ -940,6 +961,10 @@ PrefabInstance:
       propertyPath: invernLogic
       value: 
       objectReference: {fileID: 129408157}
+    - target: {fileID: 2112123169175177007, guid: e9283a744b3cf2e459c22b0fcee3d810, type: 3}
+      propertyPath: switchBetweenMusic
+      value: 
+      objectReference: {fileID: 775976749}
     - target: {fileID: 2112123169175177007, guid: e9283a744b3cf2e459c22b0fcee3d810, type: 3}
       propertyPath: optionsMenuController
       value: 
@@ -1004,7 +1029,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3602728341615217736, guid: e9283a744b3cf2e459c22b0fcee3d810, type: 3}
+    - {fileID: 6276130310261976777, guid: e9283a744b3cf2e459c22b0fcee3d810, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -1080,6 +1107,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1031869692}
+    - target: {fileID: 7239122990975455103, guid: 0932cf925df478741a3940b44860afff, type: 3}
+      propertyPath: MusicManager
+      value: 
+      objectReference: {fileID: 775976749}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
