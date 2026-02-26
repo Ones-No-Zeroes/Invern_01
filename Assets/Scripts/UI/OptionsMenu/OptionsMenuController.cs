@@ -7,7 +7,7 @@ public class OptionsMenuController : MonoBehaviour
     // Serialized Fields
    [Header("Options Menu Submenus")]
    [Header("(The first item must be the FIRST sub menu to be opened)")]
-   [SerializeField] private GameObject[] subOptionMenus;
+    public GameObject[] subOptionMenus;
 
     // Privates Variables
     private InputAction openOptionsMenu;
