@@ -242,6 +242,15 @@ MonoBehaviour:
     m_Interactions: 
     m_SingletonActionBindings: []
     m_Flags: 0
+  openOptionsMenu:
+    m_Name: Open Options Menu
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 53021f25-3195-47ea-aaa3-89b8e895183c
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
   moveInput: {x: 0, y: 0}
   jumpInput: 0
   isGrounded: 0
@@ -250,6 +259,7 @@ MonoBehaviour:
   death: {fileID: 8300000, guid: f91a1e7b8b9759f43912a731120f8f91, type: 3}
   coin: {fileID: 8300000, guid: 771a953623a1ad5448c29d5cd5d50dc5, type: 3}
   playerShoot: {fileID: 3168582877405704370}
+  optionsMenuController: {fileID: 0}
 --- !u!114 &3168582877405704370
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -277,6 +287,7 @@ MonoBehaviour:
     m_Interactions: 
     m_SingletonActionBindings: []
     m_Flags: 0
+  optionsMenuController: {fileID: 0}
 --- !u!114 &7521292947827990527
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -26,7 +26,7 @@ public class PlayerController : MonoBehaviour
     public int score;
 
     // Variables for Inputs : using InputSystem -- Darren B.
-    [SerializeField] private InputAction move, jump, worldSwitch, interact, antiGravityEffectOn, antiGravityEffectOff;
+    [SerializeField] private InputAction move, jump, worldSwitch, interact, antiGravityEffectOn, antiGravityEffectOff, openOptionsMenu;
     // Used to save the Vector2 input for movement to flip the sprite, if necessary -- DB
     [SerializeField] private Vector2 moveInput;
     // Saves the jump action this frame for any logic and animations that depend on the property -- DB
@@ -44,6 +44,8 @@ public class PlayerController : MonoBehaviour
     private Animator animator;
     private bool lowGrounded;
     private bool highGrounded;
+    private bool isOpenOptionsPressed;
+
     
 
 
@@ -53,18 +55,30 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private AudioClip death;
     [SerializeField] private AudioClip coin;
     [SerializeField] private PlayerShoot playerShoot;
+
+    // Options Menu
+    [Header("Options Menu Controller Script")]
+    [SerializeField] private OptionsMenuController optionsMenuController;
     
 
     void Start () 
     { 
+        // Component Searching
         playerAudio = GetComponent<AudioSource>();
         animator = GetComponent<Animator>();
+
+        // Movement and Interaction Context Finding
         move = InputSystem.actions.FindAction("Move");
         jump = InputSystem.actions.FindAction("Jump");
         worldSwitch = InputSystem.actions.FindAction("WorldSwitch");
         interact = InputSystem.actions.FindAction("Interact");
+
+        // Anti-Gravity Context Finding
         antiGravityEffectOn = InputSystem.actions.FindAction("AntiGravityEffectOn");
         antiGravityEffectOff = InputSystem.actions.FindAction("AntiGravityEffectOff");
+
+        // Options Menu Pressed Context Finding
+       
 
     }
 
@@ -72,11 +86,10 @@ public class PlayerController : MonoBehaviour
     {
         // Get the inputs this frame -- Darren B.
         moveInput = move.ReadValue<Vector2>();
-        
         jumpInput = jump.IsPressed();
 
         // TEMP FIX
-        if (!playerHealth.IsDead)
+        if (!playerHealth.IsDead || optionsMenuController.isOptionMenuOpen)
         {
             
             if (!playerKnockbackLogic.IsKnockBackEnabled) // DO NOT APPLY MOVEMENT DURING KNOCKBACK!
@@ -96,7 +109,10 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        
+        if (optionsMenuController.isOptionMenuOpen)
+        {
+            return;
+        }
 
         // Checks to see if the Player is DEAD and if the SpriteRenderer is enabled
         // 

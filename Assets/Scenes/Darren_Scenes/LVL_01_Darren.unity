@@ -211,6 +211,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 833d6bb002a961b47b0904eadf3d5304, type: 3}
+--- !u!114 &31605134 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 234709852868665383, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
+  m_PrefabInstance: {fileID: 1446763801}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f47d9a927dbd8b3448dbc808a019af54, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::OptionsMenuController
 --- !u!114 &129408157 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 7239122990975455103, guid: 0932cf925df478741a3940b44860afff, type: 3}
@@ -493,6 +504,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1420799773}
     m_Modifications:
+    - target: {fileID: 640198270928394375, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 906640120312608901, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2016330646079538562, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
       propertyPath: m_Name
       value: UI_Canvas
@@ -577,13 +596,33 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2738848938981205686, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
+    - target: {fileID: 2544942352905569478, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2730442049392191166, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5939528945620205119, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
       propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7181153172549650162, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
+      propertyPath: m_AnchorMax.y
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8547684783051308529, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8806539667316537418, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8950480823573535968, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -627,6 +666,14 @@ PrefabInstance:
       propertyPath: invernLogic
       value: 
       objectReference: {fileID: 129408157}
+    - target: {fileID: 2112123169175177007, guid: e9283a744b3cf2e459c22b0fcee3d810, type: 3}
+      propertyPath: optionsMenuController
+      value: 
+      objectReference: {fileID: 31605134}
+    - target: {fileID: 3168582877405704370, guid: e9283a744b3cf2e459c22b0fcee3d810, type: 3}
+      propertyPath: optionsMenuController
+      value: 
+      objectReference: {fileID: 31605134}
     - target: {fileID: 6736801212659815133, guid: e9283a744b3cf2e459c22b0fcee3d810, type: 3}
       propertyPath: m_LocalPosition.x
       value: -18.01

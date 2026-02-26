@@ -17,6 +17,9 @@ public class PlayerShoot : MonoBehaviour
     public bool shooting = false;
     [SerializeField] private InputAction shoot;
 
+    [Header("Options Menu Controller Script")]
+    [SerializeField] private OptionsMenuController optionsMenuController;
+
     void Start()
     {
         shoot = InputSystem.actions.FindAction("Attack");
@@ -24,6 +27,9 @@ public class PlayerShoot : MonoBehaviour
 
     void Update()
     {
+        if(optionsMenuController.isOptionMenuOpen)
+            return;
+
         if(shoot.WasPressedThisFrame() && !shooting) //left click & F-key -- DB
         {
             shooting = true;
