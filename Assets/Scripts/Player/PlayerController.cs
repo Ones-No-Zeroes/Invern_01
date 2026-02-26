@@ -46,25 +46,22 @@ public class PlayerController : MonoBehaviour
     private bool highGrounded;
     private bool isOpenOptionsPressed;
 
-    
 
-
-    //Audio Variables
-    private AudioSource playerAudio;
-    [SerializeField] private AudioClip jumpClip;
-    [SerializeField] private AudioClip death;
-    [SerializeField] private AudioClip coin;
     [SerializeField] private PlayerShoot playerShoot;
+
+
 
     // Options Menu
     [Header("Options Menu Controller Script")]
     [SerializeField] private OptionsMenuController optionsMenuController;
+
+    [Header("Audio Managers")]
+    [SerializeField] private PlayerSFXManager sfxManager;
     
 
     void Start () 
     { 
         // Component Searching
-        playerAudio = GetComponent<AudioSource>();
         animator = GetComponent<Animator>();
 
         // Movement and Interaction Context Finding
@@ -118,7 +115,7 @@ public class PlayerController : MonoBehaviour
         // 
         if (playerHealth.IsDead)
         {
-            playerAudio.PlayOneShot(death);
+            sfxManager.PlaySFX(sfxManager.PlayerDeathAudioClip);
             playerHealth.KillCharacter();
         }
         
@@ -212,7 +209,7 @@ public class PlayerController : MonoBehaviour
 
     public void AddScore(int amount)
     {
-        playerAudio.PlayOneShot(coin);
+        sfxManager.PlaySFX(sfxManager.PlayerCoinAudioClip);
         score += amount;
         scoreText.text = "Score: " + score;
     }

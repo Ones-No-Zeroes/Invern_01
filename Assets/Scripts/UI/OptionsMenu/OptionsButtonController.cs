@@ -14,7 +14,7 @@ public class OptionsButtonController : MonoBehaviour
     /// <param name="indexOfSubMenuToToggle">The index of the Sub-Menu you want to enable</param>
     public void ToggleSubSettingMenu(int indexOfSubMenuToToggle)
     {
-        for(int index = 0; index < optionsMenuController.subOptionMenus.Length; index++)
+        for(int index = 0; index <  optionsMenuController.subOptionMenus.Length; index++)
         {
             // If the Index equals the index of the submenu we want to toggle, then enable it.
             if(index == indexOfSubMenuToToggle)
