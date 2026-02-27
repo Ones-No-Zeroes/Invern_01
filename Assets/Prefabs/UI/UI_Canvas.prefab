@@ -123,7 +123,7 @@ RectTransform:
   m_Father: {fileID: 190358136326616939}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -198,7 +198,7 @@ RectTransform:
   m_Father: {fileID: 7428444675137644482}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -2253,7 +2253,7 @@ RectTransform:
   m_Father: {fileID: 8962062161000246922}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -2673,7 +2673,7 @@ RectTransform:
   m_Father: {fileID: 957905654856771573}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -3174,6 +3174,7 @@ MonoBehaviour:
   - {fileID: 8547684783051308529}
   - {fileID: 2730442049392191166}
   - {fileID: 2738848938981205686}
+  audioController: {fileID: 8019111708332833822}
 --- !u!114 &1351014013276492655
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4942,7 +4943,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1989636839529878069
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4980,6 +4981,7 @@ MonoBehaviour:
   sfxVolumeSlider: {fileID: 3507157670612784478}
   musicVolumeSlider: {fileID: 3055903308206455166}
   playerSFXManager: {fileID: 0}
+  musicManager: {fileID: 0}
 --- !u!1 &8845559174376771430
 GameObject:
   m_ObjectHideFlags: 0

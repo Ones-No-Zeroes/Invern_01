@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.UI;
 
 public class OptionsMenuController : MonoBehaviour
 {
@@ -9,6 +10,10 @@ public class OptionsMenuController : MonoBehaviour
    [Header("(The first item must be the FIRST sub menu to be opened)")]
     public GameObject[] subOptionMenus;
 
+
+    [Header("Audio Settings Saving")]
+    [SerializeField] private AudioController audioController;
+   
     // Privates Variables
     private InputAction openOptionsMenu;
 
@@ -46,6 +51,7 @@ public class OptionsMenuController : MonoBehaviour
             }
             isOptionMenuOpen = false;
             Time.timeScale = 1f;
+            JSONSaving.SaveInJSON(audioController.volSettingsPackage);
         }
         else
         {

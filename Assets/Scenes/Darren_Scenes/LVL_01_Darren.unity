@@ -803,14 +803,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1420799773}
     m_Modifications:
-    - target: {fileID: 640198270928394375, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 906640120312608901, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2016330646079538562, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
       propertyPath: m_Name
       value: UI_Canvas
@@ -895,14 +887,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2544942352905569478, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7181153172549650162, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 8019111708332833822, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
       propertyPath: musicManager
       value: 
@@ -911,10 +895,6 @@ PrefabInstance:
       propertyPath: playerSFXManager
       value: 
       objectReference: {fileID: 1404965601}
-    - target: {fileID: 8547684783051308529, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
