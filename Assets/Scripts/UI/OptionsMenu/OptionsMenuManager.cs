@@ -52,6 +52,8 @@ public class OptionsMenuManager : MonoBehaviour
             isOptionMenuOpen = false;
             Time.timeScale = 1f;
             JSONSaving.SaveInJSON(Controller.saveableData, "savedOptionsData.json");
+            object data = JSONLoading.LoadFromJSON("savedOptionsData.json");
+            JSONLoading.ReadData(data);
         }
         else
         {
