@@ -5,27 +5,33 @@ using UnityEngine;
 
 public class JSONLoading
 {
-    public static object LoadFromJSON(string nameOfJSONFile)
+    public static SaveableData LoadFromJSON(string nameOfJSONFile)
     {
         try
         {
             string jsonAsString = File.ReadAllText(Path.Combine(Application.persistentDataPath, nameOfJSONFile));
-            SaveableData objContainingJSONData = JsonUtility.FromJson<SaveableData>(jsonAsString);
-            return objContainingJSONData;
+            SaveableData deserializedJSONFile = JsonUtility.FromJson<SaveableData>(jsonAsString);
+            return deserializedJSONFile;
         }
         catch (System.Exception e)
         {
             Debug.Log($"File exception: {e}");
-            return null;
+
+            SaveableData defaultSaveableData = new SaveableData();
+            defaultSaveableData.musicVolumeAmount = 0.5f;
+            defaultSaveableData.sfxVolumeAmount = 0.5f;
+
+            return defaultSaveableData;
         }
     }
 
-    public static void ReadData(object objectContainingData)
+    public static void SetDataFromJSONFile(SaveableData objectContainingData)
     {
-        FieldInfo[] data = objectContainingData.GetType().GetFields();
-        foreach (FieldInfo field in data)
-        {
-            Debug.Log($"Field Name: {field.Name}... Field Value: {field.GetValue(objectContainingData)}");
-        }
+        Controller.saveableData = objectContainingData;
+    }
+
+    public static void SetDataFromJSONFile(string nameOfJSONFile)
+    {
+        Controller.saveableData = LoadFromJSON(nameOfJSONFile);
     }
 }

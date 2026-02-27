@@ -17,6 +17,7 @@ public class JSONSaving
         try
         {
             string savedVolumeDataAsJSON = JsonUtility.ToJson(dataToSave);
+            Debug.Log("Values saved: " + savedVolumeDataAsJSON);
             File.WriteAllText(Path.Combine(filePath, fileName), savedVolumeDataAsJSON);
         }
         catch(System.Exception e)

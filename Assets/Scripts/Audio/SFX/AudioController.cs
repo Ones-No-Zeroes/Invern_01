@@ -25,6 +25,15 @@ public class AudioController : Controller
         saveableData.sfxVolumeAmount = sfxVolumeSlider.value;
         saveableData.musicVolumeAmount = musicVolumeSlider.value;
     }
+
+    public override void ApplyLoadedValuesFromSavedData()
+    {
+        playerSFXManager.SetVolume(saveableData.sfxVolumeAmount);
+        musicManager.SetVolume(saveableData.musicVolumeAmount);
+
+        sfxVolumeSlider.value = saveableData.sfxVolumeAmount;
+        musicVolumeSlider.value = saveableData.musicVolumeAmount;
+    }
 }
 
 

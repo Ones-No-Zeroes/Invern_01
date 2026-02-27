@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
@@ -24,6 +25,12 @@ public class OptionsMenuManager : MonoBehaviour
     private void Start()
     {
         openOptionsMenu = InputSystem.actions.FindAction("OpenOptions");
+
+        SaveableData dataFromJSONFile = JSONLoading.LoadFromJSON("savedOptionsData.json");
+  
+        JSONLoading.SetDataFromJSONFile(dataFromJSONFile);
+        audioController.ApplyLoadedValuesFromSavedData();
+
     }
 
     void Update()
@@ -52,8 +59,8 @@ public class OptionsMenuManager : MonoBehaviour
             isOptionMenuOpen = false;
             Time.timeScale = 1f;
             JSONSaving.SaveInJSON(Controller.saveableData, "savedOptionsData.json");
-            object data = JSONLoading.LoadFromJSON("savedOptionsData.json");
-            JSONLoading.ReadData(data);
+
+            
         }
         else
         {
