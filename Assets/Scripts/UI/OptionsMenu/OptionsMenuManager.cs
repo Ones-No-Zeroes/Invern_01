@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
-public class OptionsMenuController : MonoBehaviour
+public class OptionsMenuManager : MonoBehaviour
 {
     // Serialized Fields
    [Header("Options Menu Submenus")]
@@ -51,7 +51,7 @@ public class OptionsMenuController : MonoBehaviour
             }
             isOptionMenuOpen = false;
             Time.timeScale = 1f;
-            JSONSaving.SaveInJSON(audioController.volSettingsPackage);
+            JSONSaving.SaveInJSON(Controller.saveableData, "savedOptionsData.json");
         }
         else
         {

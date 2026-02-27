@@ -18,7 +18,7 @@ public class PlayerShoot : MonoBehaviour
     [SerializeField] private InputAction shoot;
 
     [Header("Options Menu Controller Script")]
-    [SerializeField] private OptionsMenuController optionsMenuController;
+    [SerializeField] private OptionsMenuManager optionsMenuController;
 
     void Start()
     {

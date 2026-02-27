@@ -4,7 +4,7 @@ using UnityEngine;
 public class OptionsButtonController : MonoBehaviour
 {   
     [Header("Options Button Attributes")]
-    [SerializeField] private OptionsMenuController optionsMenuController;
+    [SerializeField] private OptionsMenuManager optionsMenuController;
 
     // Public Methods 
 

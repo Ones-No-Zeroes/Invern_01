@@ -1,7 +1,8 @@
+using System;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class AudioController : MonoBehaviour
+public class AudioController : Controller
 {
 
 
@@ -15,24 +16,15 @@ public class AudioController : MonoBehaviour
     [Header("Music Attributes")]
     [SerializeField] MusicManager musicManager;
 
-
-
-    // Public Objects
-    public volumeSettingsPackage volSettingsPackage = new volumeSettingsPackage();
-
-    void Update()
+    protected override void Update()
     {  
         playerSFXManager.SetVolume(sfxVolumeSlider.value);
         musicManager.SetVolume(musicVolumeSlider.value);
         
         // Assignment of values in the volSettingsPackage
-        volSettingsPackage.sfxVolumeAmount = sfxVolumeSlider.value;
-        volSettingsPackage.musicVolumeAmount = musicVolumeSlider.value;
+        saveableData.sfxVolumeAmount = sfxVolumeSlider.value;
+        saveableData.musicVolumeAmount = musicVolumeSlider.value;
     }
 }
 
-public struct volumeSettingsPackage
-{
-    public float sfxVolumeAmount;
-    public float musicVolumeAmount;
-}
+

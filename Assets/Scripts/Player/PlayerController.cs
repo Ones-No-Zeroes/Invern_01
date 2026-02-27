@@ -53,7 +53,7 @@ public class PlayerController : MonoBehaviour
 
     // Options Menu
     [Header("Options Menu Controller Script")]
-    [SerializeField] private OptionsMenuController optionsMenuController;
+    [SerializeField] private OptionsMenuManager optionsMenuController;
 
     [Header("Audio Managers")]
     [SerializeField] private PlayerSFXManager sfxManager;
