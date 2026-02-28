@@ -18,6 +18,7 @@ public class VisualController : Controller
     public override void ApplyLoadedValuesFromSavedData()
     {
         visualEffectsManager.SetValue(saveableData.brightnessAmount);
+        brightnessSlider.value = saveableData.brightnessAmount;
     }
 
 }
