@@ -9,6 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Menus/Menu.unity
     guid: e364f24dabd989d48b41f02cd5f8a4ee
   - enabled: 1
+    path: Assets/Scenes/Chris_Scenes/Level-0.unity
+    guid: 6943ac33b8eeeab4198702a1be3678cf
+  - enabled: 1
+    path: Assets/Scenes/Chris_Scenes/Level-1.unity
+    guid: 4781bdd1dd3777c43b5d3331d22501ad
+  - enabled: 0
     path: Assets/Scenes/Darren_Scenes/LVL_01_Darren.unity
     guid: 86bffff353165da43962a18088e18440
   - enabled: 0
@@ -20,7 +26,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Unused/Level2.unity
     guid: be40543f4b311a84c8980b29bd60e124
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Menus/GameOver.unity
     guid: 5fbc2bd662b14bc4c8a0369af209237f
   m_configObjects:
