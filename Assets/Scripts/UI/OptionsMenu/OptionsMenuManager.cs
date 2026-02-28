@@ -12,8 +12,8 @@ public class OptionsMenuManager : MonoBehaviour
     public GameObject[] subOptionMenus;
 
 
-    [Header("Audio Settings Saving")]
-    [SerializeField] private AudioController audioController;
+    [Header("Options Managers")]
+    [SerializeField] private Controller[] controllersArray;
    
     // Privates Variables
     private InputAction openOptionsMenu;
@@ -29,7 +29,11 @@ public class OptionsMenuManager : MonoBehaviour
         SaveableData dataFromJSONFile = JSONLoading.LoadFromJSON("savedOptionsData.json");
   
         JSONLoading.SetDataFromJSONFile(dataFromJSONFile);
-        audioController.ApplyLoadedValuesFromSavedData();
+
+        foreach(Controller controller in controllersArray)
+        {
+            controller.ApplyLoadedValuesFromSavedData();
+        }
 
     }
 

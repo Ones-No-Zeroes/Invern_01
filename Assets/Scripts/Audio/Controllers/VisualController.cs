@@ -12,11 +12,12 @@ public class VisualController : Controller
     protected override void Update()
     {
         visualEffectsManager.SetValue(brightnessSlider.value);
+        saveableData.brightnessAmount = brightnessSlider.value;
     }
 
     public override void ApplyLoadedValuesFromSavedData()
     {
-
+        visualEffectsManager.SetValue(saveableData.brightnessAmount);
     }
 
 }

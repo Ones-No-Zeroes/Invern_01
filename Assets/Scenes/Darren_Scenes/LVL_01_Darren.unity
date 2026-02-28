@@ -858,6 +858,17 @@ Transform:
   - {fileID: 1259018726}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1428456126 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8019111708332833822, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
+  m_PrefabInstance: {fileID: 1446763801}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83b0fc293279c1b408e55c0060cfb2aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SFXController
 --- !u!1001 &1446763801
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -954,6 +965,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3070696543815573172, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
+      propertyPath: controllersArray.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3070696543815573172, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
+      propertyPath: 'controllersArray.Array.data[0]'
+      value: 
+      objectReference: {fileID: 1428456126}
+    - target: {fileID: 3070696543815573172, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
+      propertyPath: 'controllersArray.Array.data[1]'
+      value: 
+      objectReference: {fileID: 1446763805}
     - target: {fileID: 3141857823300861938, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
       propertyPath: m_Value
       value: 0
