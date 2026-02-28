@@ -25,12 +25,13 @@ public class OptionsMenuManager : MonoBehaviour
     private void Start()
     {
         openOptionsMenu = InputSystem.actions.FindAction("OpenOptions");
-
+        
+        // Loading from a JSON file at start
         SaveableData dataFromJSONFile = JSONLoading.LoadFromJSON("savedOptionsData.json");
-  
         JSONLoading.SetDataFromJSONFile(dataFromJSONFile);
 
-        foreach(Controller controller in controllersArray)
+        // For each Controller, call the ApplyLoadedValuesFromSavedData method
+        foreach(Controller controller in controllersArray) 
         {
             controller.ApplyLoadedValuesFromSavedData();
         }
@@ -53,6 +54,7 @@ public class OptionsMenuManager : MonoBehaviour
     {
         if (isOptionMenuOpen)
         {
+            // Turn off ALL subMenus that make up the Options Menu
             foreach(GameObject subMenu in subOptionMenus)
             {
                 if(!subMenu.activeSelf)
@@ -60,6 +62,8 @@ public class OptionsMenuManager : MonoBehaviour
                 
                 subMenu.SetActive(false);
             }
+            
+            // Puts the timeScale to 1, and save the needed data to a JSON file.
             isOptionMenuOpen = false;
             Time.timeScale = 1f;
             JSONSaving.SaveInJSON(Controller.saveableData, "savedOptionsData.json");
@@ -68,6 +72,7 @@ public class OptionsMenuManager : MonoBehaviour
         }
         else
         {
+            // Opens the Main sub-menu of the Options Menu
             isOptionMenuOpen = true;
             subOptionMenus[0].SetActive(true);
             Time.timeScale = 0f;

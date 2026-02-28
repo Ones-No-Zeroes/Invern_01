@@ -2,5 +2,9 @@ using UnityEngine;
 
 public interface IValueAdjustable
 {
-    void SetValue(float amount);
+    /// <summary>
+    /// Sets the value of something.
+    /// </summary>
+    /// <param name="value"></param>
+    void SetValue(float value);
 }

@@ -11,12 +11,17 @@ public class VisualEffectsManager : MonoBehaviour, IValueAdjustable
 
     // Private fields
     private ColorAdjustments colAdjustment;
-    public void SetValue(float volume)
+
+    /// <summary>
+    /// Sets the value of the postExposure as to bring up or down the brightness
+    /// </summary>
+    /// <param name="volume"></param>
+    public void SetValue(float brightnessAmount)
     {
         bool hasColAdjustment = colorAdjustmentsBrightness.profile.TryGet(out ColorAdjustments colAdjustment);
         if(hasColAdjustment)
         {
-            colAdjustment.postExposure.value = volume;
+            colAdjustment.postExposure.value = brightnessAmount;
         }
         else
         {
