@@ -157,7 +157,7 @@ public class Player : MonoBehaviour
 
     public void Coins100()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(1);
     }
 
  }
