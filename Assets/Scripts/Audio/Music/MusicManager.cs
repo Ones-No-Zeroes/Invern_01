@@ -1,7 +1,7 @@
 using Unity.VisualScripting;
 using UnityEngine;
 
-public class MusicManager : MonoBehaviour, IVolumeAdjustable
+public class MusicManager : MonoBehaviour, IValueAdjustable
 {
     // Enum containing the position in the array for the Lightmode and Darkmode Background Musics.
     private enum BackgroundMusics 
@@ -55,7 +55,7 @@ public class MusicManager : MonoBehaviour, IVolumeAdjustable
         audioSource.time = timeStamps[(int)currentMusicPlaying];
     }
 
-    public void SetVolume(float volume)
+    public void SetValue(float volume)
     {
         audioSource.volume = volume;
     }

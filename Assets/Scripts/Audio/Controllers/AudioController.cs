@@ -18,8 +18,8 @@ public class AudioController : Controller
 
     protected override void Update()
     {  
-        playerSFXManager.SetVolume(sfxVolumeSlider.value);
-        musicManager.SetVolume(musicVolumeSlider.value);
+        playerSFXManager.SetValue(sfxVolumeSlider.value);
+        musicManager.SetValue(musicVolumeSlider.value);
         
         // Assignment of values in the volSettingsPackage
         saveableData.sfxVolumeAmount = sfxVolumeSlider.value;
@@ -28,8 +28,8 @@ public class AudioController : Controller
 
     public override void ApplyLoadedValuesFromSavedData()
     {
-        playerSFXManager.SetVolume(saveableData.sfxVolumeAmount);
-        musicManager.SetVolume(saveableData.musicVolumeAmount);
+        playerSFXManager.SetValue(saveableData.sfxVolumeAmount);
+        musicManager.SetValue(saveableData.musicVolumeAmount);
 
         sfxVolumeSlider.value = saveableData.sfxVolumeAmount;
         musicVolumeSlider.value = saveableData.musicVolumeAmount;

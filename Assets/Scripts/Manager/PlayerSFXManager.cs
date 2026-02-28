@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlayerSFXManager : MonoBehaviour, IVolumeAdjustable
+public class PlayerSFXManager : MonoBehaviour, IValueAdjustable
 {
     //Audio Variables
     [Header("SFX Manager Attributes")]
@@ -18,7 +18,7 @@ public class PlayerSFXManager : MonoBehaviour, IVolumeAdjustable
     void Awake()
     {
         audioSource = GetComponent<AudioSource>();
-        SetVolume(0.5f);
+        SetValue(0.5f);
     }
 
 
@@ -27,7 +27,7 @@ public class PlayerSFXManager : MonoBehaviour, IVolumeAdjustable
         audioSource.PlayOneShot(audio);
     }
 
-    public void SetVolume(float volume)
+    public void SetValue(float volume)
     {
         audioSource.volume = volume;
     }

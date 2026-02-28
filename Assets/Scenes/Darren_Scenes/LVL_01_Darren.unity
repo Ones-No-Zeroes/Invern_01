@@ -221,8 +221,9 @@ GameObject:
   m_Component:
   - component: {fileID: 31231879}
   - component: {fileID: 31231880}
+  - component: {fileID: 31231881}
   m_Layer: 0
-  m_Name: GlobalVolume
+  m_Name: VisualEffectsManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -260,6 +261,19 @@ MonoBehaviour:
   blendDistance: 0
   weight: 1
   sharedProfile: {fileID: 11400000, guid: cc5a28a447cd221469c601505747bfe7, type: 2}
+--- !u!114 &31231881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 31231877}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdcd3f671ddb6984886757b2ed3ffc55, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::VisualEffectsManager
+  colorAdjustmentsBrightness: {fileID: 31231880}
 --- !u!114 &129408157 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 7239122990975455103, guid: 0932cf925df478741a3940b44860afff, type: 3}
@@ -995,7 +1009,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2730442049392191166, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1446763805}
   m_SourcePrefab: {fileID: 100100000, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
 --- !u!224 &1446763802 stripped
 RectTransform:
@@ -1013,6 +1030,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
+--- !u!1 &1446763804 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2730442049392191166, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
+  m_PrefabInstance: {fileID: 1446763801}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1446763805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1446763804}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f75f1e01c9d9204eb36cb64263ff4f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::VisualController
+  brightnessSlider: {fileID: 1446763806}
+  visualEffectsManager: {fileID: 31231881}
+--- !u!114 &1446763806 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3141857823300861938, guid: a3e614652c7e7024fafe8297d5f321e5, type: 3}
+  m_PrefabInstance: {fileID: 1446763801}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Slider
 --- !u!20 &1483872125 stripped
 Camera:
   m_CorrespondingSourceObject: {fileID: 2866725356347016946, guid: e9283a744b3cf2e459c22b0fcee3d810, type: 3}
@@ -1060,7 +1107,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6736801212659815133, guid: e9283a744b3cf2e459c22b0fcee3d810, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.05
+      value: 3.8
       objectReference: {fileID: 0}
     - target: {fileID: 6736801212659815133, guid: e9283a744b3cf2e459c22b0fcee3d810, type: 3}
       propertyPath: m_LocalPosition.z
