@@ -20,7 +20,6 @@ public class MusicManager : MonoBehaviour, IVolumeAdjustable
     {
         audioSource = GetComponent<AudioSource>();
         audioSource.clip = backgroundMusics[(int)BackgroundMusics.LightModeBackgroundMusic];
-        SetVolume(0.5f);
         audioSource.Play();
     }
 
