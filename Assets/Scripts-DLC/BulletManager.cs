@@ -25,6 +25,6 @@ public class BulletManager : MonoBehaviour
 
     void MagicBullet()
     {
-        Instantiate(bullet, new Vector3(45f, 28.465f, 0), bullet.transform.rotation);
+        Instantiate(bullet, new Vector3(54f, 28.465f, 0), bullet.transform.rotation);
     }
 }
