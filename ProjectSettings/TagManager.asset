@@ -15,6 +15,8 @@ TagManager:
   - LeverEnemy
   - Pain
   - Shared
+  - Target
+  - Bullet
   layers:
   - Default
   - TransparentFX

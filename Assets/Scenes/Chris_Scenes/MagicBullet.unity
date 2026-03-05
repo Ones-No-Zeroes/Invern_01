@@ -462,12 +462,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1571453731}
-  - component: {fileID: 1571453732}
   - component: {fileID: 1571453734}
   - component: {fileID: 1571453733}
+  - component: {fileID: 1571453735}
   m_Layer: 0
   m_Name: Target
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -481,27 +481,13 @@ Transform:
   m_GameObject: {fileID: 1571453730}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 66.91, y: 29.84, z: 0}
+  m_LocalPosition: {x: 66.91, y: 28.84, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1384159041}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1571453732
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1571453730}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 81a13baf6ed508549b51795c07e60464, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Enemy
-  moveSpeed: 4.23
-  moveOffset: {x: 0, y: 7.54, z: 0}
 --- !u!61 &1571453733
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -555,11 +541,26 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1571453730}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 932a0863b7560674ca13d1e3ac214851, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DetectCollision
+--- !u!114 &1571453735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1571453730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea7d13a1285b024185047e93e269f8b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LockBoss
+  healthPoints: 3
+  moveSpeed: 4.23
+  moveOffset: {x: 0, y: 0, z: 0}
 --- !u!1 &1578128818
 GameObject:
   m_ObjectHideFlags: 0
