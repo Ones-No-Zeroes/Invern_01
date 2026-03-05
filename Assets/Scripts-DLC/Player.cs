@@ -157,7 +157,7 @@ public class Player : MonoBehaviour
 
     public void Coins100()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(3); //How to make this a field in the investigator? To prevent hard-coding.
     }
 
  }

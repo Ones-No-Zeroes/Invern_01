@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4ae16613ae338bb4fa5d5f24d537fd78
+guid: 43930ad61eac2964c892fe054591c829
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3793112928258974448
-    second: voidSpell-light_0
+      213: 9166441763537233769
+    second: lock-v1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: voidSpell-light_0
+      name: lock-v1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 9
-        height: 9
+        width: 12
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0f261d98c18d3a430800000000000000
-      internalID: 3793112928258974448
+      spriteID: 96721f1d73eb53f70800000000000000
+      internalID: 9166441763537233769
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      voidSpell-light_0: 3793112928258974448
+      lock-v1_0: 9166441763537233769
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
