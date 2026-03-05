@@ -14,6 +14,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Chris_Scenes/Level-1.unity
     guid: 4781bdd1dd3777c43b5d3331d22501ad
+  - enabled: 1
+    path: Assets/Scenes/Chris_Scenes/MagicBullet.unity
+    guid: cd4ddeaa159669e45a794855a9284be0
   - enabled: 0
     path: Assets/Scenes/Darren_Scenes/LVL_01_Darren.unity
     guid: 86bffff353165da43962a18088e18440
