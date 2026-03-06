@@ -23,6 +23,7 @@ public class Player : MonoBehaviour
 
     public AudioSource audioSource;
     public AudioClip jumpClip;
+    public AudioClip coinClip;
 
 
     public void Awake()
@@ -129,6 +130,7 @@ public class Player : MonoBehaviour
         animator.SetBool("highGrounded", false);
         rigid2D.AddForce(Vector2.down * jumpStrength, ForceMode2D.Impulse);
         Debug.Log("Down Jump");
+        audioSource.PlayOneShot(jumpClip);
     }
 
     public void Invern()
@@ -153,6 +155,7 @@ public class Player : MonoBehaviour
     {
         score += amount;
         scoreText.text = "Score: " + score;
+        audioSource.PlayOneShot(coinClip);
     }
 
     public void GameOver()

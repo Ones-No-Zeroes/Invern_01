@@ -8,9 +8,12 @@ public class CoinDLC : MonoBehaviour
 
     private float startYPos;
 
+   
+
     private void Start()
     {
         startYPos = transform.position.y;
+   
     }
 
     private void Update()
@@ -25,6 +28,7 @@ public class CoinDLC : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
+          
             collision.GetComponent<Player>().AddScore(scoreToGive);
             Destroy(this.gameObject);
         }

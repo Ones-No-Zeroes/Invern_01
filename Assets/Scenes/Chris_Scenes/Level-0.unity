@@ -4915,6 +4915,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3272658388227837652, guid: 5fae10bef08f30347a645622d32358b2, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
     - target: {fileID: 3796426436967779394, guid: 5fae10bef08f30347a645622d32358b2, type: 3}
       propertyPath: m_Name
       value: PlayerDLC
@@ -4959,6 +4963,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9074824546972057786, guid: 5fae10bef08f30347a645622d32358b2, type: 3}
+      propertyPath: coinClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 6a06c0f492540df4ab96030fecaf79d7, type: 3}
     - target: {fileID: 9074824546972057786, guid: 5fae10bef08f30347a645622d32358b2, type: 3}
       propertyPath: scoreText
       value: 
