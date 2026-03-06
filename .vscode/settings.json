@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Invern_Working.slnx"
+    "dotnet.defaultSolution": "Invern_01.slnx"
 }
