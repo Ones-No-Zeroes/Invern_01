@@ -265,6 +265,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlayerDLC
       objectReference: {fileID: 0}
+    - target: {fileID: 5632747522819448924, guid: 5fae10bef08f30347a645622d32358b2, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6912947818057532724, guid: 5fae10bef08f30347a645622d32358b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 45.53627
