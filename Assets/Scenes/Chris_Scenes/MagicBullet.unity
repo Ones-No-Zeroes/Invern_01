@@ -577,6 +577,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9074824546972057786, guid: 5fae10bef08f30347a645622d32358b2, type: 3}
+      propertyPath: jumpClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 94dd78da5bd458144889ce92b974dd15, type: 3}
+    - target: {fileID: 9074824546972057786, guid: 5fae10bef08f30347a645622d32358b2, type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 42920665}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -688,8 +696,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LockBoss
   healthPoints: 3
-  moveSpeed: 4.23
-  moveOffset: {x: 0, y: 4.07, z: 0}
+  moveSpeed: 3
+  moveOffset: {x: 0, y: 7.3, z: 0}
 --- !u!1 &1578128818
 GameObject:
   m_ObjectHideFlags: 0

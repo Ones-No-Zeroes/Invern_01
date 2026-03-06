@@ -21,10 +21,14 @@ public class Player : MonoBehaviour
 
     public int score;
 
+    public AudioSource audioSource;
+    public AudioClip jumpClip;
+
 
     public void Awake()
     {
         animator = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     private void Start()
@@ -114,6 +118,7 @@ public class Player : MonoBehaviour
         lowGrounded = false;
         animator.SetBool("lowGrounded", false);
         rigid2D.AddForce(Vector2.up * jumpStrength, ForceMode2D.Impulse);
+        audioSource.PlayOneShot(jumpClip);
         Debug.Log("Up Jump");
         
     }
