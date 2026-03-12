@@ -7,9 +7,7 @@ public class PlayerController : MonoBehaviour
 {   // Private Fields
     
 
-    // Public Fields{
-    // Note from Leijah: Remove the public access modifier from as many variables as possible. Also, remove he Camera and the Canvas as a child of the Player. This causes issues
-    // When trying to Kill the Player (making the player not active). The sound should not come form the Player, but instead from a gameObject dedicated to sound.
+    // Public Fields
     
     // DARREN B. -- we can  kill the player on a delay using the animation controller as a trigger.
     // No need to hard-code or break up the Player prefab
