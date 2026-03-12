@@ -14,7 +14,7 @@ public class PlayerController : MonoBehaviour
     // DARREN B. -- we can  kill the player on a delay using the animation controller as a trigger.
     // No need to hard-code or break up the Player prefab
     [SerializeField] private LeverDetectionArea leverDetectionArea;
-    public float moveSpeed;
+    public float moveSpeed = 4.4f, gravityDefault = 3.75f, gravityInvern = -1.8f;
     [SerializeField] private Rigidbody2D rig;
     [SerializeField] private float jumpForce;
     [SerializeField] private TextMeshProUGUI scoreText;
@@ -106,10 +106,10 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        if (optionsMenuController.isOptionMenuOpen)
-        {
-            return;
-        }
+        // if (optionsMenuController.isOptionMenuOpen)
+        // {
+        //     return;
+        // }
 
         // Checks to see if the Player is DEAD and if the SpriteRenderer is enabled
         // 
@@ -198,11 +198,13 @@ public class PlayerController : MonoBehaviour
         if (Vector2.Dot(collision.GetContact(0).normal, Vector2.up) > 0.8f)
         {
             lowGrounded = true;
+            isGrounded = true;
             animator.SetBool("lowGrounded", true);
         }
         else if (Vector2.Dot(collision.GetContact(0).normal, Vector2.down) > 0.8f)
         {
             highGrounded = true;
+            isGrounded = true;
             animator.SetBool("highGrounded", true);
         }
     }
@@ -236,7 +238,8 @@ public class PlayerController : MonoBehaviour
     private void UpJump()
     {
         lowGrounded = false;
-        //animator.SetBool("lowGrounded", false);
+        isGrounded = false;
+        animator.SetBool("lowGrounded", false);
         rig.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         Debug.Log("Up Jump");
         
@@ -245,7 +248,8 @@ public class PlayerController : MonoBehaviour
     private void DownJump()
     {
         highGrounded = false;
-        //animator.SetBool("highGrounded", false);
+        isGrounded = false;
+        animator.SetBool("highGrounded", false);
         rig.AddForce(Vector2.down * jumpForce, ForceMode2D.Impulse);
         Debug.Log("Down Jump");
     }
@@ -253,18 +257,20 @@ public class PlayerController : MonoBehaviour
     private void InvernGravity()
     {
         lowGrounded = false;
-       //animator.SetBool("lowGrounded", false);
-        //animator.SetBool("InvernBool", true);
-        rig.gravityScale = -2;
+        isGrounded = false;
+        animator.SetBool("lowGrounded", false);
+        animator.SetBool("InvernBool", true);
+        rig.gravityScale = gravityInvern;
         Debug.Log("Invern");
     }
 
     private void UnvernGravity()
     {
         highGrounded = false;
-        //animator.SetBool("InvernBool", false);
-        //animator.SetBool("highGrounded", false);
-        rig.gravityScale = 2;
+        isGrounded = false;
+        animator.SetBool("InvernBool", false);
+        animator.SetBool("highGrounded", false);
+        rig.gravityScale = gravityDefault;
         Debug.Log("Unvern");
     }
 

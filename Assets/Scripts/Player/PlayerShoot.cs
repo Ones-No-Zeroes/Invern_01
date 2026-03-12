@@ -27,8 +27,8 @@ public class PlayerShoot : MonoBehaviour
 
     void Update()
     {
-        if(optionsMenuController.isOptionMenuOpen)
-            return;
+        // if(optionsMenuController.isOptionMenuOpen)
+        //     return;
 
         if(shoot.WasPressedThisFrame() && !shooting) //left click & F-key -- DB
         {
