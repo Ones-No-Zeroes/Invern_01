@@ -9,11 +9,13 @@ public class BossMovement : MonoBehaviour
     [SerializeField] private float moveSpeed;
     [SerializeField] private Rigidbody2D rigidBody;
 
+    [Header("Boss Features Attributes")]
+
     // Private Fields
     private float startPositionX;
     private float endPositionX;
 
-    
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void Awake()
     {

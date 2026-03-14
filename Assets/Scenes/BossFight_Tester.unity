@@ -371,6 +371,7 @@ GameObject:
   - component: {fileID: 643314229}
   - component: {fileID: 643314233}
   - component: {fileID: 643314234}
+  - component: {fileID: 643314235}
   m_Layer: 0
   m_Name: Boss
   m_TagString: Untagged
@@ -433,7 +434,7 @@ Transform:
   m_GameObject: {fileID: 643314228}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.73, y: 4.05, z: 0}
+  m_LocalPosition: {x: -9.9, y: 4.05, z: 0}
   m_LocalScale: {x: 6.2856, y: 6.2856, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -452,7 +453,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d817b525a626bc40b575545dc0633f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BossMovement
-  offSetFromStart: 21.1
+  offSetFromStart: 42
   moveSpeed: 50
   rigidBody: {fileID: 643314234}
 --- !u!50 &643314234
@@ -470,7 +471,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 2
   m_Material: {fileID: 6200000, guid: 9fa7712ab4a48964c8a47a2a8fa15b39, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
@@ -482,6 +483,22 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &643314235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 643314228}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc766fadd174fd14aa8c3a99e5dff007, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BossGravityFlip
+  isGravityOn: 0
+  rb: {fileID: 643314234}
+  GravitySwitchCooldownAmount: 10
+  probabilityOfGravityFlip: 1
 --- !u!1001 &788452898
 PrefabInstance:
   m_ObjectHideFlags: 0
