@@ -403,11 +403,11 @@ GameObject:
   - component: {fileID: 643314233}
   - component: {fileID: 643314234}
   - component: {fileID: 643314235}
-  - component: {fileID: 643314236}
   - component: {fileID: 643314237}
+  - component: {fileID: 643314238}
   m_Layer: 0
   m_Name: Boss
-  m_TagString: Untagged
+  m_TagString: Boss
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -533,21 +533,7 @@ MonoBehaviour:
   isGravityOn: 0
   rb: {fileID: 643314234}
   GravitySwitchCooldownAmount: 10
-  probabilityOfGravityFlip: 0.5
---- !u!114 &643314236
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 643314228}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8af8b31a54fe0c64c9e865d616ea08fc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
-  maxHealth: 5
-  spriteRenderer: {fileID: 572411968}
+  probabilityOfGravityFlip: 0
 --- !u!114 &643314237
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -560,6 +546,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27b7676cd8ceefd438614c32bc58afbc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::JumpOnEnemyHead
+--- !u!114 &643314238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 643314228}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4b483ed0257bc44d9aec0be61bc5954, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BossHealth
+  maxHealth: 5
+  spriteRenderer: {fileID: 572411968}
+  animator: {fileID: 0}
 --- !u!1001 &788452898
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1445,6 +1446,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 849746764498394894, guid: e9283a744b3cf2e459c22b0fcee3d810, type: 3}
+      propertyPath: KnockBackTime
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 2112123169175177007, guid: e9283a744b3cf2e459c22b0fcee3d810, type: 3}
       propertyPath: scoreText
       value: 

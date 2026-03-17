@@ -13,7 +13,7 @@ public class BossGravityFlip : GravityFlip
     private int randomRangeMax = 30; // The max range used in the Random calculation
     void FixedUpdate()
     {
-        randomNum = UnityEngine.Random.Range(0, randomRangeMax + 1); // Grabs a random number between 0 and 30
+        randomNum = Random.Range(0, randomRangeMax + 1); // Grabs a random number between 0 and 30
         if (isGravitySwitchCoolDownFinished)
         {
             // If "randomNum" is greater than / equal to the randomRangeMax times probability, then gravity flip.
@@ -25,7 +25,6 @@ public class BossGravityFlip : GravityFlip
                 StartCoroutine(GravitySwitchCoolDown());
             }
         }
-       
     }
 
     IEnumerator GravitySwitchCoolDown() // Coroutine for causing a cooldown between GravitySwiches

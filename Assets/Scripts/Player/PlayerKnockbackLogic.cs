@@ -27,12 +27,13 @@ public class PlayerKnockbackLogic : MonoBehaviour
         {
             return;
         }
+        
         Debug.Log("EnableKnockBack() is ran");
 
         StopAllCoroutines();
         StartCoroutine(KnockbackTimer());
         
-        rigidBody.linearVelocity = new Vector2(0, rigidBody.linearVelocity.y);
+        rigidBody.linearVelocity = new Vector2(0, 0);
         rigidBody.AddForce(new Vector2(directionOfKnockback * knockBackForce, upwardsKnockBackForce), ForceMode2D.Impulse);
         
 
