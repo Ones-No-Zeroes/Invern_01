@@ -5,6 +5,7 @@ public class BossGravityFlip : GravityFlip
 {   
     [Header("Boss Gravity Flip Attributes")]
     [SerializeField] private float GravitySwitchCooldownAmount;
+    [SerializeField] private BossMovement bossMovement;
     [Range(0, 1)] [SerializeField] private float probabilityOfGravityFlip;
 
     // Private Fields
@@ -13,6 +14,11 @@ public class BossGravityFlip : GravityFlip
     private int randomRangeMax = 30; // The max range used in the Random calculation
     void FixedUpdate()
     {
+        if (!bossMovement.CanBossMove)
+        {
+            return;
+        }
+        
         randomNum = Random.Range(0, randomRangeMax + 1); // Grabs a random number between 0 and 30
         if (isGravitySwitchCoolDownFinished)
         {
@@ -33,5 +39,7 @@ public class BossGravityFlip : GravityFlip
         yield return new WaitForSeconds(GravitySwitchCooldownAmount);
         isGravitySwitchCoolDownFinished = true;
     }
+
+
 
 }

@@ -4,7 +4,7 @@ using UnityEngine;
 public class EnemyHealth : CharacterHealth
 {
     [SerializeField] private SpriteRenderer spriteRenderer;
-    void Update()
+    protected virtual void Update()
     {
         if (IsDead)
         {

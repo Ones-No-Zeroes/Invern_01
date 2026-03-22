@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using Unity.Mathematics;
 using UnityEngine;
 
@@ -9,12 +10,15 @@ public class BossMovement : MonoBehaviour
     [SerializeField] private float offSetFromStart;
     [SerializeField] private float moveSpeed;
     [SerializeField] private Rigidbody2D rigidBody;
-
-    [Header("Boss Features Attributes")]
+    [SerializeField] private Animator animator;
 
     // Private Fields
     private float startPositionX;
     private float endPositionX;
+    private bool canBossMove = true;
+
+    // Public Properties
+    public bool CanBossMove => canBossMove;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -27,7 +31,11 @@ public class BossMovement : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        MoveBoss();
+        if(canBossMove)
+        {
+            MoveBoss();
+        }
+        
     }
 
     
@@ -54,7 +62,6 @@ public class BossMovement : MonoBehaviour
                 {
                     transform.localScale = new Vector3(-transform.localScale.x, transform.localScale.y, transform.localScale.z);
                 }
-                Debug.Log("Moving... 1");
             }
             else
             {
@@ -64,7 +71,6 @@ public class BossMovement : MonoBehaviour
                     transform.localScale = new Vector3(-transform.localScale.x, transform.localScale.y, transform.localScale.z);
                 }
 
-                Debug.Log("Moving... 2");
             }
         }
         else
@@ -80,6 +86,37 @@ public class BossMovement : MonoBehaviour
             
         }
     }
+
+    public void StunBoss()
+    {
+        if (!canBossMove)
+        {
+            return;
+        }
+
+        rigidBody.linearVelocity = Vector3.zero;
+        StartCoroutine(StunBossCoroutine());
+
+    }
+
+    public void StopBossMovement()
+    {
+        if (canBossMove)
+        {
+            canBossMove = false;
+            rigidBody.linearVelocity = Vector3.zero;
+        }
+        
+    }
+    private IEnumerator StunBossCoroutine()
+    {
+        canBossMove = false;
+        animator.SetBool("IsMoving", false);
+        yield return new WaitForSeconds(1f);
+        animator.SetBool("IsMoving", true);
+        canBossMove = true;
+    }
+
      private void OnDrawGizmos()
     {
         Vector3 from;

@@ -268,6 +268,37 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &643314229 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: 5408499433162690770, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
+  m_PrefabInstance: {fileID: 8187215575824224393}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &643314233 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5740670919937361131, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
+  m_PrefabInstance: {fileID: 8187215575824224393}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d817b525a626bc40b575545dc0633f3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BossMovement
+--- !u!50 &643314234 stripped
+Rigidbody2D:
+  m_CorrespondingSourceObject: {fileID: 8554506608512233131, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
+  m_PrefabInstance: {fileID: 8187215575824224393}
+  m_PrefabAsset: {fileID: 0}
+--- !u!61 &643314239 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: 8985179473085914897, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
+  m_PrefabInstance: {fileID: 8187215575824224393}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &643314240 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 2741414207618450031, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
+  m_PrefabInstance: {fileID: 8187215575824224393}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &788452898
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -361,6 +392,11 @@ MonoBehaviour:
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8069946665619956011, guid: e9283a744b3cf2e459c22b0fcee3d810, type: 3}
   m_PrefabInstance: {fileID: 3576008825528532325}
+  m_PrefabAsset: {fileID: 0}
+--- !u!61 &1208495847 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: 4142372177340309791, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
+  m_PrefabInstance: {fileID: 8187215575824224393}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1259018725
 PrefabInstance:
@@ -1401,16 +1437,61 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2741414207618450031, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
-      propertyPath: m_Controller
+    - target: {fileID: 5740670919937361131, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
+      propertyPath: animator
       value: 
-      objectReference: {fileID: 9100000, guid: 6b4c7247843079449973ef9b89cc3f94, type: 2}
+      objectReference: {fileID: 643314240}
+    - target: {fileID: 6162840173666301819, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
+      propertyPath: bossMovement
+      value: 
+      objectReference: {fileID: 643314233}
+    - target: {fileID: 7551048968648186954, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
+      propertyPath: rb
+      value: 
+      objectReference: {fileID: 643314234}
+    - target: {fileID: 7551048968648186954, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
+      propertyPath: bossMovement
+      value: 
+      objectReference: {fileID: 643314233}
+    - target: {fileID: 7551048968648186954, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
+      propertyPath: AllBoxColliders.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7551048968648186954, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
+      propertyPath: 'AllBoxColliders.Array.data[0]'
+      value: 
+      objectReference: {fileID: 643314239}
+    - target: {fileID: 7551048968648186954, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
+      propertyPath: 'AllBoxColliders.Array.data[1]'
+      value: 
+      objectReference: {fileID: 643314229}
+    - target: {fileID: 7551048968648186954, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
+      propertyPath: 'AllBoxColliders.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1208495847}
+    - target: {fileID: 7551048968648186954, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
+      propertyPath: AllBoxCollidersForBoss.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7551048968648186954, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
+      propertyPath: 'AllBoxCollidersForBoss.Array.data[0]'
+      value: 
+      objectReference: {fileID: 643314229}
+    - target: {fileID: 7551048968648186954, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
+      propertyPath: 'AllBoxCollidersForBoss.Array.data[1]'
+      value: 
+      objectReference: {fileID: 643314239}
+    - target: {fileID: 7551048968648186954, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
+      propertyPath: 'AllBoxCollidersForBoss.Array.data[2]'
+      value: 
+      objectReference: {fileID: 1208495847}
     - target: {fileID: 8832390834559005771, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
       propertyPath: m_Name
       value: Spaceman_Boss
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 4221306508585548825, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef5611eb44ad78d439cfeedb06e89f9b, type: 3}
