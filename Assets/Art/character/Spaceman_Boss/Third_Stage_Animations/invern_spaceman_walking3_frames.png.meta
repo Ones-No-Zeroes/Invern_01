@@ -64,7 +64,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -78,7 +78,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -127,37 +127,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: invern_spaceman_walking3_frames_0
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 21
-        width: 11
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6686c8c84450f6940800000000000000
-      internalID: 5291453879157549158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: invern_spaceman_walking3_frames_1
       rect:
         serializedVersion: 2
-        x: 31
+        x: 22
         y: 0
-        width: 33
+        width: 50
         height: 73
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -171,59 +149,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: invern_spaceman_walking3_frames_2
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 21
-        width: 11
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3daadd0527ce2d590800000000000000
-      internalID: -7650792841221920045
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: invern_spaceman_walking3_frames_3
-      rect:
-        serializedVersion: 2
-        x: 118
-        y: 20
-        width: 11
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 928217c0aefb25e30800000000000000
-      internalID: 4490862790393800745
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: invern_spaceman_walking3_frames_4
       rect:
         serializedVersion: 2
-        x: 125
+        x: 120
         y: 0
-        width: 35
-        height: 73
+        width: 48
+        height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -237,59 +171,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: invern_spaceman_walking3_frames_5
-      rect:
-        serializedVersion: 2
-        x: 157
-        y: 20
-        width: 12
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f93b56d8dde3af070800000000000000
-      internalID: 8140888397706539935
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: invern_spaceman_walking3_frames_6
-      rect:
-        serializedVersion: 2
-        x: 212
-        y: 16
-        width: 12
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5ca41d14c58ae9c20800000000000000
-      internalID: 3215192298183805637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: invern_spaceman_walking3_frames_7
       rect:
         serializedVersion: 2
-        x: 218
+        x: 213
         y: 0
-        width: 41
-        height: 73
+        width: 52
+        height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -303,37 +193,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: invern_spaceman_walking3_frames_8
-      rect:
-        serializedVersion: 2
-        x: 254
-        y: 16
-        width: 12
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c08597fc08b4d3550800000000000000
-      internalID: 6142148483411957772
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: invern_spaceman_walking3_frames_9
       rect:
         serializedVersion: 2
-        x: 308
+        x: 309
         y: 0
-        width: 53
-        height: 73
+        width: 51
+        height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -350,7 +218,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 12daed870c73a0845b99dc5c646e6448
     internalID: 0
     vertices: []
     indices: 

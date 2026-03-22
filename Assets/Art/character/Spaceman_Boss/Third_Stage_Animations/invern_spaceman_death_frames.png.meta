@@ -112,7 +112,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -126,7 +126,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -178,12 +178,12 @@ TextureImporter:
       name: invern_spaceman_death_frames_0
       rect:
         serializedVersion: 2
-        x: 22
-        y: 159
-        width: 49
-        height: 74
+        x: 23
+        y: 160
+        width: 52
+        height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -200,12 +200,12 @@ TextureImporter:
       name: invern_spaceman_death_frames_1
       rect:
         serializedVersion: 2
-        x: 121
-        y: 138
-        width: 39
-        height: 88
+        x: 122
+        y: 160
+        width: 46
+        height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -219,59 +219,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: invern_spaceman_death_frames_2
-      rect:
-        serializedVersion: 2
-        x: 141
-        y: 215
-        width: 16
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 90cf23b618c50e460800000000000000
-      internalID: 7268911509495020553
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: invern_spaceman_death_frames_3
-      rect:
-        serializedVersion: 2
-        x: 151
-        y: 222
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2015f3493520e50c0800000000000000
-      internalID: -4585224812623867646
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: invern_spaceman_death_frames_4
       rect:
         serializedVersion: 2
-        x: 217
-        y: 159
-        width: 39
-        height: 69
+        x: 218
+        y: 160
+        width: 46
+        height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -285,301 +241,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: invern_spaceman_death_frames_5
-      rect:
-        serializedVersion: 2
-        x: 225
-        y: 219
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6d833369cd4ff7520800000000000000
-      internalID: 2702147529695508694
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: invern_spaceman_death_frames_6
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 219
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4bed022fe7f4f6040800000000000000
-      internalID: 4643017147488984756
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: invern_spaceman_death_frames_7
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 178
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97cb0129bda01fb80800000000000000
-      internalID: -8362891094885614471
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: invern_spaceman_death_frames_8
-      rect:
-        serializedVersion: 2
-        x: 157
-        y: 171
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1c7c68b1b6f5b2ca0800000000000000
-      internalID: -6040629561559431231
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: invern_spaceman_death_frames_9
-      rect:
-        serializedVersion: 2
-        x: 253
-        y: 171
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d591c495f01408fa0800000000000000
-      internalID: -5800564785874724515
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: invern_spaceman_death_frames_10
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 136
-        width: 12
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 35a7a4f8ef0d05130800000000000000
-      internalID: 3553569897739614803
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: invern_spaceman_death_frames_11
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 141
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3c19e3746bc8a05b0800000000000000
-      internalID: -5401350088570269245
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: invern_spaceman_death_frames_12
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 137
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6f12d58ab5e7a1550800000000000000
-      internalID: 6132352774750151158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: invern_spaceman_death_frames_13
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 142
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 49677afe380b54880800000000000000
-      internalID: -8627295430450383212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: invern_spaceman_death_frames_14
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 130
-        width: 8
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ebb3a31124964a450800000000000000
-      internalID: 6099115527844281278
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: invern_spaceman_death_frames_15
-      rect:
-        serializedVersion: 2
-        x: 25
-        y: 79
-        width: 39
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 602a114b61882dd60800000000000000
-      internalID: 7913537126335095302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: invern_spaceman_death_frames_16
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 131
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 85e1718b3c7c51640800000000000000
-      internalID: 5050162200586952280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: invern_spaceman_death_frames_17
-      rect:
-        serializedVersion: 2
-        x: 61
-        y: 91
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 40a0c91ae18d86350800000000000000
-      internalID: 6010291328797903364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: invern_spaceman_death_frames_18
       rect:
         serializedVersion: 2
-        x: 121
-        y: 79
-        width: 39
-        height: 51
+        x: 122
+        y: 80
+        width: 46
+        height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -593,37 +263,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: invern_spaceman_death_frames_19
-      rect:
-        serializedVersion: 2
-        x: 157
-        y: 91
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a77e81dc36b7a4690800000000000000
-      internalID: -7617140151170832518
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: invern_spaceman_death_frames_20
       rect:
         serializedVersion: 2
-        x: 217
-        y: 79
-        width: 39
-        height: 44
+        x: 218
+        y: 80
+        width: 46
+        height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -637,111 +285,89 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: invern_spaceman_death_frames_21
+      name: invern_spaceman_death_frames_2
       rect:
         serializedVersion: 2
-        x: 253
-        y: 91
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0c976895f9087bda0800000000000000
-      internalID: -5929128962519828032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: invern_spaceman_death_frames_22
-      rect:
-        serializedVersion: 2
-        x: 25
+        x: 26
         y: 0
-        width: 39
-        height: 42
+        width: 46
+        height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c7eb46fd0d38d0400800000000000000
-      internalID: 292034483973308028
+      spriteID: 1b24323e4b1e35c46a20a233041a4c5c
+      internalID: 7268911509495020553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: invern_spaceman_death_frames_23
+      name: invern_spaceman_death_frames_3
       rect:
         serializedVersion: 2
-        x: 61
-        y: 11
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 279e435a06f756400800000000000000
-      internalID: 316799401864784242
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: invern_spaceman_death_frames_24
-      rect:
-        serializedVersion: 2
-        x: 108
+        x: 109
         y: 0
-        width: 51
-        height: 39
+        width: 49
+        height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b11705f2b28ecd8f0800000000000000
-      internalID: -514280985252040421
+      spriteID: f19b9ecdb55074043b9b9d24f81d84e1
+      internalID: -4585224812623867646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: invern_spaceman_death_frames_25
+      name: invern_spaceman_death_frames_5
       rect:
         serializedVersion: 2
-        x: 197
+        x: 198
         y: 0
-        width: 55
-        height: 21
+        width: 53
+        height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 17df450be18496ad0800000000000000
-      internalID: -2708554404242064015
+      spriteID: 2776c19db5fe600419143b0271010963
+      internalID: 2702147529695508694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invern_spaceman_death_frames_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 80
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad346a33a56692d409eaa76b912647d3
+      internalID: 4643017147488984756
       vertices: []
       indices: 
       edges: []
@@ -750,7 +376,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 33a1d3f8cccf2214db8f992b71ae7d60
     internalID: 0
     vertices: []
     indices: 
@@ -758,7 +384,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":13.0,"y":2.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       invern_spaceman_death_frames_0: 7372594145721243027
       invern_spaceman_death_frames_1: -7311242496754115540

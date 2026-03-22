@@ -1,4 +1,5 @@
 using System;
+using Unity.Mathematics;
 using UnityEngine;
 
 public class BossMovement : MonoBehaviour
@@ -26,12 +27,12 @@ public class BossMovement : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        Patrol();
+        MoveBoss();
     }
 
     
 
-    private void Patrol()
+    private void MoveBoss()
     {   
         if(transform.position.x < startPositionX)
         {
@@ -48,10 +49,22 @@ public class BossMovement : MonoBehaviour
             if(endPositionX == startPositionX)
             {
                 rigidBody.linearVelocity = new Vector2((-1 * moveSpeed * 2) * Time.deltaTime, rigidBody.linearVelocity.y); // For some reason it freezes the character if the moveSpeed is above 60?
+                
+                if(math.sign(transform.localScale.x) != 1)
+                {
+                    transform.localScale = new Vector3(-transform.localScale.x, transform.localScale.y, transform.localScale.z);
+                }
+                Debug.Log("Moving... 1");
             }
             else
             {
                 rigidBody.linearVelocity = new Vector2((moveSpeed * 2) * Time.deltaTime, rigidBody.linearVelocity.y);
+                if(math.sign(transform.localScale.x) != -1)
+                {
+                    transform.localScale = new Vector3(-transform.localScale.x, transform.localScale.y, transform.localScale.z);
+                }
+
+                Debug.Log("Moving... 2");
             }
         }
         else
