@@ -20,10 +20,10 @@ public class BasicEnemy : MonoBehaviour
     {
         transform.position = Vector3.MoveTowards(transform.position, targetPos, moveSpeed * Time.deltaTime);
 
-        if (transform.position == targetPos)
+        if (transform.position.x == targetPos.x)
         {
 
-            if (targetPos == startPos)
+            if (targetPos.x == startPos.x)
             {
                 targetPos = startPos + moveOffset;
             }

@@ -9,6 +9,11 @@ public class Bullet : MonoBehaviour
         EnemyHealth enemyHealth = collision.GetComponent<EnemyHealth>();
         if (enemyHealth)
         {
+            if (collision.CompareTag("Boss"))
+            {
+                return;
+            }
+            
             enemyHealth.DamageCharacter(bulletDamage);
         }
     }

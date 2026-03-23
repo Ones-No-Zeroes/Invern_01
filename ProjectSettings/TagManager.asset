@@ -17,6 +17,7 @@ TagManager:
   - Shared
   - Target
   - Bullet
+  - Boss
   layers:
   - Default
   - TransparentFX

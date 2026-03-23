@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 3afec1389afc5ba4a88165c67444f001
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7372594145721243027
+    second: invern_spaceman_death_frames_0
+  - first:
+      213: -7311242496754115540
+    second: invern_spaceman_death_frames_1
+  - first:
+      213: 7268911509495020553
+    second: invern_spaceman_death_frames_2
+  - first:
+      213: -4585224812623867646
+    second: invern_spaceman_death_frames_3
+  - first:
+      213: -5126130550600142704
+    second: invern_spaceman_death_frames_4
+  - first:
+      213: 2702147529695508694
+    second: invern_spaceman_death_frames_5
+  - first:
+      213: 4643017147488984756
+    second: invern_spaceman_death_frames_6
+  - first:
+      213: -8362891094885614471
+    second: invern_spaceman_death_frames_7
+  - first:
+      213: -6040629561559431231
+    second: invern_spaceman_death_frames_8
+  - first:
+      213: -5800564785874724515
+    second: invern_spaceman_death_frames_9
+  - first:
+      213: 3553569897739614803
+    second: invern_spaceman_death_frames_10
+  - first:
+      213: -5401350088570269245
+    second: invern_spaceman_death_frames_11
+  - first:
+      213: 6132352774750151158
+    second: invern_spaceman_death_frames_12
+  - first:
+      213: -8627295430450383212
+    second: invern_spaceman_death_frames_13
+  - first:
+      213: 6099115527844281278
+    second: invern_spaceman_death_frames_14
+  - first:
+      213: 7913537126335095302
+    second: invern_spaceman_death_frames_15
+  - first:
+      213: 5050162200586952280
+    second: invern_spaceman_death_frames_16
+  - first:
+      213: 6010291328797903364
+    second: invern_spaceman_death_frames_17
+  - first:
+      213: -1055519762683266726
+    second: invern_spaceman_death_frames_18
+  - first:
+      213: -7617140151170832518
+    second: invern_spaceman_death_frames_19
+  - first:
+      213: 6488683415230030591
+    second: invern_spaceman_death_frames_20
+  - first:
+      213: -5929128962519828032
+    second: invern_spaceman_death_frames_21
+  - first:
+      213: 292034483973308028
+    second: invern_spaceman_death_frames_22
+  - first:
+      213: 316799401864784242
+    second: invern_spaceman_death_frames_23
+  - first:
+      213: -514280985252040421
+    second: invern_spaceman_death_frames_24
+  - first:
+      213: -2708554404242064015
+    second: invern_spaceman_death_frames_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: invern_spaceman_death_frames_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 160
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395d6d85057b05660800000000000000
+      internalID: 7372594145721243027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invern_spaceman_death_frames_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 160
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c1b329faf398a90800000000000000
+      internalID: -7311242496754115540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invern_spaceman_death_frames_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 160
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09073337c635cd8b0800000000000000
+      internalID: -5126130550600142704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invern_spaceman_death_frames_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 80
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59fbd34e5a0a51f0800000000000000
+      internalID: -1055519762683266726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invern_spaceman_death_frames_20
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 80
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff221c8003f6c0a50800000000000000
+      internalID: 6488683415230030591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invern_spaceman_death_frames_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b24323e4b1e35c46a20a233041a4c5c
+      internalID: 7268911509495020553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invern_spaceman_death_frames_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19b9ecdb55074043b9b9d24f81d84e1
+      internalID: -4585224812623867646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invern_spaceman_death_frames_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2776c19db5fe600419143b0271010963
+      internalID: 2702147529695508694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: invern_spaceman_death_frames_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 80
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad346a33a56692d409eaa76b912647d3
+      internalID: 4643017147488984756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 33a1d3f8cccf2214db8f992b71ae7d60
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":13.0,"y":2.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      invern_spaceman_death_frames_0: 7372594145721243027
+      invern_spaceman_death_frames_1: -7311242496754115540
+      invern_spaceman_death_frames_10: 3553569897739614803
+      invern_spaceman_death_frames_11: -5401350088570269245
+      invern_spaceman_death_frames_12: 6132352774750151158
+      invern_spaceman_death_frames_13: -8627295430450383212
+      invern_spaceman_death_frames_14: 6099115527844281278
+      invern_spaceman_death_frames_15: 7913537126335095302
+      invern_spaceman_death_frames_16: 5050162200586952280
+      invern_spaceman_death_frames_17: 6010291328797903364
+      invern_spaceman_death_frames_18: -1055519762683266726
+      invern_spaceman_death_frames_19: -7617140151170832518
+      invern_spaceman_death_frames_2: 7268911509495020553
+      invern_spaceman_death_frames_20: 6488683415230030591
+      invern_spaceman_death_frames_21: -5929128962519828032
+      invern_spaceman_death_frames_22: 292034483973308028
+      invern_spaceman_death_frames_23: 316799401864784242
+      invern_spaceman_death_frames_24: -514280985252040421
+      invern_spaceman_death_frames_25: -2708554404242064015
+      invern_spaceman_death_frames_3: -4585224812623867646
+      invern_spaceman_death_frames_4: -5126130550600142704
+      invern_spaceman_death_frames_5: 2702147529695508694
+      invern_spaceman_death_frames_6: 4643017147488984756
+      invern_spaceman_death_frames_7: -8362891094885614471
+      invern_spaceman_death_frames_8: -6040629561559431231
+      invern_spaceman_death_frames_9: -5800564785874724515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
