@@ -1,6 +1,7 @@
 using Unity.Mathematics;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 
 public class BossHealth : EnemyHealth
 {
@@ -53,8 +54,8 @@ public class BossHealth : EnemyHealth
         {
             Destroy(box);
         }
-        
 
+        SceneManager.LoadScene(0);
         
     }
 
