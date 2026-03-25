@@ -20,7 +20,7 @@ public class JumpOnEnemyHead : MonoBehaviour
         {
             Vector2 contactNormal = other.contacts[0].normal;
 
-            if(contactNormal.y <= -0.5f) // If it is less than or equal to -0.5, then the contact point was from the top.
+            if(contactNormal.y <= -0.5f || contactNormal.y >= 0.5f) // If it is less than or equal to -0.5, then the contact point was from the top.
             {
                Debug.Log("Hit Boss' Head");
                player.EnableKnockBack(math.sign(player.transform.localScale.x), 10, 20);
