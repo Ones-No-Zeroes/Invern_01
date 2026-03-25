@@ -95,6 +95,20 @@ public class Player : MonoBehaviour
             Coins100();
         }
 
+        //Level Shortcut Logic
+        if (Input.GetKeyDown(KeyCode.Alpha7))
+        {
+            SceneManager.LoadScene(2);
+        }
+        if (Input.GetKeyDown(KeyCode.Alpha8))
+        {
+            SceneManager.LoadScene(3);
+        }
+        if (Input.GetKeyDown(KeyCode.Alpha9))
+        {
+            SceneManager.LoadScene(4);
+        }
+
 
     }
 
