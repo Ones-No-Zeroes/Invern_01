@@ -30,6 +30,9 @@ public class PlayerHealth : CharacterHealth
         healthBarController.SetHealthBarMaxValue(MaxHealth);
         healthBarController.ApplyHealthAmountToHealthBar(CurrentHealth);
     }
+
+ 
+
     /// <summary>
     /// When method is called, checks to if the Player is out of bounds. VARIABLES ARE TEMP!!
     /// </summary>
@@ -73,6 +76,12 @@ public class PlayerHealth : CharacterHealth
         CurrentHealth = MaxHealth;
         healthBarController.ApplyHealthAmountToHealthBar(MaxHealth);
         healthBarController.UnhideHealthBar();
+
+        // Reverts the Gravity Flip
+        if(gameObject.transform.localScale.y == -1)
+        {
+            playerController.ResetGravity();
+        }
     }
 
     IEnumerator DelayBeforeMainMenu()

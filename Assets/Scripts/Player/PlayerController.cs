@@ -1,4 +1,5 @@
 using TMPro;
+using Unity.Mathematics;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -40,10 +41,7 @@ public class PlayerController : MonoBehaviour
 
     // Private Variables
     private Animator animator;
-    private bool lowGrounded;
-    private bool highGrounded;
-    private bool isOpenOptionsPressed;
-
+    private bool isGravityOn = true;
 
     [SerializeField] private PlayerShoot playerShoot;
 
@@ -95,9 +93,7 @@ public class PlayerController : MonoBehaviour
             }
             if (rig.transform.localScale.x != moveInput.x && moveInput.x != 0)
             {
-                // We may have use for normalizing moveInput outside of this if statement -- Darren B.
-                Vector2 moveNormal = moveInput.normalized;
-                FlipX(moveNormal.x);
+                FlipX(-math.sign(moveInput.x));
             }
         }
     }
@@ -109,6 +105,8 @@ public class PlayerController : MonoBehaviour
             return;
         }
 
+        playerHealth.OutOfBoundsDeathChecker(sfxManager.GetComponent<AudioSource>(), sfxManager.PlayerDeathAudioClip);
+
         // Checks to see if the Player is DEAD and if the SpriteRenderer is enabled
         // 
         if (playerHealth.IsDead)
@@ -118,18 +116,9 @@ public class PlayerController : MonoBehaviour
         }
         
         // Jump Input Handling
-        if (jumpInput)
+        if (jumpInput && isGrounded)
         {
-            if (lowGrounded)
-            {
-                UpJump();
-            }
-            else if(highGrounded)
-            {
-                DownJump();
-            }
-
-            
+            Jump();
         }
 
         // World Switch Input Handling - to add a cooldown, control access to this code block -- Darren B.
@@ -154,11 +143,11 @@ public class PlayerController : MonoBehaviour
             }
         }
         // Triggers the Gravity on and off effect.
-        if (antiGravityEffectOn.WasPressedThisFrame())
+        if (antiGravityEffectOn.WasPressedThisFrame() && isGravityOn)
         {
             InvernGravity();
         }
-        else if (antiGravityEffectOff.WasPressedThisFrame())
+        else if (antiGravityEffectOff.WasPressedThisFrame() && !isGravityOn)
         {
             UnvernGravity();
         }
@@ -193,16 +182,10 @@ public class PlayerController : MonoBehaviour
     //Is Character grounded code
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (Vector2.Dot(collision.GetContact(0).normal, Vector2.up) > 0.8f)
+        if(Vector2.Dot(collision.GetContact(0).normal, new Vector2 (0, math.sign(transform.localScale.y))) > 0.8f)
         {
-            lowGrounded = true;
-            animator.SetBool("lowGrounded", true);
-        }
-        else if (Vector2.Dot(collision.GetContact(0).normal, Vector2.down) > 0.8f)
-        {
-            highGrounded = true;
-            animator.SetBool("highGrounded", true);
-        }
+            isGrounded = true;
+        }      
     }
 
     public void AddScore(int amount)
@@ -231,39 +214,44 @@ public class PlayerController : MonoBehaviour
     // Methods for handling the Gravity Flip mechanic
     // Note from Leijah, the names should be modified, is Inverning the name of the gravity mechanic or the ability to flip between worlds? Are they linked?
 
-    private void UpJump()
+    private void Jump()
     {
-        lowGrounded = false;
+
+        isGrounded = false;
         //animator.SetBool("lowGrounded", false);
-        rig.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+        if(gameObject.transform.localScale.y == 1)
+        {
+            rig.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+        }
+        else
+        {
+             rig.AddForce(Vector2.down * jumpForce, ForceMode2D.Impulse);
+        }
+        
         Debug.Log("Up Jump");
         
     }
-
-    private void DownJump()
-    {
-        highGrounded = false;
-        //animator.SetBool("highGrounded", false);
-        rig.AddForce(Vector2.down * jumpForce, ForceMode2D.Impulse);
-        Debug.Log("Down Jump");
-    }
-
+    
     private void InvernGravity()
     {
-        lowGrounded = false;
-       //animator.SetBool("lowGrounded", false);
-        //animator.SetBool("InvernBool", true);
         rig.gravityScale = -2;
+        gameObject.transform.localScale = new (gameObject.transform.localScale.x, -gameObject.transform.localScale.y, gameObject.transform.localScale.z);
+        isGravityOn = false;
         Debug.Log("Invern");
     }
 
     private void UnvernGravity()
     {
-        highGrounded = false;
-        //animator.SetBool("InvernBool", false);
-        //animator.SetBool("highGrounded", false);
         rig.gravityScale = 2;
+        gameObject.transform.localScale = new (gameObject.transform.localScale.x, -gameObject.transform.localScale.y, gameObject.transform.localScale.z);
+        isGravityOn = true;
         Debug.Log("Unvern");
+    }
+
+    public void ResetGravity()
+    {
+        rig.gravityScale = 2;
+        gameObject.transform.localScale = new (gameObject.transform.localScale.x, -gameObject.transform.localScale.y, gameObject.transform.localScale.z);
     }
 
 }

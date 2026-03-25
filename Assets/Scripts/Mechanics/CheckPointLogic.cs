@@ -20,11 +20,7 @@ public class CheckPointLogic : MonoBehaviour
     // MIGHT BE USED IN THE FUTURE!
 
     // Private Fields
-    // private Vector3 playerLocation;
-    // private Vector3 checkPointLocation;
-    // private float interpolationTime = 0f;
-    // private float elapsedTime = 0f;
-    // [SerializeField] private float durationOfTeleportTime = 5f;
+    private bool isMovingPlayer = false;
 
 
     // Public Fields
@@ -47,8 +43,9 @@ public class CheckPointLogic : MonoBehaviour
     /// </summary>
     public void MovePlayerToCheckpoint(float respawnDelay)
     {
-        if (isCheckPointActive)
+        if (isCheckPointActive && !isMovingPlayer)
         {
+            isMovingPlayer = true;
             StartCoroutine(MovePlayer(respawnDelay));
         }
         
@@ -59,8 +56,9 @@ public class CheckPointLogic : MonoBehaviour
     IEnumerator MovePlayer(float respawnDelay)
     {
         yield return new WaitForSeconds(respawnDelay);
-        playerHealth.gameObject.transform.position = gameObject.transform.position;
         playerHealth.RestoreHealthToMax();
+        playerHealth.gameObject.transform.position = new (gameObject.transform.position.x, gameObject.transform.position.y + 0.5f, gameObject.transform.position.z);
+        isMovingPlayer = false;
     }
 
 

@@ -85,7 +85,7 @@ public class InvernLogic : MonoBehaviour
     /// </summary>
     private void InvernStateOnStart()
     {
-        ChangeBackGround();
+        //ChangeBackGround();
         enemyInvernLogic.EnemyWorldState(worldVoid);
         // Game Designer can set if Invern is on at the beginning of the game or not.
         if (worldVoid)
