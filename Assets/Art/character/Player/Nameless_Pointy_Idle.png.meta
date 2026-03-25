@@ -142,15 +142,15 @@ TextureImporter:
         y: 0
         width: 7
         height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70b6ad7bfe0a56444bf317d1741294cf
+      spriteID: 8c9dd37a957b15e49855763d56ab695e
       internalID: 904682391
       vertices: []
       indices: 
@@ -164,15 +164,15 @@ TextureImporter:
         y: 0
         width: 7
         height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0967b691bc4b523478604b5bc0344e94
+      spriteID: 1004ec0ee55643f43a7de8aff42fe552
       internalID: -1150159116
       vertices: []
       indices: 
@@ -186,15 +186,15 @@ TextureImporter:
         y: 0
         width: 7
         height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d6f5b5beb4afe44c9e73230e2274904
+      spriteID: 7af40434b61992846a1f629528721011
       internalID: 1023881156
       vertices: []
       indices: 
@@ -208,15 +208,15 @@ TextureImporter:
         y: 0
         width: 7
         height: 24
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d3c164e302f23f4f8b398fda8839d12
+      spriteID: ac2dad678cfdc66479629eaec986a755
       internalID: -396040923
       vertices: []
       indices: 
@@ -236,7 +236,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":1.0},"gridSpriteSize":{"x":7.0,"y":24.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":1.0},"gridSpriteSize":{"x":7.0,"y":24.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Nameless_Pointy_Idle_0: 1155083645431224730
       Nameless_Pointy_Idle_1: 904682391

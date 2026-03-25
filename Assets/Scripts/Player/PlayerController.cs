@@ -95,7 +95,7 @@ public class PlayerController : MonoBehaviour
             }
             if (rig.transform.localScale.x != moveInput.x && moveInput.x != 0)
             {
-                FlipX(-math.sign(moveInput.x));
+                FlipX(math.sign(moveInput.x));
             }
         }
     }
@@ -138,11 +138,15 @@ public class PlayerController : MonoBehaviour
         {
             isVoid = false;
             invernLogic.InvernWorld();
+            Debug.Log("VOID MODE OFF");
+            animator.SetLayerWeight(1, 0);
         }
         else if (worldSwitch.WasPressedThisFrame() && !isVoid)
         {
             isVoid = true;
             invernLogic.InvernWorld();
+            Debug.Log("VOID MODE");
+            animator.SetLayerWeight(1, 1);
         }
 
         // Temporarily disabled, pending peer review
@@ -188,12 +192,21 @@ public class PlayerController : MonoBehaviour
         else animator.SetBool("isGrounded", false);
 
         // World state for animations
-        if (isVoid) animator.SetBool("isVoid", true);
-        else animator.SetBool("isVoid", false);
+        // if (isVoid) animator.SetBool("isVoid", true);
+        // else animator.SetBool("isVoid", false);
 
         // Feed animator controller when shooting
         if (playerShoot.shooting) animator.SetBool("isCasting", true);
         else animator.SetBool("isCasting", false);
+
+        if (playerKnockbackLogic.IsKnockBackEnabled)
+        {
+            animator.SetBool("isHurt", true);
+        }
+        else
+        {
+            animator.SetBool("isHurt", false);
+        }
         
     }
 
@@ -271,6 +284,7 @@ public class PlayerController : MonoBehaviour
         rig.gravityScale = -2;
         gameObject.transform.localScale = new (gameObject.transform.localScale.x, -gameObject.transform.localScale.y, gameObject.transform.localScale.z);
         isGravityOn = false;
+        isGrounded = false;
         Debug.Log("Invern");
     }
 
@@ -279,6 +293,7 @@ public class PlayerController : MonoBehaviour
         rig.gravityScale = 2;
         gameObject.transform.localScale = new (gameObject.transform.localScale.x, -gameObject.transform.localScale.y, gameObject.transform.localScale.z);
         isGravityOn = true;
+        isGrounded = false;
         Debug.Log("Unvern");
     }
 

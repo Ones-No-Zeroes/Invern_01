@@ -5,6 +5,7 @@ public class PlayerKnockbackLogic : MonoBehaviour
 {
     [SerializeField] private float KnockBackTime = 0;
     [SerializeField] private Rigidbody2D rigidBody; 
+    
     private bool isKnockBackEnabled = false;
 
     // Public Properties

@@ -56,7 +56,7 @@ public class InvernLogic : MonoBehaviour
 
             canSwitch = false;
             worldVoid = false;
-            ChangeBackGround();
+            //ChangeBackGround();
             MusicManager.SwitchMusic();
         }
         else // Else for if isInvernActivate is false, enables Invern Mode
@@ -71,7 +71,7 @@ public class InvernLogic : MonoBehaviour
                 voidObj.SetActive(true);
             }
             worldVoid = true;
-            ChangeBackGround();
+            //ChangeBackGround();
             MusicManager.SwitchMusic();
         }
         enemyInvernLogic.EnemyWorldState(worldVoid);

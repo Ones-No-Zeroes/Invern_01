@@ -314,6 +314,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  animator: {fileID: 8938137279181060246}
 --- !u!114 &849746764498394894
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -400,9 +401,9 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8069946665619956011}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b0d9cfa88210e7c4499828cf5e6b25ee, type: 2}
+  m_Controller: {fileID: 9100000, guid: 9b41465947e454a4fb3171083a93b7d9, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

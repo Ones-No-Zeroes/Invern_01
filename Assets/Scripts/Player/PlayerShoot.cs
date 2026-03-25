@@ -60,7 +60,7 @@ public class PlayerShoot : MonoBehaviour
         GameObject bullet = Instantiate(bulletPrefab, shootingPoint.position, Quaternion.identity);
 
         // Adding velocity on the X axis only.
-        bullet.GetComponent<Rigidbody2D>().linearVelocity = new Vector2(-shootDirection.x, 0) * bulletSpeed;
+        bullet.GetComponent<Rigidbody2D>().linearVelocity = new Vector2(shootDirection.x, 0) * bulletSpeed;
         Destroy(bullet, 2f);
 
     }

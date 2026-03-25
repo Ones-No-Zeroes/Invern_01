@@ -62,9 +62,4 @@ public class CheckPointLogic : MonoBehaviour
     }
 
 
-    // void Awake()
-    // {
-    //     checkPointLocation = transform.position;
-    // }
-
 }
