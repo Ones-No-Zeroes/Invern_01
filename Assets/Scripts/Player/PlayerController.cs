@@ -42,6 +42,7 @@ public class PlayerController : MonoBehaviour
     // Private Variables
     private Animator animator;
     private bool isGravityOn = true;
+    private int amountOfGravityFlips = 2;
 
     [SerializeField] private PlayerShoot playerShoot;
 
@@ -106,7 +107,6 @@ public class PlayerController : MonoBehaviour
         }
 
         playerHealth.OutOfBoundsDeathChecker(sfxManager.GetComponent<AudioSource>(), sfxManager.PlayerDeathAudioClip);
-
         // Checks to see if the Player is DEAD and if the SpriteRenderer is enabled
         // 
         if (playerHealth.IsDead)
@@ -142,16 +142,22 @@ public class PlayerController : MonoBehaviour
                 leverDetectionArea.CurrentLeverEnemy.ToggleLever();
             }
         }
-        // Triggers the Gravity on and off effect.
-        if (antiGravityEffectOn.WasPressedThisFrame() && isGravityOn)
-        {
-            InvernGravity();
-        }
-        else if (antiGravityEffectOff.WasPressedThisFrame() && !isGravityOn)
-        {
-            UnvernGravity();
-        }
 
+        if(amountOfGravityFlips > 0)
+        {
+            // Triggers the Gravity on and off effect.
+            if (antiGravityEffectOn.WasPressedThisFrame() && isGravityOn)
+            {
+                InvernGravity();
+                amountOfGravityFlips -= 1;
+            }
+            else if (antiGravityEffectOff.WasPressedThisFrame() && !isGravityOn)
+            {
+                UnvernGravity();
+                amountOfGravityFlips -= 1;
+            }
+        }
+        
         // Send updates to the animation controller before leaving Update() -- Darren B.
         // Movement updates for animations - changed xVelocity feeder variable to fix twitching caused by surface contact "vibration" -- Darren B.
         if (move != null)
@@ -185,6 +191,7 @@ public class PlayerController : MonoBehaviour
         if(Vector2.Dot(collision.GetContact(0).normal, new Vector2 (0, math.sign(transform.localScale.y))) > 0.8f)
         {
             isGrounded = true;
+            amountOfGravityFlips = 2;
         }      
     }
 
@@ -252,6 +259,8 @@ public class PlayerController : MonoBehaviour
     {
         rig.gravityScale = 2;
         gameObject.transform.localScale = new (gameObject.transform.localScale.x, -gameObject.transform.localScale.y, gameObject.transform.localScale.z);
+        amountOfGravityFlips = 2;
+        isGravityOn = true;
     }
 
 }
