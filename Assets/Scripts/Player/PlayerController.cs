@@ -2,6 +2,7 @@ using TMPro;
 using Unity.Mathematics;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 
 public class PlayerController : MonoBehaviour
@@ -100,7 +101,18 @@ public class PlayerController : MonoBehaviour
     }
 
     void Update()
-    {
+    {   
+        
+        //100 Coins Logic
+        if (score == 100)
+        {
+            Coins100();
+        }
+
+        LevelShortCuts();
+       
+
+
         if (optionsMenuController.isOptionMenuOpen)
         {
             return;
@@ -212,7 +224,22 @@ public class PlayerController : MonoBehaviour
     }
 
 
-
+    private void LevelShortCuts()
+    {
+         //Level Shortcut Logic
+        if (Input.GetKeyDown(KeyCode.Alpha7))
+        {
+            SceneManager.LoadScene(2);
+        }
+        if (Input.GetKeyDown(KeyCode.Alpha8))
+        {
+            SceneManager.LoadScene(3);
+        }
+        if (Input.GetKeyDown(KeyCode.Alpha9))
+        {
+            SceneManager.LoadScene(4);
+        }
+    }
 
 
 
@@ -261,6 +288,11 @@ public class PlayerController : MonoBehaviour
         gameObject.transform.localScale = new (gameObject.transform.localScale.x, -gameObject.transform.localScale.y, gameObject.transform.localScale.z);
         amountOfGravityFlips = 2;
         isGravityOn = true;
+    }
+
+    private void Coins100()
+    {
+        SceneManager.LoadScene(3); //How to make this a field in the investigator? To prevent hard-coding.
     }
 
 }
