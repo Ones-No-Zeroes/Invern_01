@@ -1,9 +1,10 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
-public class LockBoss : MonoBehaviour
+public class SolidZone : MonoBehaviour
 {
-    public int healthPoints = 10;
+
+    [SerializeField] private Color debugColor = Color.white;
+
     public float moveSpeed;
     public Vector3 moveOffset;
     private Vector3 startPos;
@@ -38,6 +39,14 @@ public class LockBoss : MonoBehaviour
 
     private void OnDrawGizmos()
     {
+        Gizmos.color = debugColor;
+        BoxCollider2D box = GetComponent<BoxCollider2D>();
+
+        if (box != null)
+        {
+            Gizmos.DrawCube(transform.position + (Vector3)box.offset, box.size);   
+        }
+
         Vector3 from;
         Vector3 to;
         if (Application.isPlaying)
@@ -56,27 +65,5 @@ public class LockBoss : MonoBehaviour
         Gizmos.DrawWireSphere(to, 0.2f);
         Gizmos.DrawWireSphere(from, 0.2f);
     }
-    public void LoseHP()
-    {
-        healthPoints -= 1;
-        if (healthPoints < 0)
-        {
 
-            BossDefeat();
-        }
-
-    }
-
-    private void BossDefeat()
-    {
-        Debug.Log("Winner!");
-        Destroy(this.gameObject);
-        SceneManager.LoadScene(5);
-    }
-
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        //other.GetComponent<LockBoss>().LoseHP();
-        //Destroy(other.GetComponent<Shoot>());
-    }
 }
