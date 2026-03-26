@@ -253,6 +253,10 @@ public class PlayerController : MonoBehaviour
         {
             SceneManager.LoadScene(4);
         }
+        if (Input.GetKeyDown(KeyCode.Alpha0))
+        {
+            SceneManager.LoadScene(5);
+        }
     }
 
 
