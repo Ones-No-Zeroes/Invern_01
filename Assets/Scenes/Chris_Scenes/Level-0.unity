@@ -3125,15 +3125,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4006561395198539518, guid: 8101bc493c4a9794eb40c83cb1f9a252, type: 3}
       propertyPath: moveSpeed
-      value: 20
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4006561395198539518, guid: 8101bc493c4a9794eb40c83cb1f9a252, type: 3}
       propertyPath: offSetFromStart
-      value: -4.52
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 6958198918147839510, guid: 8101bc493c4a9794eb40c83cb1f9a252, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 23.29
+      value: 18.97
       objectReference: {fileID: 0}
     - target: {fileID: 6958198918147839510, guid: 8101bc493c4a9794eb40c83cb1f9a252, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3246,13 +3246,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 400934493237901920, guid: 0c8a8fbd4f36f38489a8bdec2fbaeeb5, type: 3}
+      propertyPath: damageAmount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1756908779719512896, guid: 0c8a8fbd4f36f38489a8bdec2fbaeeb5, type: 3}
+      propertyPath: m_GravityScale
+      value: -1
+      objectReference: {fileID: 0}
     - target: {fileID: 2113807579371141947, guid: 0c8a8fbd4f36f38489a8bdec2fbaeeb5, type: 3}
       propertyPath: m_Name
       value: BasicSlimeEnemy (1)
       objectReference: {fileID: 0}
     - target: {fileID: 5340593793723724508, guid: 0c8a8fbd4f36f38489a8bdec2fbaeeb5, type: 3}
       propertyPath: moveSpeed
-      value: 20
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5340593793723724508, guid: 0c8a8fbd4f36f38489a8bdec2fbaeeb5, type: 3}
       propertyPath: moveOffset.x
@@ -3317,11 +3325,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4006561395198539518, guid: 8101bc493c4a9794eb40c83cb1f9a252, type: 3}
       propertyPath: moveSpeed
-      value: 20
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4006561395198539518, guid: 8101bc493c4a9794eb40c83cb1f9a252, type: 3}
       propertyPath: offSetFromStart
-      value: 2.8
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6958198918147839510, guid: 8101bc493c4a9794eb40c83cb1f9a252, type: 3}
       propertyPath: m_LocalPosition.x

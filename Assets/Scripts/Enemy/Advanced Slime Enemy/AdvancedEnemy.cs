@@ -99,7 +99,7 @@ public class AdvancedEnemy : MonoBehaviour
         else
         {
             float direction = transform.position.x - endPositionX;
-            rigidBody.linearVelocity = new Vector2(Mathf.Sign(direction) * (moveSpeed * 2), rigidBody.linearVelocity.y);
+            rigidBody.linearVelocity = new Vector2(-Mathf.Sign(direction) * (moveSpeed * 2), rigidBody.linearVelocity.y);
         }
 
 
