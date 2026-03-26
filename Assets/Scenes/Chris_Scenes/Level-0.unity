@@ -6017,10 +6017,6 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6566018870525748711, guid: 47b86c16a2350d341805794d97856912, type: 3}
-      propertyPath: fallWait
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 6566018870525748711, guid: 47b86c16a2350d341805794d97856912, type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}

@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
@@ -13,7 +14,7 @@ public class OptionsMenuManager : MonoBehaviour
 
 
     [Header("Options Managers")]
-    [SerializeField] private Controller[] controllersArray;
+    [SerializeField] private UnityEvent OnGameLoad;
    
     // Privates Variables
     private InputAction openOptionsMenu;
@@ -30,11 +31,7 @@ public class OptionsMenuManager : MonoBehaviour
         SaveableData dataFromJSONFile = JSONLoading.LoadFromJSON("savedOptionsData.json");
         JSONLoading.SetDataFromJSONFile(dataFromJSONFile);
 
-        // For each Controller, call the ApplyLoadedValuesFromSavedData method
-        foreach(Controller controller in controllersArray) 
-        {
-            controller.ApplyLoadedValuesFromSavedData();
-        }
+       OnGameLoad.Invoke(); // Tightly coupled logic with Unity Event
 
     }
 
