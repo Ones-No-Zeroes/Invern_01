@@ -7,14 +7,14 @@ public class AdvancedEnemy : MonoBehaviour
 {
     // Serialized Fields 
     [Header("Enemy Movement Attributes")]
-    [SerializeField] private float offSetFromStart;
+    [SerializeField] private int offSetFromStart;
     [SerializeField] private GameObject player;
     [SerializeField] private float moveSpeed;
     [SerializeField] private Rigidbody2D rigidBody;
 
     // Private Fields
-    private float startPositionX;
-    private float endPositionX;
+    private int startPositionX;
+    private int endPositionX;
 
     // Public Fields
     public bool isPlayerDetected = false; // Will not be a public access modifier
@@ -29,7 +29,7 @@ public class AdvancedEnemy : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void Awake()
     {
-        startPositionX = transform.position.x;
+        startPositionX = (int)transform.position.x;
         endPositionX = startPositionX + offSetFromStart;
     }
 
@@ -60,15 +60,17 @@ public class AdvancedEnemy : MonoBehaviour
         }
         
 
-        if((int)transform.position.x != (int)endPositionX)
+        if((int)transform.position.x != endPositionX)
         {
             if(endPositionX == startPositionX)
             {
-                rigidBody.linearVelocity = new Vector2((-1 * moveSpeed * 2) * Time.deltaTime, rigidBody.linearVelocity.y); // For some reason it freezes the character if the moveSpeed is above 60?
+                rigidBody.linearVelocity = new Vector3(-1 * moveSpeed, rigidBody.linearVelocity.y, 0); // For some reason it freezes the character if the moveSpeed is above 60?
+                Debug.Log("Moving towards Start");
             }
             else
             {
-                rigidBody.linearVelocity = new Vector2((moveSpeed * 2) * Time.deltaTime, rigidBody.linearVelocity.y);
+                rigidBody.linearVelocity = new Vector3(moveSpeed, rigidBody.linearVelocity.y, 0);
+                Debug.Log("Moving towards End");
             }
         }
         else
@@ -88,16 +90,16 @@ public class AdvancedEnemy : MonoBehaviour
     private void MoveTowardsPlayer()
     {
 
-        endPositionX = player.transform.position.x;
+        endPositionX = (int)player.transform.position.x;
 
-        if((int)transform.position.x == (int)endPositionX)
+        if((int)transform.position.x == endPositionX)
         {
             return;
         }
         else
         {
-            float direction = endPositionX - transform.position.x;
-            rigidBody.linearVelocity = new Vector2(Mathf.Sign(direction) * (moveSpeed * 2) * Time.deltaTime, rigidBody.linearVelocity.y);
+            float direction = transform.position.x - endPositionX;
+            rigidBody.linearVelocity = new Vector2(Mathf.Sign(direction) * (moveSpeed * 2), rigidBody.linearVelocity.y);
         }
 
 

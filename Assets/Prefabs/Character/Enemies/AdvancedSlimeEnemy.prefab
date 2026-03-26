@@ -47,7 +47,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyAttack
   horizontalKnockBackForce: 10
   verticalKnockBackForce: 2
-  damageAmount: 5
+  damageAmount: 1
   playerLayer:
     serializedVersion: 2
     m_Bits: 64
@@ -234,9 +234,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fef29f2abcf5f2d469d6a56ac5763687, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AdvancedEnemy
-  offSetFromStart: 0
+  offSetFromStart: 3
   player: {fileID: 8069946665619956011, guid: e9283a744b3cf2e459c22b0fcee3d810, type: 3}
-  moveSpeed: 0
+  moveSpeed: 2
   rigidBody: {fileID: 1756908779719512896}
   isPlayerDetected: 0
 --- !u!1 &4537787986035299511

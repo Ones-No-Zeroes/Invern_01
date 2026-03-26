@@ -11,7 +11,7 @@ public class FallingPlatform : MonoBehaviour
 
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>();    
+        //rb = GetComponent<Rigidbody2D>();    
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -26,7 +26,7 @@ public class FallingPlatform : MonoBehaviour
     {
         isFalling = true;
         yield return new WaitForSeconds(fallWait);
-        rb.bodyType = RigidbodyType2D.Dynamic;
+        //rb.bodyType = RigidbodyType2D.Dynamic;
         Destroy(gameObject, destroyWait);
     }
 
