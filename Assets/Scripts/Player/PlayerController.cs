@@ -112,8 +112,6 @@ public class PlayerController : MonoBehaviour
 
         LevelShortCuts();
        
-
-
         if (optionsMenuController.isOptionMenuOpen)
         {
             return;
@@ -197,8 +195,8 @@ public class PlayerController : MonoBehaviour
         // else animator.SetBool("isVoid", false);
 
         // Feed animator controller when shooting
-        if (playerShoot.shooting) animator.SetBool("isCasting", true);
-        else animator.SetBool("isCasting", false);
+        // if (playerShoot.shooting) animator.SetBool("isCasting", true);
+        // else animator.SetBool("isCasting", false);
 
         if (playerKnockbackLogic.IsKnockBackEnabled)
         {

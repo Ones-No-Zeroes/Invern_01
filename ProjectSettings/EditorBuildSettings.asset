@@ -21,7 +21,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Chris_Scenes/MagicBullet.unity
     guid: cd4ddeaa159669e45a794855a9284be0
   - enabled: 1
-    path: Assets/Scenes/BossFight_Tester.unity
+    path: Assets/Scenes/BossFight.unity
     guid: 31b86b404361c984e9af2a31d50aaff1
   - enabled: 0
     path: Assets/Scenes/Darren_Scenes/LVL_01_Darren.unity
