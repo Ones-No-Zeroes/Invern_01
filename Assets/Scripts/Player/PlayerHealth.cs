@@ -42,7 +42,7 @@ public class PlayerHealth : CharacterHealth
     public void OutOfBoundsDeathChecker(AudioSource playerAudio, AudioClip death)
     {
         //Falling Out of Bounds Game Over Condition
-        if (transform.position.y < -30f || transform.position.y > 73f)
+        if (transform.position.y < -70f || transform.position.y > 140f)
         {
             KillCharacter();
             playerAudio.PlayOneShot(death);

@@ -8705,7 +8705,7 @@ GameObject:
   - component: {fileID: 1205179120}
   m_Layer: 0
   m_Name: Light
-  m_TagString: Light
+  m_TagString: Void
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11005,7 +11005,7 @@ GameObject:
   - component: {fileID: 2052168752}
   m_Layer: 0
   m_Name: Dark
-  m_TagString: Void
+  m_TagString: Light
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
