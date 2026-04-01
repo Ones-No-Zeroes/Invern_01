@@ -88,7 +88,7 @@ public class PlayerHealth : CharacterHealth
     IEnumerator DelayBeforeMainMenu()
     {
         yield return new WaitForSeconds(deathDelay);
-        SceneManager.LoadScene("GameOver");
+        SceneManager.LoadScene("Menu");
     }
     
     

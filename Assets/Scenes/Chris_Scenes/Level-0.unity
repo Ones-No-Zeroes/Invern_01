@@ -277,7 +277,6 @@ GameObject:
   - component: {fileID: 100986375}
   - component: {fileID: 100986374}
   - component: {fileID: 100986373}
-  - component: {fileID: 100986376}
   m_Layer: 0
   m_Name: FallUpPlatformLong
   m_TagString: Untagged
@@ -375,20 +374,6 @@ Transform:
   - {fileID: 1464458077}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &100986376
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 100986372}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d17f4febd413f84abb94f756e92d4d2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FallingPlatform
-  fallWait: 2
-  destroyWait: 1
 --- !u!1001 &145742538
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2933,11 +2918,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4006561395198539518, guid: 8101bc493c4a9794eb40c83cb1f9a252, type: 3}
       propertyPath: offSetFromStart
-      value: -4.52
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 6958198918147839510, guid: 8101bc493c4a9794eb40c83cb1f9a252, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 23.29
+      value: 18.34
       objectReference: {fileID: 0}
     - target: {fileID: 6958198918147839510, guid: 8101bc493c4a9794eb40c83cb1f9a252, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5447,10 +5432,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4972748539676259294, guid: 47b86c16a2350d341805794d97856912, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6566018870525748711, guid: 47b86c16a2350d341805794d97856912, type: 3}
-      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8591543158448725113, guid: 47b86c16a2350d341805794d97856912, type: 3}
