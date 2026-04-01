@@ -105,7 +105,7 @@ public class PlayerController : MonoBehaviour
     {   
         
         //100 Coins Logic
-        if (score == 100)
+        if (score >= 100)
         {
             Coins100();
         }

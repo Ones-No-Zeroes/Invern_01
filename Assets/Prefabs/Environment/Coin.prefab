@@ -46,7 +46,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1a8f9bc89fa8054482f38d9aa20c777, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Coin
-  scoreToGive: 2
+  scoreToGive: 4
   bobHeight: 0.2
   bobSpeed: 5
 --- !u!61 &5987632471537013358
