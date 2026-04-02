@@ -71,7 +71,7 @@ public class LockBoss : MonoBehaviour
     {
         Debug.Log("Winner!");
         Destroy(this.gameObject);
-        SceneManager.LoadScene(4);
+        SceneManager.LoadScene(5);
     }
 
     private void OnTriggerEnter2D(Collider2D other)

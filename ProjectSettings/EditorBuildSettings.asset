@@ -14,7 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Chris_Scenes/Level-1.unity
     guid: 4781bdd1dd3777c43b5d3331d22501ad
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Chris_Scenes/SlimeGetaway.unity
     guid: 5db326cb433a4da4ea97fd490dad63fd
   - enabled: 1

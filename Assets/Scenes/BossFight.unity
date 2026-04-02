@@ -812,11 +812,11 @@ PrefabInstance:
     - target: {fileID: 180960598981203188, guid: b053ac894eaf295499f2dc17171b782e, type: 3}
       propertyPath: 'backgroundMusics.Array.data[0]'
       value: 
-      objectReference: {fileID: 8300000, guid: 81e0f70d66b2e8a43a7af3af3cee9fb6, type: 3}
+      objectReference: {fileID: 8300000, guid: a53d70a01f16b4a40aeaee0ca6ed4526, type: 3}
     - target: {fileID: 180960598981203188, guid: b053ac894eaf295499f2dc17171b782e, type: 3}
       propertyPath: 'backgroundMusics.Array.data[1]'
       value: 
-      objectReference: {fileID: 8300000, guid: 81e0f70d66b2e8a43a7af3af3cee9fb6, type: 3}
+      objectReference: {fileID: 8300000, guid: a53d70a01f16b4a40aeaee0ca6ed4526, type: 3}
     - target: {fileID: 5494728159323702865, guid: b053ac894eaf295499f2dc17171b782e, type: 3}
       propertyPath: m_Name
       value: AudioSource_MusicManager
