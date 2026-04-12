@@ -8,7 +8,6 @@ using UnityEngine.SceneManagement;
 public class PlayerController : MonoBehaviour
 {   // Private Fields
     
-
     // Public Fields
     
     // DARREN B. -- we can  kill the player on a delay using the animation controller as a trigger.
@@ -17,6 +16,7 @@ public class PlayerController : MonoBehaviour
     public float moveSpeed;
     [SerializeField] private Rigidbody2D rig;
     [SerializeField] private float jumpForce;
+    [SerializeField] private float velocityYMagnitudeClamp;
     [SerializeField] private TextMeshProUGUI scoreText;
     [SerializeField] private PlayerHealth playerHealth;
     [SerializeField] private InvernLogic invernLogic;
@@ -72,10 +72,6 @@ public class PlayerController : MonoBehaviour
         // Anti-Gravity Context Finding
         antiGravityEffectOn = InputSystem.actions.FindAction("AntiGravityEffectOn");
         antiGravityEffectOff = InputSystem.actions.FindAction("AntiGravityEffectOff");
-
-        // Options Menu Pressed Context Finding
-       
-
     }
 
     void FixedUpdate()
@@ -84,6 +80,13 @@ public class PlayerController : MonoBehaviour
         moveInput = move.ReadValue<Vector2>();
         jumpInput = jump.IsPressed();
 
+        // Clamps the Velocity along the Y between 3 and -3 when not grounded.
+        if (!isGrounded)
+        {
+            rig.linearVelocityY = Mathf.Clamp(rig.linearVelocityY, -velocityYMagnitudeClamp, velocityYMagnitudeClamp);
+        }
+        
+
         // TEMP FIX
         if (!playerHealth.IsDead || optionsMenuController.isOptionMenuOpen)
         {
@@ -91,7 +94,6 @@ public class PlayerController : MonoBehaviour
             if (!playerKnockbackLogic.IsKnockBackEnabled) // DO NOT APPLY MOVEMENT DURING KNOCKBACK!
             {
                 //Player Movement Code
-                
                 rig.linearVelocity = new Vector2(moveInput.x * moveSpeed, rig.linearVelocityY);
             }
             if (rig.transform.localScale.x != moveInput.x && moveInput.x != 0)
@@ -104,8 +106,9 @@ public class PlayerController : MonoBehaviour
     void Update()
     {   
         
+        
         //100 Coins Logic
-        if (score >= 100)
+        if (score == 100)
         {
             Coins100();
         }

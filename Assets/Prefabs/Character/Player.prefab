@@ -179,6 +179,7 @@ MonoBehaviour:
   moveSpeed: 3
   rig: {fileID: 5055555846808655843}
   jumpForce: 8
+  velocityYMagnitudeClamp: 16
   scoreText: {fileID: 0}
   playerHealth: {fileID: 7521292947827990527}
   invernLogic: {fileID: 0}
