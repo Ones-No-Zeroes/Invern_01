@@ -25,13 +25,19 @@ public class OptionsMenuManager : MonoBehaviour
 
     private void Start()
     {
-        openOptionsMenu = InputSystem.actions.FindAction("OpenOptions");
+        openOptionsMenu = InputSystem.actions.FindAction("OpenOptions"); 
         
         // Loading from a JSON file at start
         SaveableData dataFromJSONFile = JSONLoading.LoadFromJSON("savedOptionsData.json");
         JSONLoading.SetDataFromJSONFile(dataFromJSONFile);
 
-       OnGameLoad.Invoke(); // Tightly coupled logic with Unity Event
+       OnGameLoad.Invoke(); // Removed tightly coupled logic with Unity Event
+
+       // If the Time.timeScale is 0, then make it 1.
+       if(Time.timeScale == 0f)
+        {
+            Time.timeScale = 1f;
+        }
 
     }
 
